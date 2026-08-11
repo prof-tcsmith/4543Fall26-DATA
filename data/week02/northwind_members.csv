@@ -1,0 +1,1219 @@
+member_id,plan,region,monthly_fee_usd,months_active,avg_visits_per_month,support_tickets,churned
+NW11192,Premium,Tampa,89.0,4,9.3,1,0
+NW10971,Premium,Tampa,89.0,16,11.3,0,0
+NW10038,Standard,Tampa,54.0,8,8.2,1,0
+NW10961,Premium,Tampa,89.0,15,8.0,0,0
+NW10935,Basic,St. Petersburg,29.0,16,3.7,2,0
+NW10751,Basic,St. Petersburg,29.0,20,6.4,4,0
+NW10472,Basic,St. Petersburg,29.0,7,12.5,1,0
+NW10447,Standard,St. Petersburg,54.0,7,6.6,2,1
+NW10665,Standard,Clearwater,54.0,27,6.8,0,0
+NW11176,Standard,Brandon,54.0,9,10.0,0,0
+NW10365,Basic,Tampa,29.0,8,8.8,0,0
+NW10411,Standard,Tampa,54.0,3,8.6,1,0
+NW10722,Basic,St. Petersburg,29.0,23,3.5,0,0
+NW10985,Basic,TAMPA,29.0,25,6.8,0,0
+NW10568,Standard,Tampa,54.0,7,8.4,1,0
+NW10763,Premium,Tampa,89.0,13,16.8,0,0
+NW10069,Basic,Clearwater,29.0,8,3.6,1,0
+NW11004,Standard,Clearwater,54.0,6,,0,0
+NW10269,Basic,Clearwater,29.0,11,5.6,1,1
+NW10053,Standard,Clearwater,54.0,15,7.2,1,0
+NW10942,Basic,Clearwater,29.0,21,,0,0
+NW10514,Premium,Clearwater,89.0,15,9.6,1,0
+NW10433,Standard,St. Petersburg,54.0,20,13.4,1,0
+NW10664,Basic,Tampa,29.0,13,5.3,0,0
+NW11101,Premium,St. Petersburg,89.0,29,15.9,0,0
+NW10908,Basic,St. Petersburg,29.0,13,2.1,0,1
+NW10449,Standard,Clearwater,54.0,7,8.5,2,0
+NW10260,Standard,Tampa,54.0,6,11.7,0,0
+NW10333,Standard,Tampa,54.0,31,2.4,2,0
+NW10502,Standard,St. Petersburg,54.0,5,6.9,0,0
+NW11189,Standard,Tampa,54.0,17,7.3,0,0
+NW11015,Standard,Clearwater,54.0,26,11.4,2,0
+NW10060,Basic,BRANDON,29.0,5,,1,0
+NW11129,Standard,Tampa,54.0,2,7.5,2,0
+NW10655,Premium,St. Petersburg,89.0,25,8.3,1,0
+NW10123,Basic,Clearwater,29.0,10,1.3,1,1
+NW10584,Premium,Brandon,89.0,24,15.6,0,0
+NW11060,Basic,St. Petersburg,29.0,17,,2,0
+NW10061,Basic,Tampa,29.0,3,8.8,1,0
+NW10092,Basic,Tampa,29.0,10,3.8,0,0
+NW10856,Basic,Tampa,29.0,3,2.5,0,0
+NW10288,Basic,St. Petersburg,29.0,12,2.2,1,0
+NW10311,Premium,Tampa,89.0,9,12.0,1,0
+NW10352,Premium,Tampa,89.0,14,13.2,1,0
+NW10903,Basic,St. Petersburg,29.0,12,4.4,0,0
+NW10356,Basic,St. Petersburg,29.0,9,6.9,1,1
+NW10031,Standard,Brandon,54.0,7,11.1,0,0
+NW10674,Basic,Clearwater,29.0,5,6.1,1,0
+NW10464,Standard,St. Petersburg,54.0,24,11.7,0,0
+NW10093,Premium,St. Petersburg,89.0,7,8.5,1,0
+NW10539,Basic,St. Petersburg,29.0,6,6.7,1,0
+NW10950,Standard,TAMPA,54.0,18,6.4,1,0
+NW10080,Basic,St. Petersburg,29.0,7,7.2,1,0
+NW10331,Basic,Tampa,29.0,19,3.8,0,0
+NW10363,Basic,Brandon,29.0,9,,1,1
+NW10353,Premium,Clearwater,89.0,12,8.1,3,0
+NW10326,Standard,CLEARWATER,54.0,22,12.8,0,0
+NW10434,Premium,Clearwater,89.0,6,11.4,0,0
+NW10042,Basic,Tampa,29.0,10,7.8,1,0
+NW10672,Basic,St. Petersburg,29.0,8,7.8,1,1
+NW10148,Premium,St. Petersburg,89.0,2,9.8,1,1
+NW10612,Basic,Brandon,29.0,4,2.2,0,0
+NW10077,Basic,St. Petersburg,29.0,14,,0,0
+NW10808,Basic,St. Petersburg,29.0,22,3.9,1,1
+NW10569,Premium,Brandon,89.0,5,12.0,0,0
+NW10645,Standard,BRANDON,54.0,10,9.6,0,0
+NW10201,Standard,Brandon,54.0,18,3.3,2,0
+NW10394,Basic,Clearwater,29.0,8,2.9,0,0
+NW10454,Standard,Tampa,54.0,24,9.1,1,0
+NW10259,Standard,Clearwater,54.0,2,7.4,0,0
+NW11030,Basic,TAMPA,29.0,36,11.6,1,0
+NW10169,Standard,St. Petersburg,54.0,39,3.6,2,0
+NW10294,Standard,Tampa,54.0,13,11.1,1,0
+NW10235,Premium,St. Petersburg,89.0,5,9.4,2,0
+NW10128,Basic,St. Petersburg,29.0,2,11.0,0,0
+NW10806,Standard,Tampa,54.0,13,8.5,2,0
+NW10993,Basic,St. Petersburg,29.0,19,7.6,0,0
+NW10374,Basic,Clearwater,29.0,6,3.1,0,0
+NW10039,Premium,St. Petersburg,89.0,28,,0,0
+NW10239,Premium,St. Petersburg,89.0,16,13.0,0,0
+NW10513,Basic,St. Petersburg,29.0,11,4.0,0,1
+NW10298,Basic,Tampa,29.0,13,5.4,1,0
+NW10300,Standard,St. Petersburg,54.0,28,12.4,0,0
+NW10892,Basic,St. Petersburg,29.0,23,5.2,0,0
+NW10512,Basic,Brandon,29.0,12,9.9,1,0
+NW10925,Premium,Clearwater,89.0,5,8.3,0,0
+NW10605,Basic,St. Petersburg,29.0,15,,0,0
+NW10397,Standard,Clearwater,54.0,11,10.3,1,0
+NW10614,Basic,Tampa,29.0,3,5.7,0,1
+NW11109,Basic,Brandon,29.0,13,4.6,0,0
+NW11116,Premium,Tampa,89.0,10,13.5,1,0
+NW10968,Standard,St. Petersburg,54.0,16,11.3,1,0
+NW10135,Standard,Clearwater,54.0,9,4.1,0,0
+NW10638,Standard,St. Petersburg,54.0,17,6.4,0,1
+NW10430,Standard,St. Petersburg,54.0,5,7.5,2,0
+NW10095,Premium,St. Petersburg,89.0,10,11.6,0,0
+NW10829,Standard,Brandon,54.0,7,5.4,0,0
+NW10220,Standard,Brandon,54.0,8,8.7,0,0
+NW10057,Basic,Clearwater,29.0,6,2.1,1,0
+NW10951,Standard,Clearwater,54.0,13,8.2,1,0
+NW10340,Basic,St. Petersburg,29.0,16,8.3,0,0
+NW10107,Standard,TAMPA,54.0,6,6.4,0,0
+NW11147,Standard,St. Petersburg,54.0,8,,0,0
+NW11194,Basic,Brandon,29.0,6,2.3,0,0
+NW10861,Basic,St. Petersburg,29.0,19,4.3,1,0
+NW11019,Premium,Clearwater,89.0,37,10.2,2,0
+NW10831,Premium,Brandon,89.0,3,10.7,1,0
+NW10083,Basic,Clearwater,29.0,28,1.9,0,0
+NW11033,Basic,Brandon,29.0,21,6.2,0,0
+NW10765,Basic,Tampa,29.0,34,7.9,4,0
+NW10289,Basic,Brandon,29.0,19,5.4,1,0
+NW10002,Standard,St. Petersburg,54.0,32,13.2,2,0
+NW10041,Basic,Tampa,29.0,43,2.5,0,0
+NW10172,Standard,St. Petersburg,54.0,15,11.2,0,0
+NW10086,Basic,St. Petersburg,29.0,13,4.7,1,0
+NW11196,Standard,Clearwater,54.0,5,5.7,1,0
+NW10515,Basic,Clearwater,29.0,10,4.6,0,0
+NW10602,Premium,Tampa,89.0,18,5.1,0,0
+NW10786,Standard,Tampa,54.0,6,6.5,3,0
+NW10104,Standard,St. Petersburg,54.0,18,7.6,0,0
+NW10926,Basic,St. Petersburg,29.0,3,,0,0
+NW11084,Basic,Tampa,29.0,21,,1,0
+NW10755,Basic,Brandon,29.0,11,9.7,0,0
+NW10164,Standard,St. Petersburg,54.0,16,11.3,0,0
+NW10855,Standard,St. Petersburg,54.0,14,8.1,2,1
+NW11135,Basic,Tampa,29.0,25,4.6,1,0
+NW11190,Basic,Tampa,29.0,15,2.6,0,1
+NW11023,Basic,Clearwater,29.0,7,7.5,1,0
+NW10800,Premium,Tampa,89.0,4,7.6,0,0
+NW11171,Basic,St. Petersburg,29.0,5,6.0,2,0
+NW10232,Premium,St. Petersburg,89.0,2,12.6,0,0
+NW10746,Basic,Tampa,29.0,17,6.2,0,0
+NW10427,Basic,Tampa,29.0,22,,0,0
+NW10067,Basic,Tampa,29.0,4,2.1,1,1
+NW10296,Basic,Clearwater,29.0,25,8.5,2,0
+NW10712,Standard,Tampa,54.0,31,6.4,0,0
+NW10292,Basic,Tampa,29.0,11,1.4,1,0
+NW10992,Standard,Tampa,54.0,6,8.1,1,0
+NW10293,Basic,St. Petersburg,29.0,15,0.0,3,1
+NW10750,Basic,Brandon,29.0,11,7.6,0,0
+NW10372,Basic,Tampa,29.0,20,8.6,1,0
+NW11079,Standard,Clearwater,54.0,10,,1,0
+NW10455,Basic,Tampa,29.0,10,2.6,0,0
+NW10177,Premium,Tampa,89.0,11,13.3,0,0
+NW10469,Standard,St. Petersburg,54.0,12,10.9,1,0
+NW10559,Basic,Clearwater,29.0,17,4.0,0,0
+NW11167,Standard,Clearwater,54.0,22,5.9,0,0
+NW10237,Standard,Tampa,54.0,11,11.6,1,0
+NW10952,Basic,Brandon,29.0,16,1.3,0,0
+NW11146,Premium,St. Petersburg,89.0,2,7.9,1,0
+NW10852,Basic,Tampa,29.0,8,6.7,0,0
+NW10255,Basic,Tampa,29.0,11,9.8,1,0
+NW10271,Standard,Tampa,54.0,7,,0,0
+NW11197,Basic,Tampa,29.0,6,6.3,1,0
+NW10194,Basic,Brandon,29.0,9,8.4,2,1
+NW10607,Standard,Clearwater,54.0,3,,1,0
+NW10713,Standard,Tampa,54.0,22,5.2,0,0
+NW10773,Basic,Tampa,29.0,19,11.3,0,0
+NW10309,Basic,Clearwater,29.0,20,5.6,1,0
+NW10315,Standard,Clearwater,54.0,3,6.2,3,0
+NW10670,Basic,Tampa,29.0,4,6.3,2,0
+NW10941,Standard,Tampa,54.0,10,6.7,1,0
+NW10857,Basic,Brandon,29.0,15,4.6,0,0
+NW10403,Basic,Clearwater,29.0,18,2.1,1,0
+NW10279,Standard,St. Petersburg,54.0,29,9.1,1,0
+NW11130,Premium,Tampa,89.0,3,10.0,1,0
+NW11121,Basic,St. Petersburg,29.0,27,6.3,1,0
+NW11011,Basic,Tampa,29.0,9,4.4,1,0
+NW11009,Standard,St. Petersburg,54.0,16,,0,0
+NW10217,Basic,Clearwater,29.0,6,8.9,1,0
+NW10378,Standard,Brandon,54.0,8,9.3,0,0
+NW10082,Basic,St. Petersburg,29.0,7,7.5,1,0
+NW10577,Basic,Clearwater,29.0,1,3.6,0,0
+NW10870,Basic,Clearwater,29.0,13,10.9,1,0
+NW10390,Basic,Clearwater,29.0,8,7.1,1,0
+NW10431,Basic,Clearwater,29.0,17,,2,0
+NW10839,Premium,Tampa,89.0,18,8.9,3,0
+NW10828,Basic,St. Petersburg,29.0,11,2.8,0,0
+NW10437,Premium,St. Petersburg,89.0,5,11.7,1,0
+NW10633,Basic,Clearwater,29.0,16,10.5,1,0
+NW11002,Standard,St. Petersburg,54.0,6,7.8,3,0
+NW10846,Standard,Tampa,54.0,35,6.6,2,0
+NW10558,Standard,Clearwater,54.0,16,6.8,0,0
+NW10681,Premium,Tampa,89.0,8,12.7,0,0
+NW10796,Standard,St. Petersburg,54.0,33,12.1,0,0
+NW10794,Standard,St. Petersburg,54.0,18,12.4,1,0
+NW10754,Standard,St. Petersburg,54.0,5,4.8,0,0
+NW10214,Standard,Clearwater,54.0,7,4.1,2,0
+NW10797,Basic,Tampa,29.0,12,3.5,2,0
+NW10183,Basic,Tampa,29.0,15,5.0,0,0
+NW10563,Standard,Clearwater,54.0,4,7.3,0,1
+NW11186,Basic,Clearwater,29.0,17,4.9,1,0
+NW10046,Standard,Tampa,54.0,19,5.2,0,0
+NW10025,Premium,Tampa,89.0,13,9.4,0,0
+NW11164,Standard,Brandon,54.0,26,6.5,1,0
+NW10530,Basic,Clearwater,29.0,16,4.5,0,0
+NW10814,Premium,Tampa,89.0,17,9.5,1,0
+NW10714,Basic,St. Petersburg,29.0,9,2.8,1,0
+NW10026,Standard,Tampa,54.0,3,8.8,1,0
+NW10022,Basic,St. Petersburg,29.0,18,3.9,0,0
+NW11112,Standard,Tampa,54.0,5,,1,0
+NW11132,Basic,Brandon,29.0,22,2.2,0,0
+NW10371,Basic,Tampa,29.0,17,10.0,2,0
+NW10316,Standard,Clearwater,54.0,14,12.3,2,0
+NW10911,Basic,Tampa,29.0,5,9.9,0,0
+NW10121,Premium,Clearwater,89.0,9,10.6,2,0
+NW10832,Standard,St. Petersburg,54.0,15,5.9,1,0
+NW10482,Basic,St. Petersburg,29.0,26,4.5,0,0
+NW11159,Standard,ST. PETERSBURG,54.0,24,11.1,0,0
+NW10790,Premium,Tampa,89.0,13,3.5,0,0
+NW10593,Basic,Tampa,29.0,17,9.0,0,0
+NW10826,Premium,Clearwater,89.0,18,11.5,0,0
+NW10189,Basic,Clearwater,29.0,14,2.2,1,0
+NW11022,Basic,TAMPA,29.0,25,9.2,1,0
+NW10170,Premium,St. Petersburg,89.0,25,14.7,0,0
+NW10154,Standard,Tampa,54.0,26,7.9,1,0
+NW10967,Standard,St. Petersburg,54.0,7,,0,0
+NW10176,Premium,Tampa,89.0,3,8.1,2,0
+NW10375,Basic,Clearwater,29.0,34,2.8,1,0
+NW10361,Standard,Tampa,54.0,33,12.2,1,0
+NW11081,Standard,Tampa,54.0,7,3.6,0,0
+NW10604,Premium,Clearwater,89.0,7,9.5,2,0
+NW10815,Basic,St. Petersburg,29.0,5,4.4,1,0
+NW11195,Basic,Brandon,29.0,4,8.4,1,0
+NW11120,Basic,Brandon,29.0,6,6.4,0,0
+NW11100,Basic,Tampa,29.0,9,3.1,1,1
+NW10730,Basic,Clearwater,29.0,3,2.0,0,1
+NW10328,Standard,Clearwater,54.0,6,5.5,1,0
+NW10280,Standard,Tampa,54.0,18,9.5,0,0
+NW10781,Basic,Tampa,29.0,10,7.7,1,0
+NW10732,Standard,Tampa,54.0,23,10.0,0,0
+NW10807,Standard,Tampa,54.0,24,10.8,1,0
+NW11118,Basic,Tampa,29.0,25,4.4,0,0
+NW10470,Standard,Tampa,54.0,9,5.3,1,1
+NW10317,Standard,Tampa,54.0,10,8.8,2,0
+NW10982,Basic,Tampa,29.0,3,7.6,0,0
+NW10592,Standard,Clearwater,54.0,6,,2,0
+NW10990,Basic,Tampa,29.0,24,3.7,0,0
+NW10933,Premium,CLEARWATER,89.0,4,12.0,0,0
+NW10066,Standard,St. Petersburg,54.0,6,8.9,0,0
+NW10626,Basic,Tampa,29.0,11,7.4,0,0
+NW10181,Standard,Tampa,54.0,13,10.5,4,0
+NW10995,Basic,St. Petersburg,29.0,20,11.7,0,1
+NW10725,Standard,St. Petersburg,54.0,9,10.9,2,0
+NW10919,Standard,Brandon,54.0,3,3.8,0,0
+NW10272,Basic,Clearwater,29.0,24,4.0,1,0
+NW10764,Basic,Tampa,29.0,21,8.6,1,0
+NW10938,Standard,St. Petersburg,54.0,6,5.8,1,0
+NW10267,Standard,St. Petersburg,54.0,11,,1,0
+NW10696,Basic,Tampa,29.0,10,13.6,2,0
+NW11017,Standard,Brandon,54.0,4,4.6,0,0
+NW10928,Standard,Tampa,54.0,8,4.4,0,0
+NW10964,Basic,Tampa,29.0,7,4.4,1,0
+NW10044,Basic,Brandon,29.0,7,9.0,0,0
+NW10243,Premium,Clearwater,89.0,9,9.6,2,0
+NW10079,Standard,Clearwater,54.0,7,8.2,0,0
+NW10616,Standard,Clearwater,54.0,2,3.9,0,0
+NW10658,Standard,Tampa,54.0,7,7.5,1,0
+NW10117,Standard,Tampa,54.0,5,9.1,0,0
+NW10946,Basic,Tampa,29.0,8,2.2,0,0
+NW10884,Premium,Tampa,89.0,7,4.2,0,0
+NW10974,Basic,St. Petersburg,29.0,19,5.2,1,0
+NW10654,Standard,Brandon,54.0,5,7.2,0,0
+NW11122,Basic,Tampa,29.0,6,12.7,0,0
+NW10056,Basic,St. Petersburg,29.0,12,4.8,1,0
+NW10635,Basic,Clearwater,29.0,12,10.8,2,0
+NW10461,Basic,Clearwater,29.0,7,6.7,0,0
+NW11158,Standard,Brandon,54.0,10,,1,0
+NW10179,Premium,Tampa,89.0,4,11.5,2,0
+NW10036,Basic,Brandon,29.0,5,7.3,3,1
+NW10851,Standard,Tampa,54.0,27,12.2,0,0
+NW10835,Premium,Tampa,89.0,11,14.3,0,0
+NW10536,Basic,Brandon,29.0,20,3.1,0,0
+NW10887,Basic,St. Petersburg,29.0,12,7.7,0,0
+NW11052,Basic,Tampa,29.0,14,1.9,1,0
+NW10105,Premium,Brandon,89.0,13,13.7,1,0
+NW10915,Basic,Brandon,29.0,5,3.9,1,0
+NW10562,Premium,Clearwater,89.0,19,11.8,0,0
+NW10702,Standard,St. Petersburg,54.0,5,7.9,0,0
+NW10837,Basic,St. Petersburg,29.0,26,10.6,0,0
+NW11163,Standard,Tampa,54.0,21,10.9,1,0
+NW10821,Basic,St. Petersburg,29.0,11,8.2,1,0
+NW11117,Basic,Tampa,29.0,6,7.6,0,0
+NW11177,Basic,Clearwater,29.0,19,,0,0
+NW10599,Basic,St. Petersburg,29.0,5,2.5,1,0
+NW10040,Standard,Tampa,54.0,37,11.2,0,0
+NW10550,Standard,Brandon,54.0,16,7.9,0,0
+NW10710,Standard,Tampa,54.0,26,9.6,1,0
+NW11140,Basic,Brandon,29.0,5,7.8,0,1
+NW10351,Premium,St. Petersburg,89.0,13,8.6,1,0
+NW11142,Basic,St. Petersburg,29.0,3,1.2,1,0
+NW10277,Basic,Tampa,29.0,21,5.4,1,0
+NW10268,Basic,Tampa,29.0,19,5.1,0,0
+NW10988,Basic,Tampa,29.0,11,,0,0
+NW10910,Premium,St. Petersburg,89.0,17,9.3,0,0
+NW10457,Premium,Tampa,89.0,7,10.0,1,0
+NW11044,Basic,Clearwater,29.0,17,,1,1
+NW10878,Standard,St. Petersburg,54.0,5,7.7,0,0
+NW10318,Standard,Tampa,54.0,9,,0,0
+NW11172,Standard,Tampa,54.0,6,,1,0
+NW10523,Basic,Tampa,29.0,11,6.3,1,0
+NW10615,Premium,Tampa,89.0,21,11.6,1,0
+NW11185,Basic,St. Petersburg,29.0,2,7.0,1,1
+NW10320,Standard,St. Petersburg,54.0,11,11.6,4,0
+NW10467,Standard,Tampa,54.0,13,7.0,0,0
+NW11076,Standard,St. Petersburg,54.0,16,3.9,0,0
+NW10207,Basic,Brandon,29.0,20,9.0,1,0
+NW10576,Basic,CLEARWATER,29.0,6,7.0,0,1
+NW10600,Basic,Tampa,29.0,7,6.8,1,0
+NW11148,Basic,St. Petersburg,29.0,2,5.0,1,0
+NW10143,Basic,St. Petersburg,29.0,20,8.2,1,0
+NW10250,Basic,St. Petersburg,29.0,16,10.0,0,0
+NW10503,Basic,Brandon,29.0,23,8.1,0,0
+NW10302,Basic,St. Petersburg,29.0,20,7.2,1,0
+NW10476,Standard,Tampa,54.0,16,4.7,0,0
+NW10762,Basic,Clearwater,29.0,10,11.7,1,0
+NW11097,Basic,Tampa,29.0,4,,0,0
+NW10591,Standard,Clearwater,54.0,13,10.6,0,0
+NW10369,Basic,Tampa,29.0,11,5.5,1,0
+NW10163,Basic,St. Petersburg,29.0,8,7.7,1,0
+NW10905,Standard,St. Petersburg,54.0,15,2.6,0,0
+NW10263,Premium,Tampa,89.0,19,8.1,2,0
+NW10081,Premium,Clearwater,89.0,5,13.1,1,0
+NW10324,Basic,Tampa,29.0,11,5.0,1,0
+NW10629,Standard,ST. PETERSBURG,54.0,31,9.8,1,0
+NW10572,Standard,ST. PETERSBURG,54.0,16,10.6,1,0
+NW11157,Premium,Tampa,89.0,5,7.6,0,0
+NW11102,Basic,Tampa,29.0,26,7.7,1,0
+NW10453,Basic,Clearwater,29.0,16,7.1,1,1
+NW10677,Basic,Brandon,29.0,9,7.4,1,0
+NW10144,Standard,St. Petersburg,54.0,9,9.8,1,0
+NW10689,Standard,Clearwater,54.0,5,11.5,0,0
+NW10344,Basic,Tampa,29.0,9,6.4,1,0
+NW10274,Premium,St. Petersburg,89.0,14,11.7,0,0
+NW10896,Standard,Clearwater,54.0,22,9.9,0,0
+NW10660,Standard,Clearwater,54.0,4,5.0,1,0
+NW10825,Basic,Clearwater,29.0,10,4.8,0,0
+NW10783,Basic,St. Petersburg,29.0,15,9.2,2,0
+NW10827,Basic,Tampa,29.0,16,,0,0
+NW11086,Standard,St. Petersburg,54.0,29,6.3,0,0
+NW10349,Standard,Brandon,54.0,11,12.9,2,0
+NW10858,Standard,Brandon,54.0,18,,0,0
+NW10087,Standard,St. Petersburg,54.0,19,10.5,2,0
+NW10505,Basic,St. Petersburg,29.0,16,7.3,3,0
+NW10640,Premium,Tampa,89.0,4,12.8,0,0
+NW10306,Premium,Tampa,89.0,17,,1,0
+NW10650,Standard,ST. PETERSBURG,54.0,8,8.8,1,0
+NW10187,Standard,St. Petersburg,54.0,4,1.4,1,0
+NW10750,Basic,Brandon,29.0,11,7.6,0,0
+NW11187,Standard,Clearwater,54.0,19,10.3,0,0
+NW10287,Basic,St. Petersburg,29.0,3,7.9,1,0
+NW10906,Premium,CLEARWATER,89.0,20,11.0,0,0
+NW10695,Basic,St. Petersburg,29.0,11,5.6,0,0
+NW11031,Premium,St. Petersburg,89.0,9,,2,0
+NW10551,Standard,St. Petersburg,54.0,4,8.4,2,0
+NW10601,Standard,Tampa,54.0,18,2.5,0,0
+NW10398,Standard,St. Petersburg,54.0,35,9.2,1,0
+NW10049,Standard,Tampa,54.0,14,9.1,1,0
+NW10484,Standard,Brandon,54.0,17,9.1,0,0
+NW10888,Standard,Clearwater,54.0,3,8.9,1,0
+NW10247,Basic,Tampa,29.0,22,9.0,1,0
+NW10442,Standard,Tampa,54.0,19,9.9,1,0
+NW10425,Standard,St. Petersburg,54.0,8,10.5,5,0
+NW10046,Standard,Tampa,54.0,19,5.2,0,0
+NW10622,Basic,St. Petersburg,29.0,21,6.4,0,0
+NW10537,Standard,Brandon,54.0,4,10.1,1,0
+NW10866,Premium,Brandon,89.0,8,14.1,1,0
+NW10864,Basic,St. Petersburg,29.0,9,10.6,0,0
+NW11018,Basic,Clearwater,29.0,9,9.4,2,0
+NW10033,Basic,Clearwater,29.0,8,,1,0
+NW10088,Standard,Tampa,54.0,6,,0,0
+NW10904,Standard,St. Petersburg,54.0,7,11.1,1,0
+NW10733,Premium,St. Petersburg,89.0,9,12.2,2,0
+NW10954,Standard,Tampa,54.0,11,11.5,0,0
+NW10532,Standard,Tampa,54.0,7,6.5,1,0
+NW10084,Basic,Clearwater,29.0,33,3.9,0,0
+NW10457,Premium,Tampa,89.0,7,10.0,1,0
+NW10346,Basic,Tampa,29.0,7,4.5,0,0
+NW11008,Basic,Clearwater,29.0,12,8.7,1,0
+NW10131,Standard,Tampa,54.0,15,9.3,0,0
+NW10508,Standard,Brandon,54.0,9,9.4,1,0
+NW11049,Standard,St. Petersburg,54.0,3,7.9,0,1
+NW10824,Basic,St. Petersburg,29.0,26,2.5,0,0
+NW10854,Standard,St. Petersburg,54.0,17,8.6,0,0
+NW10918,Basic,Clearwater,29.0,13,11.9,0,0
+NW10376,Standard,Tampa,54.0,6,9.7,0,0
+NW10456,Standard,Clearwater,54.0,11,8.3,1,0
+NW10632,Standard,Clearwater,54.0,10,15.0,1,0
+NW10341,Premium,Brandon,89.0,6,10.8,0,0
+NW11068,Standard,St. Petersburg,54.0,14,8.4,0,0
+NW11125,Basic,Tampa,29.0,19,4.1,2,0
+NW10078,Standard,St. Petersburg,54.0,6,6.3,4,1
+NW11065,Premium,Tampa,89.0,10,11.0,1,0
+NW10566,Standard,Brandon,54.0,12,12.3,0,0
+NW10062,Premium,Tampa,89.0,19,,1,0
+NW10661,Standard,CLEARWATER,54.0,20,4.6,0,0
+NW10409,Standard,Brandon,54.0,14,,0,0
+NW11110,Standard,St. Petersburg,54.0,2,8.4,0,0
+NW10219,Basic,Tampa,29.0,28,9.5,0,0
+NW10788,Standard,Tampa,54.0,10,13.9,0,0
+NW10152,Basic,Clearwater,29.0,11,5.4,0,0
+NW10325,Basic,St. Petersburg,29.0,9,5.5,1,0
+NW10307,Basic,St. Petersburg,29.0,8,5.9,0,0
+NW10893,Premium,CLEARWATER,89.0,5,8.8,2,0
+NW10700,Standard,Brandon,54.0,3,,0,1
+NW10606,Standard,Tampa,54.0,8,9.0,0,0
+NW10627,Basic,Tampa,29.0,13,10.1,0,0
+NW10203,Standard,Clearwater,54.0,26,9.5,2,0
+NW10977,Basic,CLEARWATER,29.0,9,6.6,0,0
+NW10426,Basic,St. Petersburg,29.0,3,7.8,0,0
+NW10004,Premium,Tampa,89.0,29,10.1,0,0
+NW10483,Basic,St. Petersburg,29.0,8,5.7,2,0
+NW10731,Basic,St. Petersburg,29.0,16,5.1,1,0
+NW10382,Basic,Tampa,29.0,14,7.1,0,0
+NW10129,Standard,Brandon,54.0,9,7.3,0,0
+NW10620,Standard,St. Petersburg,54.0,4,6.9,0,0
+NW10785,Standard,St. Petersburg,54.0,10,6.1,3,0
+NW11026,Basic,St. Petersburg,29.0,12,6.0,0,0
+NW10488,Basic,Tampa,29.0,5,,1,0
+NW10071,Basic,Brandon,29.0,25,10.2,1,0
+NW10618,Basic,Brandon,29.0,7,7.6,3,0
+NW10400,Standard,Brandon,54.0,13,9.0,1,0
+NW10996,Standard,St. Petersburg,54.0,16,9.0,1,0
+NW10690,Premium,Tampa,89.0,18,10.1,1,0
+NW11181,Basic,Clearwater,29.0,17,5.1,1,0
+NW10261,Basic,Clearwater,29.0,7,4.5,2,1
+NW10735,Standard,St. Petersburg,54.0,11,4.8,0,0
+NW10662,Basic,Tampa,29.0,14,0.8,1,0
+NW10202,Standard,St. Petersburg,54.0,9,6.2,0,0
+NW11168,Standard,Brandon,54.0,29,9.2,1,0
+NW10070,Basic,Tampa,29.0,13,11.1,1,0
+NW11144,Standard,St. Petersburg,54.0,16,3.5,0,1
+NW11028,Standard,Clearwater,54.0,19,,0,0
+NW10127,Basic,Tampa,29.0,13,,1,0
+NW10370,Basic,Brandon,29.0,16,10.9,3,0
+NW10134,Standard,St. Petersburg,54.0,5,7.9,0,1
+NW10516,Standard,St. Petersburg,54.0,12,8.8,0,0
+NW10548,Standard,St. Petersburg,54.0,7,10.4,1,0
+NW10221,Basic,Tampa,29.0,16,7.6,0,0
+NW11032,Basic,St. Petersburg,29.0,6,3.9,1,0
+NW11154,Premium,Brandon,89.0,4,9.8,0,0
+NW11045,Basic,St. Petersburg,29.0,11,0.9,0,0
+NW10776,Standard,Clearwater,54.0,26,7.5,1,0
+NW10726,Basic,St. Petersburg,29.0,33,13.0,2,0
+NW10459,Basic,Brandon,29.0,9,7.9,1,1
+NW10405,Standard,Clearwater,54.0,12,8.1,0,0
+NW10767,Standard,TAMPA,54.0,6,4.3,0,0
+NW11011,Basic,Tampa,29.0,9,4.4,1,0
+NW10820,Standard,Brandon,54.0,13,,0,0
+NW10679,Standard,St. Petersburg,54.0,33,7.4,0,0
+NW10210,Standard,Brandon,54.0,2,11.3,0,0
+NW10387,Basic,Tampa,29.0,3,3.4,0,0
+NW10034,Premium,Clearwater,89.0,41,9.9,0,0
+NW10752,Premium,Tampa,89.0,2,11.3,1,0
+NW10882,Standard,Tampa,54.0,8,8.5,0,0
+NW10262,Basic,Tampa,29.0,6,5.3,1,0
+NW10304,Basic,Tampa,29.0,9,8.7,1,0
+NW10282,Standard,Tampa,54.0,2,,1,0
+NW11198,Basic,Clearwater,29.0,27,4.3,0,0
+NW10810,Basic,Brandon,29.0,3,6.6,0,0
+NW10768,Basic,Clearwater,29.0,18,5.4,0,0
+NW10339,Premium,Tampa,89.0,4,12.9,2,0
+NW10336,Basic,Clearwater,29.0,14,7.5,1,0
+NW11133,Premium,Clearwater,89.0,12,5.4,0,0
+NW10784,Standard,Tampa,54.0,2,8.2,1,0
+NW10155,Standard,Tampa,54.0,8,7.9,0,0
+NW10823,Basic,St. Petersburg,29.0,24,7.6,1,0
+NW11150,Standard,St. Petersburg,54.0,6,14.5,0,0
+NW10860,Standard,Brandon,54.0,20,13.5,0,0
+NW10557,Basic,St. Petersburg,29.0,17,9.0,1,0
+NW10073,Basic,Tampa,29.0,12,9.2,0,0
+NW10043,Standard,St. Petersburg,54.0,11,10.2,1,0
+NW10721,Basic,St. Petersburg,29.0,5,12.3,1,0
+NW10497,Standard,Clearwater,54.0,6,3.9,2,0
+NW10833,Basic,Tampa,29.0,19,7.2,0,0
+NW10590,Basic,St. Petersburg,29.0,21,5.7,1,0
+NW11005,Standard,Tampa,54.0,9,13.4,2,0
+NW11039,Standard,St. Petersburg,54.0,7,7.2,1,0
+NW10253,Basic,Tampa,29.0,20,,2,0
+NW11054,Basic,CLEARWATER,29.0,13,4.9,0,0
+NW10096,Basic,Tampa,29.0,9,7.9,1,0
+NW10278,Basic,Tampa,29.0,5,7.3,0,0
+NW10678,Basic,Tampa,29.0,6,8.6,1,0
+NW10295,Basic,ST. PETERSBURG,29.0,15,10.8,1,0
+NW10671,Basic,Brandon,29.0,10,2.3,1,1
+NW10345,Standard,Tampa,54.0,14,,1,0
+NW10611,Basic,Tampa,29.0,3,6.6,0,0
+NW10098,Standard,Tampa,54.0,12,7.5,0,0
+NW10500,Basic,Brandon,29.0,18,6.6,1,0
+NW10538,Basic,Tampa,29.0,11,8.7,1,0
+NW10074,Basic,Tampa,29.0,21,2.3,0,0
+NW10265,Basic,Clearwater,29.0,9,5.6,0,0
+NW10668,Basic,Brandon,29.0,15,8.5,0,0
+NW10130,Standard,Brandon,54.0,10,8.9,0,0
+NW11013,Standard,Brandon,54.0,7,6.1,0,0
+NW10063,Standard,Tampa,54.0,28,9.8,0,0
+NW10011,Standard,Tampa,54.0,21,9.3,1,0
+NW10535,Basic,CLEARWATER,29.0,9,2.2,1,0
+NW10355,Standard,St. Petersburg,54.0,4,5.4,0,1
+NW10027,Premium,Tampa,89.0,9,6.5,3,0
+NW10959,Standard,St. Petersburg,54.0,34,7.1,0,0
+NW10761,Standard,St. Petersburg,54.0,21,10.2,2,0
+NW10816,Basic,Tampa,29.0,10,3.0,2,0
+NW10424,Standard,St. Petersburg,54.0,8,10.7,2,0
+NW10024,Standard,Tampa,54.0,13,6.4,0,0
+NW10729,Basic,Tampa,29.0,16,8.4,1,0
+NW10330,Standard,Clearwater,54.0,11,10.2,1,0
+NW10561,Basic,Clearwater,29.0,21,2.7,1,0
+NW10402,Standard,Tampa,54.0,15,5.8,1,0
+NW10191,Standard,St. Petersburg,54.0,12,10.3,0,0
+NW10742,Basic,Clearwater,29.0,6,5.0,0,0
+NW10834,Basic,St. Petersburg,29.0,8,8.0,0,0
+NW10907,Standard,ST. PETERSBURG,54.0,8,8.4,1,1
+NW11058,Basic,Tampa,29.0,3,5.8,0,0
+NW10949,Standard,TAMPA,54.0,31,12.2,1,1
+NW10912,Basic,Tampa,29.0,11,5.0,2,0
+NW10168,Basic,Brandon,29.0,15,6.8,1,1
+NW10286,Premium,Tampa,89.0,14,10.3,2,0
+NW10976,Standard,Tampa,54.0,12,7.6,2,0
+NW10891,Basic,Tampa,29.0,27,6.4,0,0
+NW10014,Basic,TAMPA,29.0,19,9.2,1,0
+NW10419,Standard,Tampa,54.0,13,7.7,0,0
+NW10188,Basic,St. Petersburg,29.0,5,6.4,2,0
+NW10436,Basic,Tampa,29.0,14,2.3,0,0
+NW11040,Standard,Brandon,54.0,7,6.4,0,0
+NW10801,Basic,Tampa,29.0,17,7.1,1,0
+NW10416,Basic,Tampa,29.0,7,12.9,1,0
+NW11137,Standard,Tampa,54.0,23,4.4,1,0
+NW10407,Basic,Clearwater,29.0,10,6.6,1,0
+NW10396,Standard,Tampa,54.0,11,9.2,0,0
+NW10636,Basic,Tampa,29.0,11,4.9,0,1
+NW11000,Basic,Brandon,29.0,5,4.6,1,0
+NW10780,Premium,St. Petersburg,89.0,17,16.8,0,0
+NW10898,Basic,St. Petersburg,29.0,14,9.2,2,0
+NW10192,Basic,Tampa,29.0,5,5.7,0,1
+NW10149,Basic,Tampa,29.0,10,5.3,1,0
+NW10724,Basic,Tampa,29.0,3,7.8,0,0
+NW10895,Basic,TAMPA,29.0,30,6.4,0,0
+NW10757,Standard,St. Petersburg,54.0,11,,0,0
+NW10299,Basic,Tampa,29.0,26,5.8,2,1
+NW10691,Basic,TAMPA,29.0,5,10.5,0,0
+NW10560,Standard,BRANDON,54.0,8,9.6,0,0
+NW10240,Basic,St. Petersburg,29.0,1,5.6,2,0
+NW10199,Basic,Tampa,29.0,13,6.1,3,0
+NW10045,Standard,Tampa,54.0,11,11.7,0,0
+NW10736,Premium,St. Petersburg,89.0,7,13.0,1,0
+NW10540,Standard,Tampa,54.0,15,7.9,3,0
+NW10608,Basic,Tampa,29.0,21,7.4,1,0
+NW10137,Basic,Brandon,29.0,9,7.7,0,0
+NW10587,Standard,St. Petersburg,54.0,23,10.4,0,0
+NW11175,Standard,St. Petersburg,54.0,4,8.1,1,1
+NW10533,Basic,Clearwater,29.0,14,5.4,1,0
+NW10709,Basic,St. Petersburg,29.0,24,6.4,1,0
+NW10813,Basic,Brandon,29.0,31,9.7,0,0
+NW10692,Standard,St. Petersburg,54.0,30,9.8,0,0
+NW11001,Premium,Tampa,89.0,10,8.6,1,0
+NW10381,Standard,St. Petersburg,54.0,22,5.0,0,0
+NW10667,Standard,Tampa,54.0,10,8.3,1,0
+NW11199,Standard,Clearwater,54.0,26,8.4,1,0
+NW10448,Standard,Brandon,54.0,14,8.0,3,0
+NW10510,Basic,Tampa,29.0,4,4.0,1,0
+NW10423,Premium,BRANDON,89.0,15,10.4,2,0
+NW10006,Standard,St. Petersburg,54.0,16,11.1,0,0
+NW10097,Standard,St. Petersburg,54.0,12,9.9,0,0
+NW10410,Standard,Tampa,54.0,5,10.6,1,0
+NW10158,Premium,ST. PETERSBURG,89.0,5,15.5,3,0
+NW10564,Basic,Tampa,29.0,9,9.0,3,0
+NW11090,Basic,TAMPA,29.0,24,4.9,1,0
+NW10899,Basic,Brandon,29.0,10,2.2,2,0
+NW10032,Standard,Tampa,54.0,8,4.2,1,0
+NW10656,Standard,Tampa,54.0,16,5.0,1,0
+NW10791,Premium,Clearwater,89.0,16,11.0,2,0
+NW10521,Basic,Brandon,29.0,27,3.9,1,1
+NW10334,Standard,Brandon,54.0,2,7.7,1,0
+NW10490,Basic,Clearwater,29.0,13,9.9,0,0
+NW10647,Basic,Clearwater,29.0,6,3.8,0,0
+NW10258,Basic,St. Petersburg,29.0,19,6.8,1,0
+NW10171,Basic,Tampa,29.0,3,8.6,0,0
+NW11123,Basic,Clearwater,29.0,19,7.7,1,1
+NW10547,Basic,St. Petersburg,29.0,19,1.4,0,0
+NW10236,Standard,Tampa,54.0,3,5.6,0,0
+NW10384,Basic,St. Petersburg,29.0,20,4.1,0,0
+NW10685,Standard,Tampa,54.0,7,12.0,2,0
+NW10023,Basic,Clearwater,29.0,14,6.6,0,0
+NW10841,Premium,Clearwater,89.0,29,,0,0
+NW11035,Premium,Clearwater,89.0,13,7.2,0,0
+NW10920,Basic,Tampa,29.0,23,3.7,0,0
+NW10545,Standard,Tampa,54.0,8,7.6,2,0
+NW10798,Standard,Tampa,54.0,11,6.3,1,0
+NW10477,Basic,Tampa,29.0,8,7.5,0,0
+NW10872,Standard,Clearwater,54.0,4,13.1,0,0
+NW10707,Premium,Clearwater,89.0,10,10.8,1,0
+NW10748,Standard,Tampa,54.0,4,6.0,0,0
+NW10153,Standard,Clearwater,54.0,27,9.1,0,0
+NW10122,Premium,St. Petersburg,89.0,1,9.8,0,0
+NW10772,Standard,Tampa,54.0,1,,4,0
+NW10399,Basic,Clearwater,29.0,14,0.0,2,0
+NW10120,Basic,Tampa,29.0,4,10.8,0,0
+NW10939,Basic,St. Petersburg,29.0,6,6.1,0,0
+NW10582,Basic,St. Petersburg,29.0,17,4.5,0,0
+NW10463,Basic,CLEARWATER,29.0,4,3.7,0,0
+NW10877,Standard,Tampa,54.0,7,9.1,0,0
+NW10652,Premium,Tampa,89.0,1,12.2,1,0
+NW10641,Basic,St. Petersburg,29.0,13,6.9,2,0
+NW10943,Premium,Clearwater,89.0,11,7.0,0,0
+NW10519,Premium,Tampa,89.0,2,11.5,0,0
+NW10697,Premium,St. Petersburg,89.0,16,,0,0
+NW11003,Standard,Brandon,54.0,12,7.9,1,0
+NW10625,Basic,Tampa,29.0,6,5.2,0,0
+NW10586,Basic,Tampa,29.0,11,6.7,2,0
+NW10151,Premium,Brandon,89.0,13,9.2,1,0
+NW10819,Standard,St. Petersburg,54.0,18,11.6,0,0
+NW10522,Basic,Brandon,29.0,17,8.1,2,0
+NW10357,Basic,Brandon,29.0,32,4.7,1,0
+NW11073,Premium,Clearwater,89.0,16,7.2,1,0
+NW11107,Basic,Tampa,29.0,6,6.6,0,0
+NW10150,Basic,St. Petersburg,29.0,4,12.5,0,0
+NW10528,Standard,Clearwater,54.0,11,9.2,0,0
+NW10180,Standard,Tampa,54.0,6,4.9,0,0
+NW10291,Basic,St. Petersburg,29.0,15,8.4,1,0
+NW11043,Basic,Tampa,29.0,3,8.5,1,0
+NW10759,Standard,Clearwater,54.0,8,8.5,1,0
+NW10174,Standard,Clearwater,54.0,22,9.6,1,0
+NW10774,Standard,Tampa,54.0,9,4.4,0,0
+NW10257,Standard,Brandon,54.0,16,12.0,0,1
+NW10720,Premium,St. Petersburg,89.0,7,9.7,0,0
+NW10897,Basic,Tampa,29.0,8,7.2,2,0
+NW10021,Standard,Tampa,54.0,21,9.1,0,0
+NW11184,Standard,St. Petersburg,54.0,7,8.4,1,0
+NW11080,Basic,Tampa,29.0,3,6.2,0,0
+NW10792,Basic,Tampa,29.0,3,0.4,0,1
+NW10481,Basic,Brandon,29.0,12,2.8,2,0
+NW10474,Premium,St. Petersburg,89.0,1,5.8,0,0
+NW10836,Premium,Clearwater,89.0,11,11.0,0,0
+NW10118,Basic,Tampa,29.0,22,8.4,0,0
+NW10178,Standard,Clearwater,54.0,9,10.1,2,0
+NW10921,Standard,Clearwater,54.0,10,6.7,1,1
+NW10337,Basic,Clearwater,29.0,2,7.0,2,0
+NW10609,Standard,Tampa,54.0,19,8.5,1,0
+NW10297,Premium,St. Petersburg,89.0,24,9.2,0,0
+NW10922,Basic,Brandon,29.0,5,8.5,2,0
+NW11134,Basic,CLEARWATER,29.0,8,6.0,0,0
+NW10109,Basic,Clearwater,29.0,20,4.3,1,0
+NW10413,Standard,Clearwater,54.0,15,,0,1
+NW11024,Standard,Clearwater,54.0,9,9.8,0,0
+NW11126,Standard,St. Petersburg,54.0,19,10.1,1,1
+NW10542,Basic,Clearwater,29.0,17,8.5,1,0
+NW10923,Basic,Clearwater,29.0,6,11.5,0,0
+NW10305,Standard,Tampa,54.0,17,8.1,0,0
+NW10649,Basic,Tampa,29.0,21,6.0,1,0
+NW10708,Premium,Brandon,89.0,8,9.5,1,0
+NW10771,Premium,BRANDON,89.0,16,9.4,1,0
+NW10957,Basic,Brandon,29.0,33,6.1,0,0
+NW10020,Basic,St. Petersburg,29.0,8,11.4,0,0
+NW10673,Basic,St. Petersburg,29.0,4,1.4,1,0
+NW10972,Standard,Tampa,54.0,21,9.4,0,0
+NW11083,Premium,Brandon,89.0,3,13.1,0,0
+NW10101,Standard,St. Petersburg,54.0,8,13.4,0,0
+NW10139,Basic,Tampa,29.0,7,4.7,0,0
+NW10739,Basic,ST. PETERSBURG,29.0,26,10.6,1,0
+NW10223,Basic,Clearwater,29.0,8,5.8,1,0
+NW10958,Standard,Brandon,54.0,8,10.3,1,0
+NW10552,Standard,Brandon,54.0,11,12.1,2,0
+NW10393,Basic,Brandon,29.0,33,,1,0
+NW10460,Basic,TAMPA,29.0,22,2.3,0,0
+NW10890,Basic,Clearwater,29.0,8,,1,0
+NW10809,Premium,Tampa,89.0,6,9.1,0,0
+NW10205,Standard,St. Petersburg,54.0,25,7.1,1,0
+NW10643,Basic,St. Petersburg,29.0,18,9.6,1,0
+NW10948,Premium,Tampa,89.0,9,11.7,0,0
+NW10588,Standard,Clearwater,54.0,7,8.3,0,0
+NW10037,Basic,St. Petersburg,29.0,31,,2,0
+NW11038,Standard,Tampa,54.0,5,5.5,0,1
+NW10360,Basic,Clearwater,29.0,3,10.3,0,0
+NW10844,Premium,Tampa,89.0,21,13.1,0,0
+NW10573,Standard,Tampa,54.0,8,8.0,1,0
+NW11077,Basic,St. Petersburg,29.0,19,4.6,0,0
+NW10595,Standard,St. Petersburg,54.0,11,10.0,1,0
+NW10124,Premium,Tampa,89.0,7,13.6,0,0
+NW10623,Standard,Brandon,54.0,11,6.3,0,0
+NW10395,Basic,Clearwater,29.0,22,6.6,0,0
+NW10932,Standard,St. Petersburg,54.0,13,7.9,1,0
+NW10184,Standard,St. Petersburg,54.0,36,8.8,4,0
+NW10055,Basic,St. Petersburg,29.0,18,4.9,0,0
+NW10917,Basic,Clearwater,29.0,10,8.9,1,0
+NW11042,Basic,Tampa,29.0,8,3.9,1,0
+NW11127,Basic,Brandon,29.0,9,10.3,1,0
+NW10165,Standard,Tampa,54.0,2,8.0,0,0
+NW11191,Basic,Tampa,29.0,11,2.0,3,1
+NW10115,Premium,Clearwater,89.0,11,11.1,0,0
+NW11145,Standard,St. Petersburg,54.0,4,6.1,0,0
+NW10310,Basic,St. Petersburg,29.0,6,1.7,1,0
+NW10944,Basic,Clearwater,29.0,15,2.0,0,0
+NW10475,Standard,St. Petersburg,54.0,10,6.5,2,0
+NW10420,Basic,Clearwater,29.0,10,7.1,2,0
+NW10198,Basic,St. Petersburg,29.0,15,,0,0
+NW10554,Basic,St. Petersburg,29.0,28,9.4,0,0
+NW11173,Standard,St. Petersburg,54.0,15,6.1,1,0
+NW10218,Standard,Clearwater,54.0,9,8.2,2,0
+NW10211,Basic,Clearwater,29.0,15,2.9,0,0
+NW10634,Standard,Clearwater,54.0,11,8.8,0,0
+NW10775,Premium,Clearwater,89.0,3,10.5,0,0
+NW10703,Standard,Tampa,54.0,18,11.5,1,0
+NW10054,Premium,Tampa,89.0,19,12.5,0,0
+NW10531,Basic,Tampa,29.0,8,9.9,0,0
+NW10847,Basic,ST. PETERSBURG,29.0,11,6.3,0,0
+NW10648,Basic,Clearwater,29.0,6,7.6,1,1
+NW10803,Basic,Clearwater,29.0,5,8.3,1,0
+NW10570,Standard,Clearwater,54.0,10,7.2,2,1
+NW10687,Premium,St. Petersburg,89.0,30,17.5,0,0
+NW11136,Premium,Brandon,89.0,4,12.3,0,0
+NW10329,Standard,TAMPA,54.0,32,10.4,0,0
+NW10492,Standard,Tampa,54.0,9,13.3,0,0
+NW10719,Standard,Tampa,54.0,10,7.3,0,0
+NW10782,Standard,Clearwater,54.0,6,9.2,0,0
+NW10865,Standard,Tampa,54.0,8,9.6,1,1
+NW10147,Basic,St. Petersburg,29.0,4,6.8,0,0
+NW10254,Premium,Brandon,89.0,15,17.3,0,0
+NW10862,Basic,Tampa,29.0,16,4.6,2,0
+NW10565,Premium,Tampa,89.0,7,7.5,0,0
+NW10392,Basic,Clearwater,29.0,15,10.0,0,0
+NW10869,Standard,Brandon,54.0,10,7.3,0,0
+NW11091,Premium,Clearwater,89.0,8,10.4,1,0
+NW10230,Basic,St. Petersburg,29.0,20,1.8,0,0
+NW10716,Standard,Tampa,54.0,22,,2,0
+NW10146,Premium,Tampa,89.0,23,10.2,0,0
+NW11170,Standard,Tampa,54.0,14,7.6,1,0
+NW10167,Standard,Clearwater,54.0,12,8.5,1,0
+NW11022,Basic,TAMPA,29.0,25,9.2,1,0
+NW10937,Standard,Tampa,54.0,19,11.0,3,0
+NW10598,Basic,St. Petersburg,29.0,19,5.2,0,0
+NW11070,Basic,Tampa,29.0,9,2.8,0,0
+NW10141,Basic,Clearwater,29.0,17,5.8,0,0
+NW10556,Basic,St. Petersburg,29.0,15,4.2,0,0
+NW10686,Basic,Clearwater,29.0,10,2.9,0,0
+NW10301,Basic,Tampa,29.0,10,3.5,0,0
+NW10399,Basic,Clearwater,29.0,14,0.0,2,0
+NW10663,Basic,Tampa,29.0,16,6.9,1,0
+NW11087,Standard,Tampa,54.0,6,14.5,0,0
+NW10651,Basic,St. Petersburg,29.0,12,8.1,2,0
+NW10162,Basic,St. Petersburg,29.0,22,4.8,2,0
+NW10468,Basic,Tampa,29.0,1,6.4,1,0
+NW11093,Basic,Tampa,29.0,5,4.2,1,0
+NW10597,Basic,Brandon,29.0,19,8.0,0,0
+NW11059,Basic,Clearwater,29.0,20,1.8,2,1
+NW10347,Premium,TAMPA,89.0,19,12.1,1,0
+NW10571,Basic,Tampa,29.0,17,5.6,1,0
+NW10280,Standard,Tampa,54.0,18,9.5,0,0
+NW11075,Premium,Tampa,89.0,24,8.4,1,0
+NW11085,Basic,Tampa,29.0,11,6.4,1,0
+NW10715,Standard,St. Petersburg,54.0,4,12.4,1,1
+NW10009,Basic,St. Petersburg,29.0,32,3.9,0,0
+NW10936,Standard,Clearwater,54.0,17,3.5,1,0
+NW10795,Standard,Clearwater,54.0,11,7.8,1,0
+NW10270,Standard,Tampa,54.0,5,7.7,1,0
+NW11021,Basic,Brandon,29.0,14,8.3,0,0
+NW10494,Standard,St. Petersburg,54.0,5,2.4,1,1
+NW10675,Basic,Brandon,29.0,13,1.2,0,0
+NW10285,Standard,St. Petersburg,54.0,27,3.3,0,0
+NW10541,Premium,Tampa,89.0,9,12.5,0,0
+NW11094,Premium,Brandon,89.0,2,10.8,0,0
+NW10741,Standard,St. Petersburg,54.0,18,6.8,1,0
+NW10444,Standard,Clearwater,54.0,8,5.1,1,0
+NW11119,Basic,Clearwater,29.0,15,4.4,0,0
+NW11074,Basic,Tampa,29.0,32,8.3,0,0
+NW11088,Basic,St. Petersburg,29.0,8,,0,0
+NW10099,Basic,BRANDON,29.0,6,8.1,1,0
+NW10881,Standard,Tampa,54.0,12,9.0,1,0
+NW10495,Basic,St. Petersburg,29.0,4,14.0,2,0
+NW10432,Basic,Clearwater,29.0,13,,0,0
+NW10142,Basic,Clearwater,29.0,38,9.6,1,0
+NW10940,Basic,Clearwater,29.0,5,3.0,2,0
+NW10594,Standard,Tampa,54.0,23,,1,0
+NW10166,Standard,Clearwater,54.0,14,7.2,2,0
+NW10161,Basic,St. Petersburg,29.0,2,4.8,2,0
+NW10642,Basic,Clearwater,29.0,15,2.7,0,0
+NW10136,Basic,Tampa,29.0,17,6.1,0,0
+NW10913,Standard,Clearwater,54.0,24,13.1,0,0
+NW10016,Standard,Brandon,54.0,14,9.9,0,0
+NW10113,Basic,Clearwater,29.0,5,4.2,0,0
+NW10007,Basic,St. Petersburg,29.0,14,5.5,1,0
+NW10195,Premium,Brandon,89.0,11,8.3,2,0
+NW10901,Premium,St. Petersburg,89.0,6,12.8,1,0
+NW10173,Standard,Brandon,54.0,5,8.4,0,0
+NW10446,Basic,Brandon,29.0,16,5.5,4,0
+NW10100,Basic,Tampa,29.0,6,2.9,1,0
+NW11072,Standard,St. Petersburg,54.0,9,11.2,1,0
+NW10579,Basic,St. Petersburg,29.0,8,8.8,0,0
+NW10473,Basic,BRANDON,29.0,25,3.3,0,0
+NW10204,Premium,St. Petersburg,89.0,44,12.1,0,0
+NW10580,Basic,Brandon,29.0,1,10.4,2,0
+NW10156,Premium,Tampa,89.0,37,12.0,0,0
+NW11169,Basic,Clearwater,29.0,5,4.5,2,0
+NW11055,Standard,Clearwater,54.0,12,6.7,0,0
+NW10485,Standard,Clearwater,54.0,19,8.6,0,0
+NW10644,Standard,ST. PETERSBURG,54.0,10,6.2,1,0
+NW11156,Premium,Tampa,89.0,6,7.3,1,0
+NW10711,Standard,Clearwater,54.0,16,5.8,1,0
+NW10909,Premium,Tampa,89.0,13,12.9,1,0
+NW10989,Premium,Clearwater,89.0,4,7.6,1,0
+NW10778,Standard,Tampa,54.0,12,11.7,2,0
+NW10003,Basic,St. Petersburg,29.0,8,6.3,0,1
+NW10377,Premium,Clearwater,89.0,26,5.0,1,0
+NW10013,Basic,Tampa,29.0,7,3.6,0,0
+NW10358,Standard,Tampa,54.0,14,11.5,1,0
+NW10428,Premium,St. Petersburg,89.0,9,10.5,1,0
+NW10276,Basic,Tampa,29.0,28,4.5,2,0
+NW10266,Standard,Brandon,54.0,8,13.2,0,0
+NW11050,Basic,Tampa,29.0,23,9.8,1,0
+NW10980,Standard,Tampa,54.0,6,8.1,1,0
+NW10229,Premium,Tampa,89.0,10,8.3,1,0
+NW11053,Standard,Brandon,54.0,28,12.4,1,0
+NW10718,Premium,St. Petersburg,89.0,5,11.3,2,0
+NW10030,Standard,St. Petersburg,54.0,8,,2,0
+NW10445,Standard,Tampa,54.0,19,4.3,2,0
+NW10760,Premium,Tampa,89.0,5,11.2,0,0
+NW10373,Standard,Clearwater,54.0,20,7.1,3,0
+NW10859,Basic,St. Petersburg,29.0,15,7.8,1,0
+NW10694,Standard,Brandon,54.0,9,9.0,0,0
+NW11046,Basic,St. Petersburg,29.0,11,4.6,0,0
+NW10116,Premium,Tampa,89.0,4,15.6,2,0
+NW10222,Basic,Brandon,29.0,17,,1,0
+NW10458,Basic,St. Petersburg,29.0,14,6.2,0,0
+NW10617,Basic,Brandon,29.0,12,2.5,0,0
+NW11132,Basic,Brandon,29.0,22,2.2,0,0
+NW10200,Basic,St. Petersburg,29.0,12,3.9,2,0
+NW10549,Standard,TAMPA,54.0,7,,2,0
+NW10653,Standard,Clearwater,54.0,33,9.3,1,0
+NW10984,Standard,St. Petersburg,54.0,11,11.4,2,0
+NW10342,Basic,Clearwater,29.0,4,6.5,0,0
+NW11098,Basic,St. Petersburg,29.0,11,6.5,1,1
+NW10631,Basic,St. Petersburg,29.0,13,9.3,0,0
+NW10005,Standard,St. Petersburg,54.0,10,13.6,0,0
+NW10108,Basic,St. Petersburg,29.0,3,7.3,0,0
+NW10501,Premium,St. Petersburg,89.0,11,12.8,1,0
+NW10391,Basic,Clearwater,29.0,11,,1,0
+NW11165,Standard,St. Petersburg,54.0,13,5.7,1,0
+NW10517,Basic,St. Petersburg,29.0,4,7.3,0,0
+NW10479,Basic,ST. PETERSBURG,29.0,8,4.4,0,0
+NW10799,Standard,Tampa,54.0,32,13.5,0,0
+NW10034,Premium,Clearwater,89.0,41,9.9,0,0
+NW10956,Standard,Clearwater,54.0,15,7.9,1,0
+NW10008,Standard,Tampa,54.0,11,4.5,0,0
+NW10789,Premium,Tampa,89.0,31,16.1,0,0
+NW10526,Standard,Tampa,54.0,4,9.3,2,0
+NW10231,Standard,Tampa,54.0,10,3.5,1,0
+NW10319,Basic,Tampa,29.0,34,8.6,0,0
+NW10440,Basic,St. Petersburg,29.0,10,4.8,2,0
+NW10525,Standard,Clearwater,54.0,7,9.0,1,0
+NW10624,Standard,Tampa,54.0,28,5.5,1,0
+NW10610,Basic,Tampa,29.0,31,5.1,0,0
+NW10072,Premium,Tampa,89.0,1,5.7,0,0
+NW10348,Premium,St. Petersburg,89.0,11,10.9,2,0
+NW11010,Standard,St. Petersburg,54.0,8,,0,0
+NW10094,Premium,Tampa,89.0,7,12.6,3,1
+NW10543,Standard,Clearwater,54.0,11,11.0,1,0
+NW10973,Basic,Tampa,29.0,16,7.8,0,0
+NW10998,Basic,Tampa,29.0,4,3.8,1,0
+NW10209,Basic,Clearwater,29.0,13,8.3,1,0
+NW10175,Standard,Clearwater,54.0,6,,0,0
+NW10480,Standard,CLEARWATER,54.0,19,9.6,2,0
+NW10281,Basic,St. Petersburg,29.0,6,10.9,0,0
+NW10106,Basic,St. Petersburg,29.0,12,5.9,0,0
+NW10916,Basic,Tampa,29.0,4,,1,0
+NW11007,Basic,St. Petersburg,29.0,34,8.0,2,1
+NW10251,Basic,Tampa,29.0,6,4.3,0,0
+NW11183,Premium,Clearwater,89.0,3,10.7,2,0
+NW10389,Standard,Clearwater,54.0,6,7.6,0,0
+NW10965,Basic,St. Petersburg,29.0,8,7.7,2,0
+NW10975,Basic,Brandon,29.0,13,8.4,1,0
+NW10327,Premium,Clearwater,89.0,4,7.2,3,0
+NW11006,Basic,Clearwater,29.0,19,1.5,0,0
+NW10012,Basic,Brandon,29.0,11,3.9,0,0
+NW11041,Standard,Tampa,54.0,2,4.4,1,0
+NW10668,Basic,Brandon,29.0,15,8.5,0,0
+NW11089,Standard,Tampa,54.0,11,7.4,0,0
+NW11016,Basic,Tampa,29.0,8,6.3,0,0
+NW10880,Standard,Tampa,54.0,5,6.0,0,0
+NW11082,Standard,Tampa,54.0,22,6.4,1,0
+NW10970,Premium,Clearwater,89.0,8,8.1,0,0
+NW11025,Basic,St. Petersburg,29.0,17,7.9,1,0
+NW10213,Basic,Tampa,29.0,9,,0,0
+NW10216,Standard,Tampa,54.0,9,10.6,2,0
+NW10953,Basic,St. Petersburg,29.0,8,9.9,0,0
+NW10613,Basic,St. Petersburg,29.0,24,5.6,2,0
+NW10822,Basic,Clearwater,29.0,13,7.3,0,0
+NW10422,Basic,Brandon,29.0,17,2.5,1,0
+NW10745,Standard,St. Petersburg,54.0,10,9.2,0,0
+NW10567,Basic,Tampa,29.0,11,7.2,1,0
+NW10421,Basic,Clearwater,29.0,2,8.0,0,0
+NW10068,Basic,Tampa,29.0,9,6.7,0,0
+NW10553,Premium,Clearwater,89.0,19,10.6,1,0
+NW10085,Standard,Clearwater,54.0,8,9.4,0,0
+NW10246,Standard,Brandon,54.0,15,10.1,1,0
+NW10466,Standard,St. Petersburg,54.0,29,,1,0
+NW10879,Basic,Brandon,29.0,45,7.8,0,0
+NW10429,Standard,Tampa,54.0,23,9.5,1,0
+NW10417,Standard,St. Petersburg,54.0,6,3.2,1,0
+NW10412,Standard,St. Petersburg,54.0,31,7.4,1,0
+NW10646,Standard,St. Petersburg,54.0,27,9.9,2,0
+NW10196,Basic,Tampa,29.0,16,4.3,0,0
+NW10225,Standard,St. Petersburg,54.0,8,10.3,1,0
+NW10728,Premium,Tampa,89.0,27,9.4,0,0
+NW10284,Basic,Tampa,29.0,21,9.9,0,0
+NW10659,Standard,Clearwater,54.0,9,9.3,2,0
+NW10914,Basic,Clearwater,29.0,17,7.5,0,0
+NW10111,Basic,Clearwater,29.0,34,8.8,1,0
+NW10544,Basic,Brandon,29.0,28,8.0,0,0
+NW11139,Basic,Brandon,29.0,25,5.5,2,0
+NW10666,Standard,Clearwater,54.0,16,5.5,1,0
+NW10684,Premium,Brandon,89.0,12,7.5,0,0
+NW10817,Standard,St. Petersburg,54.0,14,6.2,0,0
+NW10380,Basic,St. Petersburg,29.0,36,3.9,2,0
+NW10499,Basic,St. Petersburg,29.0,6,5.9,1,0
+NW11057,Basic,Clearwater,29.0,12,9.9,0,0
+NW10962,Standard,Clearwater,54.0,14,4.0,1,0
+NW10779,Standard,Tampa,54.0,8,8.0,1,1
+NW10290,Premium,Tampa,89.0,15,10.9,0,0
+NW10388,Standard,Tampa,54.0,30,10.0,0,0
+NW10359,Basic,Tampa,29.0,17,5.0,0,0
+NW10406,Standard,St. Petersburg,54.0,3,5.3,0,0
+NW10364,Basic,Brandon,29.0,11,7.8,2,0
+NW10524,Standard,Brandon,54.0,9,12.2,0,0
+NW10574,Standard,Clearwater,54.0,24,7.7,1,0
+NW10682,Basic,Clearwater,29.0,13,9.9,0,0
+NW11048,Standard,TAMPA,54.0,7,8.6,0,0
+NW10693,Standard,Brandon,54.0,9,7.7,1,0
+NW10704,Basic,Tampa,29.0,14,5.5,2,0
+NW10701,Basic,Tampa,29.0,9,,0,0
+NW10112,Standard,Brandon,54.0,6,9.6,2,0
+NW10102,Basic,Tampa,29.0,2,11.8,1,0
+NW10414,Standard,Tampa,54.0,20,4.5,0,0
+NW10589,Standard,Clearwater,54.0,8,6.9,4,0
+NW10190,Basic,Tampa,29.0,10,4.0,0,0
+NW11153,Basic,Brandon,29.0,5,11.4,1,0
+NW10994,Standard,Clearwater,54.0,32,8.8,1,0
+NW10740,Premium,Tampa,89.0,6,10.3,2,0
+NW10052,Basic,Clearwater,29.0,6,4.3,0,0
+NW10028,Standard,Tampa,54.0,19,10.8,1,0
+NW10065,Premium,Tampa,89.0,41,11.1,0,0
+NW10874,Premium,St. Petersburg,89.0,19,10.8,0,0
+NW10245,Standard,Tampa,54.0,10,8.3,0,0
+NW10802,Basic,Clearwater,29.0,15,10.9,0,0
+NW11078,Basic,Tampa,29.0,25,4.1,1,0
+NW11143,Basic,St. Petersburg,29.0,16,2.6,0,0
+NW10843,Premium,Tampa,89.0,14,11.2,2,0
+NW10594,Standard,Tampa,54.0,23,,1,0
+NW10927,Basic,Clearwater,29.0,6,6.3,0,0
+NW10308,Standard,TAMPA,54.0,11,11.0,0,0
+NW10902,Standard,Clearwater,54.0,31,5.7,0,0
+NW10386,Standard,Tampa,54.0,6,4.2,1,0
+NW10871,Premium,Brandon,89.0,27,12.8,1,0
+NW10354,Basic,Clearwater,29.0,7,3.6,0,0
+NW10058,Premium,St. Petersburg,89.0,17,6.3,0,0
+NW10159,Basic,Tampa,29.0,13,4.4,3,0
+NW10186,Premium,Clearwater,89.0,22,9.1,0,0
+NW10244,Standard,TAMPA,54.0,8,11.8,0,0
+NW11071,Standard,Clearwater,54.0,24,7.2,0,0
+NW10075,Basic,St. Petersburg,29.0,21,5.4,0,0
+NW10157,Basic,St. Petersburg,29.0,18,4.8,1,1
+NW10126,Basic,Tampa,29.0,31,8.6,0,0
+NW10744,Standard,Clearwater,54.0,6,6.7,0,0
+NW10723,Basic,Brandon,29.0,19,9.3,0,0
+NW10322,Standard,Tampa,54.0,11,15.1,0,0
+NW10873,Basic,TAMPA,29.0,4,9.2,1,0
+NW11069,Basic,Tampa,29.0,26,6.9,0,0
+NW10804,Standard,Tampa,54.0,6,8.0,1,0
+NW10212,Basic,St. Petersburg,29.0,17,2.2,1,0
+NW10777,Basic,St. Petersburg,29.0,14,9.9,1,0
+NW10103,Standard,Clearwater,54.0,2,,0,0
+NW10753,Basic,Clearwater,29.0,3,5.1,1,0
+NW10983,Basic,Clearwater,29.0,6,4.9,1,0
+NW10997,Basic,St. Petersburg,29.0,15,6.5,0,0
+NW10845,Basic,Brandon,29.0,11,2.2,0,1
+NW10128,Basic,St. Petersburg,29.0,2,11.0,0,0
+NW10520,Basic,St. Petersburg,29.0,12,2.3,2,0
+NW11152,Basic,Tampa,29.0,5,5.9,2,1
+NW10966,Basic,St. Petersburg,29.0,5,7.9,2,1
+NW10770,Standard,Brandon,54.0,13,11.0,0,0
+NW10228,Basic,Brandon,29.0,5,10.1,0,0
+NW10749,Premium,Brandon,89.0,8,8.9,1,0
+NW10273,Standard,Tampa,54.0,9,,0,0
+NW10875,Basic,St. Petersburg,29.0,15,4.0,0,0
+NW10182,Basic,ST. PETERSBURG,29.0,21,,0,0
+NW11012,Basic,Clearwater,29.0,13,11.0,1,0
+NW11036,Standard,Tampa,54.0,21,10.3,0,0
+NW10197,Standard,Tampa,54.0,6,8.9,1,1
+NW10793,Standard,St. Petersburg,54.0,10,7.6,1,0
+NW10669,Basic,Tampa,29.0,10,8.2,1,0
+NW10462,Basic,TAMPA,29.0,4,10.9,0,0
+NW10451,Basic,St. Petersburg,29.0,7,5.3,0,0
+NW10089,Standard,St. Petersburg,54.0,21,4.8,1,0
+NW11180,Basic,Tampa,29.0,31,7.5,0,0
+NW11111,Premium,St. Petersburg,89.0,19,15.2,1,0
+NW10486,Basic,St. Petersburg,29.0,13,4.1,1,1
+NW10050,Standard,Tampa,54.0,12,1.5,0,1
+NW10699,Basic,Tampa,29.0,14,5.8,0,0
+NW10853,Premium,Tampa,89.0,16,13.5,2,0
+NW10415,Basic,BRANDON,29.0,10,8.3,1,0
+NW10676,Basic,Tampa,29.0,25,4.1,0,0
+NW10366,Basic,St. Petersburg,29.0,11,4.0,2,0
+NW10534,Premium,TAMPA,89.0,12,9.7,0,0
+NW10830,Standard,Brandon,54.0,3,8.7,0,0
+NW10234,Basic,Tampa,29.0,3,6.7,1,0
+NW10489,Basic,Clearwater,29.0,13,5.2,0,0
+NW10680,Basic,St. Petersburg,29.0,3,5.0,1,1
+NW11034,Basic,Tampa,29.0,6,2.7,1,0
+NW10867,Standard,St. Petersburg,54.0,22,9.9,1,0
+NW10581,Basic,Tampa,29.0,10,6.5,1,0
+NW10401,Basic,Brandon,29.0,12,5.5,0,0
+NW10698,Standard,Clearwater,54.0,10,3.5,0,0
+NW10737,Basic,Tampa,29.0,9,6.5,1,0
+NW10438,Basic,Clearwater,29.0,6,7.5,1,1
+NW10527,Basic,Tampa,29.0,9,12.2,2,0
+NW11027,Basic,St. Petersburg,29.0,8,5.5,1,0
+NW10368,Standard,Clearwater,54.0,21,6.6,0,0
+NW10876,Basic,Tampa,29.0,19,,2,0
+NW10717,Standard,Clearwater,54.0,4,6.9,1,0
+NW10863,Standard,Tampa,54.0,14,10.5,3,0
+NW10151,Premium,Brandon,89.0,13,9.2,1,0
+NW11188,Basic,St. Petersburg,29.0,3,5.7,0,0
+NW10132,Basic,Tampa,29.0,28,5.0,0,0
+NW10738,Premium,Clearwater,89.0,16,9.5,0,0
+NW10029,Standard,Tampa,54.0,11,11.4,0,0
+NW10639,Basic,St. Petersburg,29.0,13,10.6,3,0
+NW10238,Standard,BRANDON,54.0,27,8.6,1,0
+NW10323,Basic,Tampa,29.0,18,9.0,1,0
+NW10628,Basic,BRANDON,29.0,9,4.6,1,0
+NW11160,Basic,Brandon,29.0,4,6.7,0,0
+NW10769,Standard,Tampa,54.0,17,5.7,0,0
+NW11182,Basic,Tampa,29.0,7,4.9,0,0
+NW11131,Basic,Tampa,29.0,22,11.0,2,0
+NW11020,Standard,Brandon,54.0,19,7.0,1,0
+NW10379,Standard,Clearwater,54.0,8,9.2,0,0
+NW10747,Premium,Brandon,89.0,18,11.5,1,0
+NW10350,Premium,St. Petersburg,89.0,10,7.7,0,0
+NW10051,Standard,Tampa,54.0,11,13.7,0,0
+NW10507,Basic,Tampa,29.0,6,2.7,0,0
+NW11037,Premium,Tampa,89.0,5,11.9,1,0
+NW10575,Standard,St. Petersburg,54.0,8,6.0,1,0
+NW10233,Standard,Clearwater,54.0,24,5.6,1,0
+NW10743,Premium,Tampa,89.0,17,10.7,0,0
+NW10478,Basic,Tampa,29.0,26,5.7,1,0
+NW10999,Standard,Brandon,54.0,45,6.5,1,0
+NW10193,Basic,Tampa,29.0,9,7.1,2,0
+NW10404,Basic,TAMPA,29.0,28,9.5,0,0
+NW10883,Basic,St. Petersburg,29.0,5,7.0,2,0
+NW10487,Standard,Tampa,54.0,18,10.6,1,0
+NW10471,Premium,Tampa,89.0,6,9.8,0,0
+NW10256,Premium,Clearwater,89.0,21,11.6,1,0
+NW10894,Premium,St. Petersburg,89.0,6,14.3,1,0
+NW11106,Basic,St. Petersburg,29.0,16,5.3,0,0
+NW10138,Standard,Tampa,54.0,7,6.9,0,1
+NW10491,Standard,Tampa,54.0,12,12.2,0,0
+NW10578,Premium,Clearwater,89.0,8,,0,0
+NW10706,Basic,Brandon,29.0,19,3.8,1,0
+NW10206,Basic,Tampa,29.0,7,4.7,0,0
+NW10848,Standard,Clearwater,54.0,3,11.4,0,0
+NW11063,Standard,St. Petersburg,54.0,4,6.3,0,0
+NW10000,Premium,Tampa,89.0,15,12.6,2,0
+NW10226,Basic,St. Petersburg,29.0,13,6.2,1,0
+NW10249,Basic,Clearwater,29.0,7,2.2,2,0
+NW10889,Premium,Clearwater,89.0,13,10.5,0,0
+NW10705,Standard,Tampa,54.0,6,,1,0
+NW10979,Standard,Brandon,54.0,18,11.3,1,0
+NW11029,Basic,CLEARWATER,29.0,17,6.0,0,0
+NW10283,Standard,Tampa,54.0,7,7.8,1,0
+NW10313,Basic,Clearwater,29.0,7,3.1,1,0
+NW10596,Basic,Clearwater,29.0,11,5.8,0,0
+NW10059,Premium,Tampa,89.0,19,15.4,0,0
+NW10047,Basic,St. Petersburg,29.0,9,10.5,1,0
+NW11138,Standard,Brandon,54.0,15,11.6,2,0
+NW11095,Basic,Tampa,29.0,10,8.5,0,0
+NW10986,Standard,Clearwater,54.0,5,6.0,0,0
+NW10969,Basic,St. Petersburg,29.0,14,6.3,0,0
+NW11174,Basic,Clearwater,29.0,18,5.8,1,0
+NW11161,Basic,St. Petersburg,29.0,22,7.9,2,0
+NW10758,Basic,Clearwater,29.0,11,6.8,0,0
+NW10978,Basic,St. Petersburg,29.0,2,2.6,1,0
+NW11128,Basic,Tampa,29.0,13,5.6,0,0
+NW10312,Basic,Clearwater,29.0,22,6.1,0,0
+NW10091,Basic,St. Petersburg,29.0,13,7.3,1,0
+NW10721,Basic,St. Petersburg,29.0,5,12.3,1,0
+NW10734,Basic,Tampa,29.0,21,7.6,1,0
+NW10811,Premium,Tampa,89.0,4,11.2,1,0
+NW10459,Basic,Brandon,29.0,9,7.9,1,1
+NW11141,Premium,Tampa,89.0,25,9.2,0,0
+NW10849,Basic,St. Petersburg,29.0,50,7.0,1,0
+NW10383,Basic,Tampa,29.0,9,6.5,0,0
+NW10017,Basic,Tampa,29.0,7,4.8,1,0
+NW10955,Basic,Clearwater,29.0,4,7.3,1,0
+NW11092,Premium,Tampa,89.0,17,10.6,1,0
+NW11066,Standard,Brandon,54.0,23,10.6,3,0
+NW10987,Standard,St. Petersburg,54.0,19,5.9,1,0
+NW11014,Basic,Tampa,29.0,9,1.6,2,0
+NW11178,Basic,Tampa,29.0,6,10.6,0,0
+NW11151,Basic,St. Petersburg,29.0,5,10.4,0,0
+NW10125,Standard,Clearwater,54.0,13,7.3,1,0
+NW10511,Standard,Tampa,54.0,18,10.4,0,0
+NW10076,Basic,Tampa,29.0,35,7.8,1,0
+NW10930,Basic,Tampa,29.0,19,1.3,0,0
+NW10141,Basic,Clearwater,29.0,17,5.8,0,0
+NW10585,Standard,Clearwater,54.0,12,10.4,0,0
+NW10818,Standard,St. Petersburg,54.0,25,11.4,1,0
+NW11179,Standard,Brandon,54.0,13,8.5,2,0
+NW10787,Standard,Tampa,54.0,16,2.9,0,0
+NW10555,Basic,St. Petersburg,29.0,4,3.3,1,0
+NW11056,Basic,Brandon,29.0,10,9.0,0,0
+NW10015,Premium,St. Petersburg,89.0,14,13.0,0,0
+NW10435,Standard,Brandon,54.0,16,9.0,0,0
+NW10498,Basic,Clearwater,29.0,7,8.5,0,0
+NW10619,Basic,St. Petersburg,29.0,16,,1,0
+NW10450,Standard,Brandon,54.0,14,11.5,0,0
+NW10766,Standard,Brandon,54.0,9,11.9,1,0
+NW10035,Standard,Tampa,54.0,16,12.5,0,0
+NW10947,Standard,Tampa,54.0,8,5.8,3,0
+NW10981,Standard,St. Petersburg,54.0,9,11.4,0,0
+NW10241,Basic,Tampa,29.0,16,8.0,0,0
+NW10529,Basic,Brandon,29.0,13,3.6,1,0
+NW10343,Standard,Brandon,54.0,15,8.0,0,1
+NW10886,Standard,Clearwater,54.0,3,11.6,0,0
+NW10506,Premium,St. Petersburg,89.0,7,11.5,0,0
+NW10830,Standard,Brandon,54.0,3,8.7,0,0
+NW10215,Basic,St. Petersburg,29.0,6,5.7,0,0
+NW10208,Basic,Clearwater,29.0,1,8.1,0,0
+NW10945,Basic,Clearwater,29.0,9,5.7,0,0
+NW10064,Basic,Tampa,29.0,2,8.6,0,1
+NW10010,Basic,Clearwater,29.0,10,5.5,0,0
+NW10252,Premium,CLEARWATER,89.0,13,12.1,0,0
+NW10603,Basic,St. Petersburg,29.0,19,4.4,2,1
+NW10805,Premium,Tampa,89.0,12,,1,0
+NW11124,Premium,Brandon,89.0,8,12.2,0,0
+NW10314,Basic,Clearwater,29.0,9,4.7,0,0
+NW10518,Standard,Tampa,54.0,12,,0,0
+NW10465,Standard,St. Petersburg,54.0,3,11.5,1,0
+NW10931,Basic,Tampa,29.0,10,8.1,0,0
+NW10963,Basic,Tampa,29.0,5,,1,0
+NW10842,Basic,Clearwater,29.0,9,,1,0
+NW10367,Standard,Clearwater,54.0,26,6.1,1,0
+NW10145,Standard,Tampa,54.0,2,11.8,0,0
+NW10362,Standard,Tampa,54.0,10,6.1,0,0
+NW10630,Premium,Tampa,89.0,37,8.3,3,0
+NW10090,Basic,St. Petersburg,29.0,21,5.5,0,0
+NW10321,Basic,Tampa,29.0,23,9.3,1,0
+NW10185,Basic,Tampa,29.0,2,6.1,1,0
+NW10924,Basic,Tampa,29.0,11,6.2,1,0
+NW10868,Basic,Tampa,29.0,30,6.9,1,0
+NW10756,Premium,Clearwater,89.0,17,15.3,0,0
+NW10119,Standard,Tampa,54.0,9,12.0,2,1
+NW11062,Basic,Tampa,29.0,16,5.7,0,0
+NW10840,Basic,St. Petersburg,29.0,12,4.4,1,0
+NW10493,Standard,Tampa,54.0,19,,0,0
+NW10443,Basic,Tampa,29.0,5,,1,0
+NW10338,Standard,St. Petersburg,54.0,34,6.3,0,0
+NW11108,Basic,Tampa,29.0,14,8.0,0,0
+NW10224,Premium,Clearwater,89.0,19,7.6,1,0
+NW10019,Standard,St. Petersburg,54.0,12,5.2,0,0
+NW11096,Standard,Tampa,54.0,20,6.8,0,0
+NW10418,Standard,Tampa,54.0,9,8.9,0,0
+NW11099,Basic,St. Petersburg,29.0,5,6.3,0,0
+NW10991,Basic,Tampa,29.0,13,5.3,0,0
+NW10385,Standard,St. Petersburg,54.0,18,8.5,1,0
+NW10929,Basic,Clearwater,29.0,10,9.0,1,0
+NW10452,Standard,CLEARWATER,54.0,7,5.5,1,0
+NW10264,Standard,Clearwater,54.0,30,10.8,1,0
+NW11064,Standard,Tampa,54.0,10,6.6,0,0
+NW10160,Basic,Tampa,29.0,3,5.5,0,0
+NW10110,Standard,Clearwater,54.0,12,7.1,1,0
+NW10303,Basic,Brandon,29.0,11,9.1,2,0
+NW11193,Basic,Brandon,29.0,7,3.8,0,0
+NW10048,Standard,St. Petersburg,54.0,48,10.7,3,0
+NW10509,Basic,St. Petersburg,29.0,9,7.3,1,0
+NW10018,Standard,Tampa,54.0,11,7.4,0,0
+NW11067,Standard,Tampa,54.0,3,8.8,0,0
+NW10934,Basic,Clearwater,29.0,13,11.3,0,0
+NW11114,Premium,Tampa,89.0,7,,0,0
+NW10885,Standard,Tampa,54.0,15,5.5,0,0
+NW10275,Premium,St. Petersburg,89.0,25,13.9,0,0
+NW10114,Standard,Clearwater,54.0,7,10.2,3,0
+NW10727,Basic,Tampa,29.0,6,6.3,3,0
+NW11155,Standard,Tampa,54.0,11,,1,0
+NW10001,Basic,Brandon,29.0,1,8.2,0,0
+NW10227,Basic,St. Petersburg,29.0,2,5.8,1,0
+NW10133,Basic,Tampa,29.0,18,4.8,0,0
+NW10248,Basic,St. Petersburg,29.0,7,1.4,0,0
+NW10496,Basic,Clearwater,29.0,7,7.1,0,0
+NW10960,Basic,Clearwater,29.0,9,2.8,0,0
+NW10335,Standard,Clearwater,54.0,10,8.4,0,0
+NW10439,Basic,Tampa,29.0,6,5.1,0,1
+NW11166,Premium,Tampa,89.0,10,5.3,1,1
+NW10812,Basic,ST. PETERSBURG,29.0,10,1.8,0,0
+NW11051,Standard,St. Petersburg,54.0,4,4.5,1,0
+NW10441,Basic,Tampa,29.0,10,8.4,0,1
+NW11162,Basic,Clearwater,29.0,7,7.0,1,1
+NW11113,Premium,Tampa,89.0,2,13.0,0,0
+NW10838,Basic,St. Petersburg,29.0,13,4.8,0,1
+NW11047,Basic,Clearwater,29.0,37,6.0,1,0
+NW11103,Standard,Tampa,54.0,25,10.8,1,0
+NW11149,Basic,Tampa,29.0,34,7.4,1,0
+NW10242,Standard,Tampa,54.0,17,8.2,1,0
+NW10683,Basic,Tampa,29.0,5,7.5,3,0
+NW10657,Standard,St. Petersburg,54.0,19,11.2,0,0
+NW10504,Basic,Tampa,29.0,1,7.8,2,0
+NW10408,Standard,Clearwater,54.0,13,5.5,0,0
+NW11128,Basic,Tampa,29.0,13,5.6,0,0
+NW11105,Basic,Clearwater,29.0,3,8.7,1,0
+NW11061,Standard,Clearwater,54.0,12,,1,0
+NW10140,Standard,St. Petersburg,54.0,9,6.1,0,0
+NW10546,Standard,Tampa,54.0,9,10.9,2,0
+NW10900,Basic,St. Petersburg,29.0,5,,0,0
+NW10637,Premium,Clearwater,89.0,20,14.3,2,0
+NW10688,Basic,Clearwater,29.0,6,6.4,0,0
+NW10621,Basic,Tampa,29.0,13,4.8,1,0
+NW10850,Premium,Tampa,89.0,6,10.9,0,0
+NW10583,Basic,BRANDON,29.0,18,9.0,1,0
+NW10332,Basic,Clearwater,29.0,22,8.6,1,0
+NW11115,Basic,Brandon,29.0,12,7.7,2,0
+NW11104,Basic,Tampa,29.0,11,5.2,0,0
