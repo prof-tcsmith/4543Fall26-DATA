@@ -25,6 +25,8 @@ data/
 ├── week01/   Course Introduction — Bay Harbor Coffee daily sales
 ├── week02/   ML Foundations & Python — Northwind Fitness membership data
 ├── week03/   Data Preparation — Horizon Coffee transactions, customers, orders
+├── week04/   Linear Regression — assignment/: Pelican Row Growers tray trial;
+│             practice/: Ridgeline Facilities building energy
 ├── week05/   Logistic Regression — churn, loan default, employee attrition
 ├── week06/   K-Nearest Neighbors — insurance churn, trial conversions
 ├── week07/   Support Vector Machines — SecureBank fraud transactions
@@ -36,8 +38,10 @@ final-project/
 └── templates/    submission templates and exemplars
 ```
 
-Folder numbers are **Fall 2026 week numbers**. Weeks 4, 8 and 10 have no folder
+Folder numbers are **Fall 2026 week numbers**. Weeks 8 and 10 have no folder
 — those notebooks use scikit-learn built-in datasets or generate their data inline.
+(Week 4's lecture demo also generates its data inline, on purpose: seeing the hidden
+relationship is the lesson. Its assignment and practice data live here.)
 
 ## Datasets added for Fall 2026
 
@@ -48,6 +52,9 @@ the course repo, so regenerating them produces byte-identical files.
 |---|---:|---|
 | `week01/bay_harbor_daily_sales.csv` | 90 | Daily café sales — transactions, ticket size, temperature, staffing. Clean by design; Week 1 is about workflow, not cleaning. |
 | `week02/northwind_members.csv` | 1,218 | Gym membership records — plan, tenure, visits, support tickets, churn flag. **Deliberately messy:** 85 missing values, 18 duplicate rows, and inconsistent capitalisation in `region`. Finding those defects is part of the assignment. |
+| `week04/assignment/pelican_row_trays.csv` | 500 | Pelican Row Growers growing trial, one row per harvested microgreen tray — tray ID, nutrient concentrate added (mL), grow-room temperature (°C), relative humidity (%), the tray's position along its rack (m), seed sown (g), seed-lot age (days), and harvest weight (g, the target). No missing values. The graded Week 4 assignment asks students to recover how the inputs relate to harvest weight. |
+| `week04/practice/ridgeline_tower_energy.csv` | 50 | One office tower's daily electricity use (kWh) and that day's average outdoor temperature (°F). Used in the ungraded Week 4 practice assignment. |
+| `week04/practice/ridgeline_portfolio_energy.csv` | 420 | Ridgeline Facilities building portfolio, one row per building — building type, floor area (sq ft), age (years), weekly operating hours, LED retrofit flag, cooling capacity (tons), number of floors, parking spaces, and annual electricity use (kWh, the target). Used in the ungraded Week 4 practice assignment. |
 | `week07/fraud_transactions.csv` | 3,000 | SecureBank card transactions, 5% fraud. The Spring Week 7 notebook referenced this file but it was never published, so the notebook silently fell back to generating data inline; it is now published so the URL path works. |
 
 The Week 2 defects are intentional. Please do not "fix" them.
