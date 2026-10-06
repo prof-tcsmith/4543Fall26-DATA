@@ -29,7 +29,8 @@ data/
 │             practice/: Ridgeline Facilities building energy
 ├── week05/   Logistic Regression — churn, loan default, employee attrition
 ├── week06/   K-Nearest Neighbors — insurance churn, trial conversions
-├── week07/   Support Vector Machines — SecureBank fraud transactions
+├── week07/   Support Vector Machines (Week 8) — SecureBank fraud transactions, the practice data
+├── week08/   Support Vector Machines — First Republic Financial complaints, the assignment data
 └── week09/   Ensemble Methods — insurance claims fraud
 
 final-project/
@@ -38,8 +39,10 @@ final-project/
 └── templates/    submission templates and exemplars
 ```
 
-Folder numbers are **Fall 2026 week numbers**. Weeks 8 and 10 have no folder
-— those notebooks use scikit-learn built-in datasets or generate their data inline.
+Folder numbers are **Fall 2026 week numbers**, with one exception: `week07/` holds the
+Week 8 practice data. The Support Vector Machines week moved from Week 7 to Week 8 on
+October 6, and a published file path is never renamed. Week 10 has no folder — its
+notebooks use scikit-learn built-in datasets or generate their data inline.
 (Week 4's lecture demo also generates its data inline, on purpose: seeing the hidden
 relationship is the lesson. Its assignment and practice data live here.)
 
@@ -55,7 +58,8 @@ the course repo, so regenerating them produces byte-identical files.
 | `week04/assignment/pelican_row_trays.csv` | 500 | Pelican Row Growers growing trial, one row per harvested microgreen tray — tray ID, nutrient concentrate added (mL), grow-room temperature (°C), relative humidity (%), the tray's position along its rack (m), seed sown (g), seed-lot age (days), and harvest weight (g, the target). No missing values. The graded Week 4 assignment asks students to recover how the inputs relate to harvest weight. |
 | `week04/practice/ridgeline_tower_energy.csv` | 50 | One office tower's daily electricity use (kWh) and that day's average outdoor temperature (°F). Used in the ungraded Week 4 practice assignment. |
 | `week04/practice/ridgeline_portfolio_energy.csv` | 420 | Ridgeline Facilities building portfolio, one row per building — building type, floor area (sq ft), age (years), weekly operating hours, LED retrofit flag, cooling capacity (tons), number of floors, parking spaces, and annual electricity use (kWh, the target). Used in the ungraded Week 4 practice assignment. |
-| `week07/fraud_transactions.csv` | 3,000 | SecureBank card transactions, 5% fraud. The Spring Week 7 notebook referenced this file but it was never published, so the notebook silently fell back to generating data inline; it is now published so the URL path works. |
+| `week07/fraud_transactions.csv` | 3,000 | SecureBank card transactions, 5% fraud. The Spring Week 7 notebook referenced this file but it was never published, so the notebook silently fell back to generating data inline; it is now published so the URL path works. Used in the ungraded Week 8 practice assignment. |
+| `week08/first_republic_complaints.csv` | 4,000 | First Republic Financial customer complaints, one row per complaint — numbers the bank's intake system extracts from each message (length in words, counts of fee, rate, payment and treatment words, amount disputed), what the customer holds (credit card, mortgage, an open application), account age, prior complaints, when the complaint arrived, and the team that resolved it (`Cards`, `Deposits`, `Mortgage` or `Fair Lending`, the target). No missing values. Used in the graded Week 8 assignment. |
 
 The Week 2 defects are intentional. Please do not "fix" them.
 
