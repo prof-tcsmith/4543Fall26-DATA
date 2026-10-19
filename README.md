@@ -31,7 +31,8 @@ data/
 ├── week06/   K-Nearest Neighbors — insurance churn, trial conversions
 ├── week07/   Support Vector Machines (Week 8) — SecureBank fraud transactions, the practice data
 ├── week08/   Support Vector Machines — First Republic Financial complaints, the assignment data
-└── week09/   Ensemble Methods — insurance claims fraud
+└── week09/   Decision Trees & Ensemble Methods — Pinnacle Mutual referred claims
+              (pinnacle_referred_claims.csv, the assignment data); insurance_claims.csv is the earlier version
 
 final-project/
 ├── cases/    20 binary-classification scenarios (01–20)
