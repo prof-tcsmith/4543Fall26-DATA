@@ -42,8 +42,8 @@ final-project/
 
 Folder numbers are **Fall 2026 week numbers**, with one exception: `week07/` holds the
 Week 8 practice data. The Support Vector Machines week moved from Week 7 to Week 8 on
-October 6, and a published file path is never renamed. Week 10 has no folder — its
-notebooks use scikit-learn built-in datasets or generate their data inline.
+October 6, and a published file path is never renamed. Week 10's assignment and practice data
+are in `week10/` (added 2026-10-25).
 (Week 4's lecture demo also generates its data inline, on purpose: seeing the hidden
 relationship is the lesson. Its assignment and practice data live here.)
 
@@ -61,6 +61,8 @@ the course repo, so regenerating them produces byte-identical files.
 | `week04/practice/ridgeline_portfolio_energy.csv` | 420 | Ridgeline Facilities building portfolio, one row per building — building type, floor area (sq ft), age (years), weekly operating hours, LED retrofit flag, cooling capacity (tons), number of floors, parking spaces, and annual electricity use (kWh, the target). Used in the ungraded Week 4 practice assignment. |
 | `week07/fraud_transactions.csv` | 3,000 | SecureBank card transactions, 5% fraud. The Spring Week 7 notebook referenced this file but it was never published, so the notebook silently fell back to generating data inline; it is now published so the URL path works. Used in the ungraded Week 8 practice assignment. |
 | `week08/first_republic_complaints.csv` | 4,000 | First Republic Financial customer complaints, one row per complaint — numbers the bank's intake system extracts from each message (length in words, counts of fee, rate, payment and treatment words, amount disputed), what the customer holds (credit card, mortgage, an open application), account age, prior complaints, when the complaint arrived, and the team that resolved it (`Cards`, `Deposits`, `Mortgage` or `Fair Lending`, the target). No missing values. Used in the graded Week 8 assignment. |
+| `week10/assignment/meridian_customers.csv` | 4,000 | Meridian Commerce customers, one row per customer — tenure (months), orders in the last year, days since the last order, average order value, lifetime spend, email open rate (%), support tickets in the last 90 days, app sessions in the last 30 days, and whether the customer lapsed (no order in the next 90 days, about 10%, the target). No missing values. Used in the graded Week 10 assignment. |
+| `week10/practice/brightline_solar_quotes.csv` | 2,000 | Brightline Solar quotes, one row per quote — monthly electricity bill, home value, roof age, shade (%), days to the site visit, competing quotes, and whether the customer signed (about 40%, the target). Used in the ungraded Week 10 practice assignment. |
 
 The Week 2 defects are intentional. Please do not "fix" them.
 
