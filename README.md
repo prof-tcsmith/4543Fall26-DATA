@@ -36,7 +36,7 @@ data/
 
 final-project/
 ├── cases/    20 binary-classification scenarios (01–20)
-│   └── NN-name/  scenario.md, train.csv, test.csv
+│   └── NN-name/  scenario.md, train.csv, test.csv, holdout_features.csv
 └── templates/    submission templates and exemplars
 ```
 
@@ -75,7 +75,13 @@ false-positive / false-negative cost structure, and its own train/test split:
 BASE = "https://raw.githubusercontent.com/prof-tcsmith/4543Fall26-DATA/main/final-project/cases"
 train = pd.read_csv(f"{BASE}/04-telecom-churn/train.csv")
 test  = pd.read_csv(f"{BASE}/04-telecom-churn/test.csv")
+holdout = pd.read_csv(f"{BASE}/04-telecom-churn/holdout_features.csv")   # no target column
 ```
+
+`holdout_features.csv` (added 2026-10-30) has the features and an `id`, and no target: the
+holdout predictions are made on it. Each scenario's current brief, with its data dictionary,
+is its page in the Canvas module *Final Project: Scenarios and Data*. `final-project/templates/` keeps the
+earlier versions; the current guide and templates (for teams) are in the Canvas module *Final Project*.
 
 Holdout labels and reference solutions are **not** in this repository — they stay
 in the private course repo.
@@ -85,6 +91,14 @@ in the private course repo.
 **Files are never moved, renamed, or altered once the semester starts.** Student
 notebooks depend on these URLs resolving for the whole term. Corrections, if ever
 required, are published as a new file alongside the original.
+
+**One exception, made before the final project opened (2026-10-30):**
+`final-project/cases/18-medical-no-show/train.csv` and `test.csv` were corrected in
+place. 51 rows (42 train, 9 test) had more prior no-shows than prior appointments, or no
+prior appointment at all, so their `no_show_rate_historical` ran above 1; each now has
+as many appointments as no-shows (at least one), with the rate recomputed. No other row
+or column changed, and no student work used these files. The `holdout_features.csv`
+files were added the same day.
 
 ## Provenance
 
