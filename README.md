@@ -35,9 +35,9 @@ data/
               (pinnacle_referred_claims.csv, the assignment data); insurance_claims.csv is the earlier version
 
 final-project/
-├── cases/    20 binary-classification scenarios (01–20)
+├── cases/    15 binary-classification scenarios (01–15)
 │   └── NN-name/  scenario.md, train.csv, test.csv, holdout_features.csv
-└── templates/    submission templates and exemplars
+└── templates/    example responses, the executive-summary template, validate_submission.py
 ```
 
 Folder numbers are **Fall 2026 week numbers**, with one exception: `week07/` holds the
@@ -68,20 +68,20 @@ The Week 2 defects are intentional. Please do not "fix" them.
 
 ## Final-project cases
 
-Twenty binary-classification scenarios, each with a business narrative, an explicit
+Fifteen binary-classification scenarios, each with a business narrative, an explicit
 false-positive / false-negative cost structure, and its own train/test split:
 
 ```python
 BASE = "https://raw.githubusercontent.com/prof-tcsmith/4543Fall26-DATA/main/final-project/cases"
-train = pd.read_csv(f"{BASE}/04-telecom-churn/train.csv")
-test  = pd.read_csv(f"{BASE}/04-telecom-churn/test.csv")
-holdout = pd.read_csv(f"{BASE}/04-telecom-churn/holdout_features.csv")   # no target column
+train = pd.read_csv(f"{BASE}/08-saas-cancellation/train.csv")
+test  = pd.read_csv(f"{BASE}/08-saas-cancellation/test.csv")
+holdout = pd.read_csv(f"{BASE}/08-saas-cancellation/holdout_features.csv")   # no target column
 ```
 
 `holdout_features.csv` (added 2026-10-30) has the features and an `id`, and no target: the
 holdout predictions are made on it. Each scenario's current brief, with its data dictionary,
-is its page in the Canvas module *Final Project: Scenarios and Data*. `final-project/templates/` keeps the
-earlier versions; the current guide and templates (for teams) are in the Canvas module *Final Project*.
+is its page in the Canvas module *Final Project: Scenarios and Data*. The guide is in the Canvas module
+*Final Project*; `final-project/templates/` holds the student templates.
 
 Holdout labels and reference solutions are **not** in this repository — they stay
 in the private course repo.
@@ -99,6 +99,11 @@ prior appointment at all, so their `no_show_rate_historical` ran above 1; each n
 as many appointments as no-shows (at least one), with the rate recomputed. No other row
 or column changed, and no student work used these files. The `holdout_features.csv`
 files were added the same day.
+
+**A second exception, also made before the final project opened (2026-11-03):** the 20
+Spring scenarios in `final-project/cases/` were replaced by the 15 now there, numbered 01 to 15
+(eight common textbook exercises dropped, the rest reworked, four new), and the worked exemplar was
+withdrawn. No student work used the earlier files.
 
 ## Provenance
 

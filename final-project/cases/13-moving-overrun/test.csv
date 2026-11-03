@@ -1,0 +1,1011 @@
+quoted_labor_hours,crew_size,home_size,furniture_items,heavy_items,origin_building_type,dest_building_type,stair_flights,elevator_booked,long_carry_ft,drive_miles,packing_service,survey_type,quote_prepared_by,price_matched,season,day_of_week,start_slot,days_booked_ahead,confirmation_call,repeat_customer,target
+15.0,2,2 bedrooms,28,0,Apartment,Apartment,5,0,115,4.8,Customer packs,Video call,Sales rep,0,Summer,Saturday,Morning,67,Not ready,0,0
+26.0,4,2 bedrooms,53,0,Townhouse,Townhouse,4,0,40,9.8,Customer packs,Video call,Operations estimator,0,Summer,Monday,Morning,66,Not ready,0,1
+12.0,2,1 bedroom,23,0,Apartment,Condo,3,1,160,12.4,Customer packs,In-person,Sales rep,0,Spring,Saturday,Morning,11,Ready,1,0
+14.0,2,2 bedrooms,34,1,Townhouse,House,1,0,20,11.0,Customer packs,Phone,Sales rep,1,Spring,Thursday,Morning,8,Ready,1,1
+38.0,4,3 bedrooms,37,0,Townhouse,Townhouse,3,0,85,87.8,Full,Phone,Sales rep,0,Summer,Saturday,Morning,30,Ready,1,0
+16.0,2,1 bedroom,34,0,Apartment,Townhouse,1,0,,23.2,Customer packs,Phone,Operations estimator,0,Summer,Wednesday,Morning,50,Ready,0,0
+32.5,5,4+ bedrooms,75,0,House,House,1,0,25,12.8,Partial,Phone,Sales rep,1,Fall,Monday,Morning,7,Ready,0,0
+22.5,3,2 bedrooms,29,0,House,House,2,0,50,12.6,Full,Video call,Operations estimator,0,Spring,Tuesday,Morning,4,Ready,0,0
+45.0,6,4+ bedrooms,85,1,Townhouse,Townhouse,3,0,,23.2,Customer packs,In-person,Operations estimator,0,Fall,Monday,Morning,20,Ready,0,0
+15.0,2,2 bedrooms,30,0,Condo,Apartment,0,1,255,6.0,Customer packs,Video call,Operations estimator,0,Spring,Saturday,Morning,51,Not ready,0,1
+19.5,3,2 bedrooms,42,0,Condo,Condo,0,1,145,24.7,Customer packs,Phone,Operations estimator,0,Summer,Thursday,Morning,25,Not ready,0,0
+45.0,6,4+ bedrooms,74,0,House,House,2,0,70,6.5,Partial,Video call,Operations estimator,0,Spring,Saturday,Morning,18,Ready,0,0
+24.0,4,4+ bedrooms,51,0,House,House,1,0,25,6.8,Partial,In-person,Operations estimator,0,Spring,Saturday,Morning,12,Ready,1,0
+27.0,3,4+ bedrooms,57,0,House,House,1,0,55,45.3,Customer packs,In-person,Operations estimator,0,Fall,Friday,Morning,14,Ready,0,0
+10.0,2,2 bedrooms,19,0,Townhouse,Townhouse,2,0,65,15.9,Customer packs,Phone,Sales rep,0,Summer,Tuesday,Morning,15,Ready,0,0
+16.5,3,2 bedrooms,39,0,House,Apartment,0,1,130,14.0,Customer packs,Phone,Sales rep,0,Summer,Thursday,Morning,7,Ready,0,1
+37.5,5,3 bedrooms,53,1,House,House,2,0,60,4.1,Full,In-person,Operations estimator,0,Fall,Wednesday,Morning,9,Ready,0,0
+22.5,3,3 bedrooms,34,0,House,House,2,0,75,12.3,Partial,In-person,Sales rep,0,Fall,Friday,Morning,7,Ready,0,0
+26.0,4,2 bedrooms,41,0,Apartment,Apartment,0,1,70,17.1,Full,Video call,Sales rep,0,Spring,Saturday,Morning,17,Ready,0,0
+11.0,2,2 bedrooms,24,0,Townhouse,House,2,0,70,9.6,Customer packs,Phone,Sales rep,0,Summer,Thursday,Morning,16,Ready,0,0
+19.5,3,2 bedrooms,46,0,Townhouse,House,2,0,65,7.2,Customer packs,Video call,Sales rep,0,Spring,Wednesday,Morning,9,Ready,0,0
+21.0,3,4+ bedrooms,52,0,House,House,1,0,55,17.8,Customer packs,In-person,Operations estimator,0,Fall,Saturday,Morning,52,Not ready,0,1
+16.0,2,1 bedroom,18,0,Apartment,Apartment,3,0,140,7.9,Full,Phone,Sales rep,0,Spring,Saturday,Morning,13,Ready,1,0
+40.0,5,3 bedrooms,50,1,House,House,2,0,90,6.6,Full,Video call,Operations estimator,0,Spring,Monday,Morning,33,Ready,0,0
+13.0,2,1 bedroom,23,0,Apartment,Townhouse,2,1,135,14.9,Customer packs,Phone,Sales rep,0,Summer,Thursday,Morning,4,Ready,0,0
+48.0,6,4+ bedrooms,51,0,Townhouse,Townhouse,3,0,80,23.2,Full,Video call,Sales rep,0,Winter,Thursday,Morning,54,Ready,0,0
+15.0,2,2 bedrooms,31,0,Apartment,Apartment,4,0,200,6.2,Customer packs,Video call,Sales rep,1,Spring,Saturday,Morning,26,Ready,1,1
+13.0,2,1 bedroom,20,1,Apartment,Townhouse,2,1,155,7.1,Customer packs,Video call,Sales rep,0,Fall,Friday,Morning,21,Ready,0,0
+28.5,3,3 bedrooms,57,0,Condo,House,1,1,95,27.7,Customer packs,In-person,Operations estimator,0,Summer,Saturday,Morning,999,Ready,0,0
+9.0,2,1 bedroom,16,0,Apartment,Apartment,0,1,135,15.9,Customer packs,Video call,Sales rep,0,Fall,Saturday,Afternoon,23,Ready,0,0
+12.0,2,1 bedroom,27,0,Apartment,Apartment,1,1,210,18.0,Customer packs,Phone,Sales rep,1,Summer,Thursday,Morning,40,Ready,0,1
+34.0,4,4+ bedrooms,62,1,House,House,3,0,55,16.4,Customer packs,In-person,Operations estimator,0,Summer,Monday,Morning,58,Ready,0,0
+24.0,3,4+ bedrooms,50,1,House,House,1,0,95,8.3,Customer packs,In-person,Operations estimator,0,Spring,Saturday,Morning,12,Ready,0,0
+42.0,6,2 bedrooms,61,1,Townhouse,Townhouse,2,0,65,3.1,Full,Phone,Sales rep,0,Fall,Friday,Morning,45,Ready,0,1
+30.0,5,2 bedrooms,44,0,Apartment,Apartment,0,1,110,13.6,Full,Phone,Sales rep,0,Fall,Monday,Morning,15,Ready,0,0
+7.0,2,Studio ,9,0,Apartment,Apartment,3,0,65,3.9,Partial,Video call,Sales rep,0,Summer,Saturday,Afternoon,24,Not ready,0,0
+37.5,5,2 bedrooms,45,2,House,Townhouse,2,0,75,12.1,Full,Phone,Sales rep,0,Summer,Saturday,Morning,8,Ready,0,0
+12.0,2,2 bedrooms,30,0,Apartment,House,1,1,100,2.7,Customer packs,Video call,Sales rep,1,Fall,Friday,Morning,16,Ready,0,0
+15.0,2,2 bedrooms,25,0,Apartment,House,0,1,145,47.1,Partial,Video call,Sales rep,0,Spring,Saturday,Morning,15,Ready,0,0
+31.5,3,3 bedrooms,69,0,House,House,1,0,30,10.3,Customer packs,In-person,Sales rep,0,Fall,Saturday,Morning,16,Ready,0,0
+9.0,2,Studio,12,0,Condo,Apartment,0,1,175,8.5,Full,Phone,Sales rep,0,Summer,Friday,Morning,9,Ready,0,0
+10.0,2,1 bedroom,23,0,Condo,Condo,1,0,40,18.0,Customer packs,Video call,Operations estimator,1,Summer,Wednesday,Morning,21,Not ready,0,1
+42.0,6,3 bedrooms,53,0,Townhouse,Townhouse,4,0,120,13.4,Full,Phone,Sales rep,0,Summer,Tuesday,Morning,4,No answer,0,0
+28.0,4,4+ bedrooms,54,0,House,Townhouse,4,0,60,18.4,Customer packs,In-person,Operations estimator,0,Summer,Thursday,Morning,18,Ready,0,0
+10.0,2,1 Bedroom,15,0,Apartment,Apartment,0,1,110,10.8,Partial,In-person,Sales rep,0,Winter,Wednesday,Morning,13,Ready,0,0
+19.5,3,2 bedrooms,33,0,Apartment,Condo,0,1,140,5.0,Full,Video call,Operations estimator,1,Fall,Friday,Morning,37,Ready,0,0
+22.5,3,2 bedrooms,36,0,House,Condo,1,1,230,7.2,Partial,Video call,Sales rep,0,Fall,Saturday,Morning,9,Ready,0,0
+24.0,3,3 bedrooms,43,0,House,House,1,0,175,50.6,Customer packs,Phone,Sales rep,1,Spring,Friday,Morning,103,No answer,1,1
+32.5,5,4+ bedrooms,81,0,House,House,2,0,40,3.8,Customer packs,Video call,Sales rep,0,Summer,Wednesday,Morning,29,No answer,0,0
+12.0,2,1 bedroom,20,0,Condo,Condo,3,1,160,8.6,Customer packs,Video call,Sales rep,0,Fall,Friday,Morning,25,Ready,1,0
+19.5,3,3 bedrooms,46,0,House,House,1,0,35,21.6,Customer packs,In-person,Operations estimator,0,Fall,Saturday,Morning,86,Ready,0,0
+35.0,5,3 bedrooms,46,0,Condo,Townhouse,2,0,55,11.8,Full,Video call,Operations estimator,0,Fall,Thursday,Morning,5,No answer,0,0
+16.0,2,2 bedrooms,43,0,House,Townhouse,2,0,50,6.9,Customer packs,In-person,Operations estimator,1,Fall,Monday,Morning,15,Ready,0,0
+68.0,8,4+ bedrooms,87,1,Townhouse,Townhouse,4,0,155,2.5,Full,Video call,Sales rep,0,Fall,Friday,Morning,18,Ready,0,1
+21.0,3,3 bedrooms,49,0,Townhouse,Condo,1,1,130,11.5,Customer packs,Phone,Operations estimator,0,Winter,Saturday,Morning,13,Ready,0,0
+13.0,2,2 bedrooms,25,0,Apartment,Apartment,0,1,120,32.2,Customer packs,Video call,Sales rep,0,Winter,Saturday,Morning,38,Ready,0,0
+18.0,3,2 bedrooms,27,1,House,Apartment,1,0,145,17.5,Partial,Phone,Operations estimator,1,Fall,Monday,Afternoon,14,Ready,0,0
+9.0,2,Studio,11,0,Apartment,Apartment,0,1,180,11.1,Full,Video call,Operations estimator,0,Spring,Tuesday,Afternoon,12,Not ready,0,0
+24.0,3, 2 bedrooms,40,0,Apartment,Apartment,0,1,220,13.9,Customer packs,In-person,Operations estimator,0,Summer,Friday,Morning,26,Ready,0,0
+11.0,2,1 bedroom,19,0,Apartment,Condo,2,1,180,25.8,Customer packs,Video call,Sales rep,0,Spring,Saturday,Morning,30,Ready,0,0
+45.0,5,4+ bedrooms,77,0,House,House,1,0,115,13.0,Partial,In-person,Operations estimator,0,Winter,Tuesday,Morning,33,No answer,0,0
+42.0,7,4+ bedrooms,60,0,House,Townhouse,2,0,55,16.7,Full,In-person,Operations estimator,0,Summer,Tuesday,Morning,63,Ready,0,0
+39.0,6,3 bedrooms,60,0,Townhouse,House,2,0,,12.4,Full,In-person,Operations estimator,0,Fall,Saturday,Morning,47,Ready,0,0
+8.0,2,Studio,9,0,Condo,Apartment,2,1,215,27.5,Partial,Phone,Sales rep,1,Spring,Thursday,Morning,37,Not ready,0,0
+32.0,4,3 bedrooms,48,1,Townhouse,Townhouse,3,0,60,19.4,Partial,In-person,Operations estimator,1,Summer,Saturday,Morning,65,Ready,0,1
+21.0,2,2 bedrooms,33,0,Townhouse,Apartment,2,0,75,117.8,Customer packs,Video call,Sales rep,0,Fall,Monday,Morning,6,Ready,0,0
+14.0,2,2 bedrooms,26,0,Condo,Townhouse,2,1,130,10.4,Customer packs,Video call,Sales rep,0,Summer,Saturday,Morning,24,Ready,0,0
+9.0,2,1 bedroom,13,0,Apartment,Apartment,0,1,185,3.5,Partial,Phone,Operations estimator,0,Winter,Wednesday,Afternoon,3,No answer,0,0
+18.0,3,3 bedrooms,41,0,House,House,3,0,15,6.0,Customer packs,In-person,Operations estimator,0,Winter,Friday,Morning,4,Ready,1,0
+21.0,2,2 bedrooms,44,0,House,Condo,2,0,90,13.8,Customer packs,Phone,Operations estimator,0,Summer,Thursday,Morning,16,Ready,0,0
+24.0,3,2 bedrooms,42,0,House,House,3,0,45,6.2,Partial,Phone,Sales rep,0,Fall,Tuesday,Morning,4,No answer,0,0
+30.0,4,3 bedrooms,47,1,House,House,3,0,50,9.5,Partial,Phone,Sales rep,0,Winter,Saturday,Morning,13,Ready,0,1
+21.0,3,2 bedrooms,27,2,Townhouse,Condo,2,1,160,17.1,Customer packs,Video call,Sales rep,0,Spring,Friday,Morning,31,No answer,0,0
+10.0,2,1 bedroom,18,0,Apartment,Apartment,1,1,105,6.4,Partial,Phone,Sales rep,0,Winter,Tuesday,Morning,8,Ready,1,0
+19.5,3,3 bedrooms,27,1,House,Townhouse,4,0,70,14.0,Partial,Phone,Sales rep,0,Summer,Friday,Morning,30,Not ready,0,1
+42.0,6,3 bedrooms,84,0,House,Condo,1,1,105,11.7,Partial,Video call,Sales rep,0,Summer,Saturday,Morning,6,Not ready,0,0
+6.0,2,Studio,10,0,Apartment,Apartment,0,1,120,18.1,Customer packs,Phone,Sales rep,0,Fall,Saturday,Morning,32,Ready,0,0
+6.0,2,1 bedroom,14,0,Apartment,Apartment,0,1,155,10.2,Customer packs,Video call,Sales rep,1,Spring,Saturday,Morning,46,Not ready,0,1
+8.0,2,1 bedroom,15,0,Apartment,Apartment,0,1,100,11.5,Customer packs,In-person,Operations estimator,0,Spring,Friday,Afternoon,4,Ready,0,0
+17.0,2,3 bedrooms,37,0,House,House,1,0,45,4.2,Customer packs,In-person,Operations estimator,0,Summer,Monday,Morning,71,Ready,0,0
+13.0,2,2 bedrooms,29,0,Townhouse,Townhouse,2,0,,5.5,Customer packs,Phone,Sales rep,0,Fall,Thursday,Morning,17,Ready,0,0
+27.0,3,3 bedrooms,48,0,Condo,Townhouse,1,0,,46.8,Customer packs,Phone,Operations estimator,0,Winter,Tuesday,Morning,1,No answer,0,0
+30.0,4,2 bedrooms,35,0,Townhouse,Apartment,2,1,200,9.2,Full,Video call,Sales rep,0,Summer,Friday,Morning,7,Ready,1,1
+40.0,5,2 bedrooms,41,0,Apartment,Apartment,5,0,,31.9,Full,Video call,Operations estimator,0,Summer,Thursday,Morning,14,Ready,0,0
+14.0,2,1 bedroom,19,1,Apartment,Apartment,3,0,145,2.7,Customer packs,Phone,Operations estimator,0,Summer,Friday,Morning,6,Not ready,0,1
+12.0,2,1 bedroom,18,1,Apartment,Apartment,3,0,140,4.0,Customer packs,Phone,Sales rep,0,Summer,Friday,Morning,13,Ready,0,1
+12.0,2,1 bedroom,24,0,Apartment,Apartment,1,0,100,6.4,Partial,Phone,Sales rep,1,Summer,Tuesday,Morning,2,Ready,0,1
+12.0,2,1 bedroom,24,0,Apartment,Condo,1,1,135,2.6,Customer packs,Phone,Sales rep,0,Summer,Friday,Morning,15,Ready,0,0
+35.0,5,3 bedrooms,58,0,Townhouse,Townhouse,3,0,,10.8,Partial,Phone,Operations estimator,0,Summer,Saturday,Morning,18,No answer,0,0
+59.5,7,3 bedrooms,84,0,Apartment,House,4,0,70,81.8,Customer packs,Video call,Sales rep,0,Fall,Tuesday,Morning,116,Ready,0,0
+11.0,2,1 bedroom,16,0,Condo,Townhouse,1,1,175,30.7,Partial,Video call,Operations estimator,1,Fall,Thursday,Morning,28,Not ready,0,1
+10.0,2,1 bedroom,14,1,Apartment,Apartment,0,1,85,3.2,Customer packs,Video call,Operations estimator,0,Fall,Monday,Morning,5,Ready,0,1
+19.0,2,3 bedrooms,45,0,House,House,1,0,25,10.1,Customer packs,Phone,Operations estimator,0,Winter,Saturday,Morning,14,Ready,0,0
+12.0,2,1 bedroom,23,0,Apartment,Condo,2,1,90,28.2,Customer packs,Phone,Sales rep,0,Summer,Friday,Morning,17,Ready,0,0
+17.0,2,2 bedrooms,40,1,Apartment,Condo,0,1,70,15.4,Customer packs,Phone,Operations estimator,0,Spring,Thursday,Morning,2,Not ready,1,1
+19.5,3,3 bedrooms,31,0,House,House,3,0,60,10.3,Partial,In-person,Sales rep,0,Summer,Saturday,Morning,56,Not ready,0,0
+7.0,2,1 bedroom,12,0,Apartment,Apartment,1,0,160,14.9,Customer packs,Phone,Sales rep,1,Spring,Tuesday,Afternoon,4,Ready,0,0
+13.0,2,2 bedrooms,31,0,Condo,Condo,0,1,220,10.5,Customer packs,Phone,Sales rep,0,Winter,Monday,Morning,7,Ready,0,0
+6.0,2,Studio,7,0,Townhouse,Apartment,4,0,90,7.1,Customer packs,Phone,Sales rep,1,Summer,Thursday,Morning,8,Ready,0,0
+28.0,4,3 bedrooms,57,1,Townhouse,Townhouse,3,0,55,16.2,Customer packs,In-person,Operations estimator,0,Fall,Monday,Morning,25,Ready,0,0
+48.0,6,4+ bedrooms,67,0,House,House,1,0,30,29.8,Full,In-person,Operations estimator,0,Summer,Wednesday,Morning,15,Ready,0,0
+9.0,2,1 bedroom,18,0,Apartment,Condo,1,1,160,8.1,Customer packs,Phone,Sales rep,0,Spring,Tuesday,Morning,12,No answer,1,0
+32.0,4,3 bedrooms,47,1,Townhouse,House,5,0,100,22.6,Customer packs,In-person,Operations estimator,0,Fall,Monday,Morning,54,Ready,0,0
+9.0,2,1 bedroom,18,0,Apartment,Apartment,0,0,80,15.0,Customer packs,Phone,Sales rep,0,Summer,Thursday,Afternoon,11,Ready,0,1
+12.0,2,2 bedrooms,25,0,Condo,Apartment,1,1,130,9.0,Customer packs,In-person,Sales rep,0,Winter,Monday,Morning,4,Ready,0,0
+25.5,3,1 bedroom,31,0,Apartment,Apartment,3,1,65,5.6,Full,Video call,Sales rep,0,Spring,Wednesday,Morning,23,Ready,0,0
+18.0,3,2 bedrooms,40,0,Condo,Condo,0,1,150,10.3,Customer packs,In-person,Operations estimator,0,Spring,Friday,Afternoon,10,Ready,1,0
+24.0,4,3 bedrooms,39,0,House,House,1,0,120,20.9,Partial,In-person,Operations estimator,0,Fall,Friday,Morning,65,Ready,0,0
+24.0,3,1 bedroom,35,2,Apartment,Apartment,3,0,115,8.1,Customer packs,Phone,Sales rep,0,Summer,Thursday,Morning,16,Not ready,0,0
+34.0,4,3 bedrooms,54,1,House,Townhouse,2,0,50,28.5,Partial,Phone,Sales rep,0,Spring,Friday,Morning,20,Ready,0,1
+32.5,5,3 bedrooms,65,0,House,House,1,0,40,2.9,Partial,In-person,Operations estimator,0,Fall,Thursday,Morning,16,Ready,0,0
+15.0,3,3 bedrooms,38,0,House,House,1,0,80,6.7,Customer packs,Phone,Sales rep,0,Summer,Monday,Afternoon,2,Not ready,0,1
+18.0,2,3 bedrooms,44,1,House,House,1,0,45,8.7,Customer packs,Phone,Sales rep,1,Summer,Friday,Morning,39,Ready,0,1
+16.0,2,2 bedrooms,28,1,Apartment,Apartment,1,0,20,13.5,Customer packs,In-person,Operations estimator,0,Spring,Saturday,Morning,14,Not ready,0,0
+6.0,2,Studio,9,0,Apartment,Apartment,2,1,130,15.5,Customer packs,Video call,Sales rep,1,Winter,Saturday,Morning,8,No answer,0,0
+36.0,6,3 bedrooms,56,0,Townhouse,Townhouse,5,0,60,9.4,Partial,In-person,Operations estimator,0,Spring,Tuesday,Afternoon,31,Not ready,1,0
+25.0,5,3 bedrooms,45,0,House,House,2,0,35,7.0,Full,Phone,Sales rep,1,Fall,Friday,Morning,8,Ready,1,1
+11.0,2,2  bedrooms,23,0,Condo,Condo,1,1,115,23.0,Customer packs,Phone,Operations estimator,0,Spring,Monday,Morning,10,Ready,0,0
+18.0,3,3 bedrooms,37,0,Townhouse,Apartment,2,0,135,9.2,Customer packs,In-person,Operations estimator,0,Winter,Friday,Morning,25,Ready,1,0
+12.0,2,2 bedrooms,20,0,House,House,2,0,45,27.4,Customer packs,In-person,Operations estimator,0,Summer,Tuesday,Morning,37,Ready,0,0
+19.0,2,3 bedrooms,36,0,Townhouse,Townhouse,2,0,50,66.1,Customer packs,Video call,Sales rep,0,Summer,Tuesday,Morning,7,Ready,0,0
+34.0,4,4+ BEDROOMS,74,1,House,House,1,0,65,15.5,Customer packs,In-person,Operations estimator,0,Spring,Monday,Morning,39,Ready,0,0
+42.0,6,4+ bedrooms,69,1,House,House,3,0,25,10.0,Partial,In-person,Operations estimator,0,Fall,Saturday,Morning,10,Ready,1,0
+30.0,4,2 bedrooms,48,1,Townhouse,Townhouse,3,0,65,40.7,Customer packs,Phone,Operations estimator,0,Winter,Monday,Morning,89,Ready,0,0
+21.0,3,1 bedroom,20,0,Townhouse,Apartment,3,0,185,19.2,Full,In-person,Sales rep,0,Summer,Thursday,Morning,9,Ready,0,0
+52.5,7,3 bedrooms,77,0,House,House,1,0,60,15.1,Full,Video call,Operations estimator,0,Spring,Saturday,Morning,15,Ready,0,0
+12.0,2,2 bedrooms,28,0,House,House,0,0,65,25.4,Customer packs,Video call,Sales rep,0,Fall,Monday,Morning,999,Ready,0,0
+16.0,2,Studio,16,0,Apartment,Apartment,4,0,,29.2,Full,In-person,Operations estimator,0,Summer,Monday,Morning,5,Ready,0,0
+8.0,2,1  bedroom,14,0,Apartment,Apartment,1,1,155,4.2,Partial,Phone,Sales rep,0,Summer,Monday,Afternoon,20,Not ready,0,1
+21.0,3,3 bedrooms,43,0,Condo,House,0,1,70,7.0,Partial,In-person,Operations estimator,0,Summer,Friday,Morning,17,Ready,0,0
+34.0,4,3 bedrooms,50,0,House,Apartment,2,0,60,24.9,Partial,In-person,Operations estimator,0,Summer,Monday,Morning,61,Ready,1,0
+24.0,4,2 bedrooms,33,0,House,House,1,0,55,20.5,Full,Video call,Operations estimator,0,Fall,Friday,Morning,16,Ready,0,0
+19.5,3,3 bedrooms,39,2,House,House,1,0,30,7.1,Customer packs,Phone,Sales rep,0,Spring,Saturday,Morning,15,Ready,0,0
+15.0,2,1 bedroom,24,1,Apartment,Apartment,0,1,200,3.4,Partial,Phone,Sales rep,0,Winter,Friday,Morning,4,Not ready,0,1
+18.0,2,1 bedroom,31,0,Apartment,Apartment,3,0,120,12.3,Customer packs,In-person,Operations estimator,0,Summer,Tuesday,Morning,21,Ready,0,0
+18.0,2,2 bedrooms,33,0,Condo,Townhouse,2,1,85,31.1,Customer packs,Phone,Sales rep,0,Winter,Saturday,Morning,14,Not ready,0,1
+49.0,7,4+ bedrooms,71,0,House,House,1,0,35,12.3,Full,In-person,Operations estimator,0,Summer,Thursday,Morning,12,Ready,0,0
+8.0,2,1 bedroom,15,0,Apartment,Apartment,3,0,90,12.1,Customer packs,Phone,Sales rep,1,Winter,Saturday,Afternoon,18,Ready,0,0
+13.0,2,2 bedrooms,32,0,House,House,0,0,40,4.4,Customer packs,In-person,Sales rep,0,Fall,Saturday,Morning,25,No answer,0,0
+6.0,2,Studio,10,0,Townhouse,Apartment,2,1,80,7.8,Customer packs,Video call,Operations estimator,0,Winter,Saturday,Afternoon,30,Ready,0,0
+10.0,2,2 bedrooms ,21,0,Townhouse,Townhouse,2,0,75,10.5,Customer packs,Video call,Sales rep,0,Summer,Tuesday,Afternoon,25,Ready,0,1
+64.0,8,4+ bedrooms,84,0,House,Townhouse,4,0,55,7.3,Full,Video call,Sales rep,0,Spring,Saturday,Morning,18,Ready,1,0
+30.0,5,2 bedrooms,52,0,House,House,3,0,50,11.2,Partial,In-person,Operations estimator,0,Summer,Tuesday,Morning,35,No answer,0,0
+14.0,2,1 bedroom,28,0,Apartment,Apartment,2,0,25,3.8,Partial,Phone,Sales rep,0,Winter,Tuesday,Morning,92,Ready,0,0
+8.0,2,1 bedroom,15,0,Condo,Condo,0,0,80,2.3,Partial,Phone,Sales rep,0,Fall,Tuesday,Afternoon,15,Ready,1,0
+21.0,3,2 bedrooms,28,0,Townhouse,Townhouse,4,0,85,42.6,Partial,Video call,Sales rep,0,Summer,Wednesday,Morning,76,Ready,0,0
+16.0,2,2 bedrooms,36,0,Apartment,Apartment,0,1,170,8.0,Customer packs,Video call,Operations estimator,0,Summer,Wednesday,Morning,15,No answer,0,0
+11.0,2,1 bedroom,20,0,Condo,Condo,0,1,190,34.1,Customer packs,Phone,Sales rep,0,Fall,Tuesday,Morning,6,No answer,1,0
+42.0,6,3 bedrooms,63,1,Condo,Condo,0,1,130,7.7,Full,In-person,Sales rep,0,Spring,Monday,Morning,28,Ready,0,0
+6.0,2,Studio,8,0,Apartment,Apartment,0,1,110,10.3,Customer packs,Video call,Sales rep,0,Winter,Monday,Afternoon,96,Ready,0,0
+22.5,3,2 bedrooms,39,0,Apartment,Apartment,3,1,125,17.1,Customer packs,Video call,Sales rep,0,Winter,Friday,Morning,4,Ready,0,0
+13.0,2,2 bedrooms,31,0,House,House,1,0,45,2.8,Partial,Phone,Sales rep,0,Fall,Tuesday,Morning,13,Ready,0,0
+19.5,3,3 bedrooms,39,0,House,House,2,0,55,5.1,Customer packs,In-person,Operations estimator,0,Spring,Friday,Morning,73,No answer,0,0
+6.0,2,Studio,12,0,Apartment,Apartment,0,1,100,8.2,Customer packs,Phone,Sales rep,1,Fall,Thursday,Afternoon,14,Ready,0,0
+52.5,7,4+ bedrooms,69,0,House,House,3,0,55,7.6,Full,Video call,Sales rep,0,Fall,Tuesday,Morning,11,Ready,0,0
+13.0,2,1 bedroom,17,0,Apartment,Apartment,1,1,75,10.9,Full,Phone,Sales rep,0,Fall,Tuesday,Morning,4,Ready,1,0
+18.0,2,1 bedroom,14,0,Apartment,Apartment,5,0,100,31.7,Full,Phone,Operations estimator,0,Summer,Monday,Morning,63,Not ready,0,1
+14.0,2,Studio,19,0,Apartment,Apartment,0,0,100,10.3,Full,Phone,Operations estimator,0,Fall,Tuesday,Morning,39,Ready,0,0
+7.0,2,Studio,14,0,Townhouse,Apartment,1,1,55,7.4,Customer packs,Phone,Operations estimator,0,Spring,Monday,Morning,9,Not ready,0,1
+38.0,4,4+ bedrooms,55,0,Townhouse,Townhouse,3,0,55,30.3,Partial,Video call,Operations estimator,0,Spring,Wednesday,Morning,26,Not ready,1,0
+28.0,4,3 bedrooms,70,0,House,House,2,0,25,7.6,Customer packs,Video call,Sales rep,0,Fall,Wednesday,Morning,71,Ready,0,1
+22.5,3,2 bedrooms,27,0,Townhouse,Condo,1,1,225,22.7,Full,Video call,Sales rep,0,Spring,Friday,Morning,36,Ready,1,0
+37.5,5,3 bedrooms,59,0,Townhouse,Townhouse,2,0,90,48.2,Partial,In-person,Operations estimator,0,Spring,Saturday,Morning,48,Ready,0,0
+15.0,2,2 bedrooms,34,0,Townhouse,Apartment,2,0,125,6.2,Customer packs,Phone,Sales rep,1,Summer,Friday,Morning,21,Ready,0,0
+19.5,3,3 bedrooms,44,0,House,House,2,0,105,18.7,Customer packs,Video call,Sales rep,0,Fall,Saturday,Morning,9,Ready,0,1
+13.0,2,1 bedroom,19,0,Apartment,Apartment,1,1,150,15.3,Partial,Phone,Operations estimator,0,Fall,Friday,Morning,37,Ready,0,0
+12.0,2,2 bedrooms,24,0,Apartment,Apartment,0,1,135,18.3,Customer packs,Video call,Sales rep,0,Fall,Saturday,Morning,4,Not ready,0,0
+14.0,2,1 bedroom,22,0,Apartment,Condo,0,1,210,17.8,Partial,Phone,Sales rep,0,Summer,Saturday,Morning,56,No answer,0,0
+7.0,2,Studio,13,0,Apartment,Apartment,0,1,135,2600.0,Partial,Phone,Sales rep,1,Fall,Thursday,Afternoon,4,Not ready,0,0
+10.0,2,1 bedroom,20,0,Apartment,Apartment,2,1,150,8.6,Customer packs,Video call,Sales rep,1,Spring,Friday,Morning,18,No answer,0,0
+9.0,2,Studio,17,0,Apartment,Apartment,2,1,160,4.8,Customer packs,In-person,Operations estimator,0,Spring,Saturday,Afternoon,32,No answer,0,0
+45.0,6,4+ bedrooms,68,1,House,House,3,0,30,18.5,Partial,In-person,Operations estimator,0,Fall,Friday,Morning,28,Ready,0,0
+8.0,2,1 bedroom,14,0,Apartment,Apartment,0,1,195,13.3,Customer packs,Phone,Sales rep,0,Summer,Wednesday,Morning,7,Not ready,1,0
+25.5,3,3 bedrooms,25,1,Townhouse,Townhouse,4,0,60,24.5,Full,In-person,Operations estimator,0,Fall,Monday,Morning,17,Ready,0,0
+17.0,2,2 bedrooms,28,0,Apartment,Condo,0,1,250,28.7,Partial,Video call,Sales rep,1,Fall,Wednesday,Morning,25,No answer,0,0
+16.5,3,2 bedrooms,36,0,House,Townhouse,3,0,70,16.9,Customer packs,Video call,Operations estimator,0,Spring,Thursday,Morning,34,Ready,0,0
+16.5,3,1 bedroom,27,0,Apartment,Condo,1,1,50,9.4,Full,In-person,Sales rep,0,Winter,Saturday,Afternoon,14,Ready,0,0
+24.0,3,3 bedrooms,42,0,Townhouse,Townhouse,5,0,65,9.5,Customer packs,In-person,Operations estimator,0,Summer,Friday,Morning,15,Ready,0,0
+14.0,2,1 bedroom,26,0,Condo,Condo,0,1,65,30.2,Partial,Phone,Sales rep,0,Fall,Saturday,Morning,18,No answer,0,0
+11.0,2,2 bedrooms,23,0,Apartment,Apartment,0,1,115,5.7,Customer packs,In-person,Operations estimator,0,Summer,Saturday,Morning,30,Not ready,0,1
+22.5,3,3 bedrooms,38,1,Townhouse,House,3,0,100,13.9,Customer packs,Phone,Sales rep,0,Fall,Wednesday,Morning,11,Ready,0,1
+14.0,2,1 bedroom,21,0,Apartment,Apartment,2,1,130,12.2,Partial,In-person,Operations estimator,0,Summer,Wednesday,Morning,18,Ready,0,0
+28.0,4,2 bedrooms,35,0,House,Townhouse,3,0,35,8.9,Full,In-person,Operations estimator,0,Winter,Monday,Morning,5,Ready,1,0
+28.0,4,3 bedrooms,46,0,Townhouse,House,3,0,75,14.4,Partial,Video call,Operations estimator,0,Summer,Tuesday,Morning,25,No answer,0,1
+42.0,6,4+ bedrooms,65,1,House,House,1,0,45,1.6,Full,In-person,Sales rep,0,Spring,Friday,Morning,25,Ready,0,0
+45.5,7,3 bedrooms,81,2,House,House,1,0,60,2.6,Partial,In-person,Operations estimator,0,Summer,Thursday,Morning,37,Ready,0,0
+35.0,5,3 bedrooms,56,0,Townhouse,Townhouse,4,0,65,12.3,Partial,Video call,Sales rep,0,Summer,Saturday,Morning,26,Not ready,0,0
+7.0,2,Studio,12,0,Apartment,Apartment,0,1,105,13.7,Customer packs,Phone,Sales rep,0,Spring,Friday,Morning,3,Not ready,0,0
+16.0,2,2 bedrooms,36,0,Condo,Condo,0,1,75,27.0,Customer packs,Video call,Sales rep,0,Summer,Tuesday,Morning,15,Not ready,0,0
+32.0,4,3 bedrooms,56,0,House,House,1,0,,14.3,Partial,In-person,Operations estimator,0,Fall,Wednesday,Morning,28,Ready,0,0
+28.5,3,2 bedrooms,30,0,Townhouse,Townhouse,2,0,,51.4,Full,In-person,Operations estimator,0,Summer,Monday,Morning,14,Ready,0,0
+8.0,2,Studio,17,0,Apartment,Apartment,1,1,175,4.3,Customer packs,Video call,Sales rep,1,Winter,Saturday,Afternoon,52,Not ready,0,1
+28.0,4,4+ bedrooms,56,1,House,Townhouse,2,0,,10.9,Customer packs,In-person,Operations estimator,0,Fall,Saturday,Morning,3,Ready,0,0
+13.0,2,2 bedrooms,25,1,House,Apartment,1,0,140,3.0,Customer packs,In-person,Sales rep,0,Winter,Tuesday,Morning,52,Ready,0,0
+16.0,2,1 bedroom,28,0,Apartment,Apartment,2,0,125,17.3,Customer packs,In-person,Sales rep,0,Spring,Thursday,Morning,17,Ready,0,0
+72.0,8,4+ bedrooms,102,0,House,House,1,0,105,7.9,Full,In-person,Operations estimator,0,Spring,Saturday,Morning,20,Ready,0,0
+30.0,4,2 bedrooms,39,0,House,Townhouse,2,0,95,8.4,Full,In-person,Operations estimator,0,Spring,Saturday,Morning,15,Ready,0,0
+11.0,2,Studio,16,0,Apartment,Apartment,5,0,155,2.5,Customer packs,Video call,Sales rep,0,Summer,Monday,Morning,35,Ready,0,0
+19.0,2,2 bedrooms,34,0,House,House,2,0,,14.2,Partial,Video call,Sales rep,0,Spring,Saturday,Morning,10,Not ready,0,0
+32.0,4,3 bedrooms,57,0,House,House,1,0,60,9.1,Partial,Video call,Sales rep,0,Spring,Tuesday,Morning,999,No answer,0,0
+32.5,5,4+ bedrooms,77,1,House,Apartment,1,1,125,9.6,Customer packs,Video call,Sales rep,1,Summer,Tuesday,Morning,74,Ready,0,0
+14.0,2,2 bedrooms,23,0,Townhouse,Apartment,1,0,110,6.2,Partial,In-person,Operations estimator,0,Winter,Monday,Morning,77,Ready,0,0
+24.0,4,1 bedroom,39,0,Townhouse,Townhouse,3,0,180,15.2,Partial,Phone,Sales rep,1,Summer,Wednesday,Morning,10,Ready,0,0
+12.0,2,1 bedroom,16,0,Condo,Condo,2,0,60,6.4,Full,Phone,Sales rep,0,Spring,Saturday,Morning,75,Ready,0,1
+19.0,2,1 bedroom,24,0,Apartment,Apartment,3,0,75,59.5,Partial,Phone,Sales rep,0,Summer,Monday,Morning,116,Ready,0,1
+28.0,4,3 bedrooms,48,0,House,House,2,0,115,6.9,Partial,Video call,Sales rep,0,Spring,Saturday,Morning,98,Ready,0,0
+26.0,4,3 bedrooms,49,0,House,Townhouse,3,0,65,26.3,Customer packs,Phone,Sales rep,0,Spring,Saturday,Morning,3,Ready,0,0
+26.0,4,3 bedrooms,36,0,Townhouse,Townhouse,4,0,165,11.2,Partial,Video call,Operations estimator,0,Summer,Saturday,Morning,34,No answer,0,0
+24.0,3,3 bedrooms,51,0,Apartment,Townhouse,2,1,80,23.7,Customer packs,Phone,Sales rep,0,Fall,Saturday,Morning,13,Ready,0,0
+13.0,2,1 bedroom,15,0,Townhouse,Townhouse,4,0,90,22.3,Partial,Video call,Operations estimator,0,Summer,Monday,Morning,15,Not ready,0,0
+30.0,5,3 bedrooms,45,0,Townhouse,Townhouse,6,0,75,6.2,Partial,In-person,Operations estimator,0,Summer,Thursday,Morning,42,Not ready,0,0
+16.5,3,2 bedrooms,33,0,Apartment,Townhouse,3,0,75,10.1,Customer packs,Phone,Sales rep,0,Summer,Saturday,Morning,9,Ready,0,0
+8.0,2,1 bedroom,14,0,Apartment,Townhouse,1,0,75,8.9,Customer packs,In-person,Operations estimator,0,Winter,Thursday,Afternoon,16,Ready,0,0
+21.0,3,3 bedrooms,43,0,House,House,2,0,45,10.6,Customer packs,In-person,Sales rep,1,Spring,Friday,Morning,7,No answer,0,0
+28.5,3,3 bedrooms,50,1,Condo,Condo,0,1,270,53.4,Customer packs,In-person,Sales rep,0,Spring,Monday,Morning,56,Ready,0,1
+18.0,4,2 bedrooms,41,0,House,Apartment,1,1,80,5.5,Customer packs,Video call,Operations estimator,0,Summer,Friday,Morning,11,Ready,0,1
+28.5,3,2 bedrooms,46,0,Apartment,Apartment,2,0,115,67.5,Customer packs,Phone,Sales rep,0,Summer,Friday,Morning,22,Not ready,0,1
+18.0,3,2 bedrooms,37,0,Townhouse,Condo,3,0,70,6.3,Customer packs,Phone,Sales rep,1,Summer,Friday,Morning,9,Ready,0,0
+16.0,2,1 bedroom,33,0,Condo,Apartment,0,1,195,14.5,Customer packs,In-person,Operations estimator,0,Winter,Monday,Morning,55,Ready,0,0
+14.0,2,1 bedroom ,15,1,Apartment,Condo,0,1,190,29.2,Partial,Phone,Sales rep,0,Spring,Friday,Morning,3,Not ready,0,1
+18.0,2,4+ bedrooms,33,0,House,Townhouse,1,0,145,15.3,Partial,In-person,Sales rep,0,Spring,Tuesday,Morning,24,Ready,0,0
+12.0,2,2 bedrooms,22,0,Apartment,Apartment,1,1,145,5.5,Partial,In-person,Operations estimator,0,Spring,Saturday,Morning,24,Not ready,0,1
+16.5,3,3 bedrooms,41,0,Townhouse,House,3,0,60,9.5,Customer packs,Phone,Sales rep,0,Spring,Saturday,Morning,105,Ready,0,1
+13.0,2,2 bedrooms,26,1,Apartment,Apartment,3,0,55,7.7,Customer packs,Video call,Sales rep,0,Spring,Wednesday,Morning,4,Ready,0,1
+9.0,2,Studio,12,0,Apartment,Condo,0,1,220,29.2,Customer packs,Video call,Sales rep,0,Winter,Monday,Afternoon,4,Not ready,0,0
+8.0,2,Studio,14,0,Apartment,Apartment,1,1,65,18.5,Customer packs,Phone,Operations estimator,0,Fall,Friday,Afternoon,18,Ready,0,0
+12.0,2,1 bedroom,30,0,Apartment,Apartment,0,1,90,10.9,Customer packs,In-person,Operations estimator,0,Summer,Saturday,Morning,8,Ready,0,0
+6.0,2,Studio,11,0,Apartment,Apartment,0,1,60,9.4,Customer packs,Video call,Sales rep,1,Winter,Saturday,Morning,7,Not ready,0,0
+12.0,2,1 bedroom,21,0,Condo,Condo,0,1,195,6.8,Partial,Video call,Operations estimator,0,Summer,Thursday,Morning,82,No answer,0,0
+7.0,2,Studio,10,0,Apartment,Condo,0,0,165,10.2,Partial,Video call,Sales rep,0,Summer,Friday,Morning,2,Not ready,0,1
+9.0,2,1 bedroom,16,0,Apartment,Apartment,2,0,90,14.7,Customer packs,Video call,Operations estimator,0,Summer,Saturday,Morning,37,Ready,0,0
+6.0,2,Studio,5,0,Apartment,Townhouse,2,0,70,8.0,Customer packs,Phone,Sales rep,0,Summer,Thursday,Morning,19,No answer,0,0
+13.0,2,3 bedrooms,28,0,Townhouse,House,3,0,65,12.3,Customer packs,Video call,Sales rep,0,Summer,Tuesday,Morning,999,Not ready,0,1
+26.0,4,4+ bedrooms,60,0,House,House,2,0,110,2.2,Customer packs,In-person,Operations estimator,0,Winter,Wednesday,Morning,14,Ready,1,0
+13.0,2,Studio,15,0,Apartment,Apartment,6,0,95,6.8,Partial,In-person,Operations estimator,0,Summer,Thursday,Morning,7,Ready,0,0
+25.5,3,3 bedrooms,49,1,Apartment,Apartment,2,0,95,35.5,Customer packs,In-person,Operations estimator,0,Spring,Tuesday,Morning,46,Ready,0,1
+14.0,2,1 bedroom,20,0,Apartment,Apartment,3,1,140,11.5,Customer packs,Video call,Operations estimator,0,Summer,Wednesday,Morning,49,Ready,0,0
+39.0,6,4+ bedrooms,65,1,House,House,2,0,35,6.7,Full,In-person,Operations estimator,1,Summer,Friday,Morning,56,Ready,0,0
+14.0,2,1 bedroom,18,0,Condo,House,3,0,75,7.7,Full,Video call,Operations estimator,1,Summer,Saturday,Morning,18,Ready,0,0
+51.0,6,4+ bedrooms,68,1,House,House,1,0,50,23.3,Full,In-person,Operations estimator,0,Summer,Saturday,Morning,31,Not ready,0,0
+21.0,3,2 bedrooms,26,0,Townhouse,Townhouse,2,0,100,10.3,Full,Video call,Operations estimator,0,Fall,Tuesday,Morning,31,Ready,0,0
+6.0,2,Studio,12,0,Apartment,Apartment,0,1,120,10.2,Customer packs,Phone,Sales rep,0,Summer,Friday,Morning,20,No answer,0,0
+21.0,3,2 bedrooms,45,0,House,Apartment,1,1,200,13.9,Customer packs,In-person,Operations estimator,0,Summer,Saturday,Morning,49,Not ready,0,1
+20.0,2,2 bedrooms,38,0,Apartment,Townhouse,1,1,210,2.8,Customer packs,Phone,Sales rep,0,Summer,Saturday,Morning,6,No answer,0,0
+11.0,2,Studio,18,0,Townhouse,Townhouse,3,0,80,8.0,Partial,Phone,Sales rep,0,Summer,Saturday,Morning,4,Ready,0,0
+6.0,2,Studio,8,0,Apartment,Apartment,0,1,130,7.2,Customer packs,Phone,Operations estimator,0,Summer,Thursday,Afternoon,12,Ready,0,0
+28.0,4,3 bedrooms,35,0,Condo,Condo,3,1,100,11.2,Full,Video call,Sales rep,0,Summer,Saturday,Morning,4,No answer,0,0
+13.0,2,3 bedrooms,34,0,House,House,0,0,60,10.9,Customer packs,Video call,Operations estimator,1,Fall,Saturday,Morning,7,Ready,0,0
+7.0,2,Studio,12,0,Apartment,Condo,1,1,165,5.6,Customer packs,Phone,Sales rep,0,Summer,Monday,Afternoon,2,Ready,1,0
+10.0,2,1 bedroom,22,0,Apartment,Apartment,0,1,85,8.7,Customer packs,In-person,Operations estimator,0,Summer,Friday,Morning,10,No answer,0,0
+6.0,2,Studio,9,0,Apartment,Apartment,0,1,130,34.3,Customer packs,Phone,Sales rep,1,Spring,Saturday,Afternoon,5,No answer,0,0
+25.5,3,3 bedrooms,51,0,Townhouse,Townhouse,3,0,80,4.4,Customer packs,In-person,Operations estimator,0,Spring,Wednesday,Morning,35,Ready,0,0
+10.0,2,1 bedroom,16,0,Apartment,Apartment,0,1,180,22.4,Partial,Video call,Sales rep,0,Fall,Saturday,Morning,19,Ready,0,0
+9.0,2,1 bedroom,17,0,Apartment,Apartment,2,1,,6.1,Customer packs,In-person,Sales rep,0,Summer,Tuesday,Afternoon,4,Not ready,0,1
+9.0,2,Studio,9,2,Apartment,Apartment,0,1,160,2.4,Customer packs,Video call,Operations estimator,0,Winter,Saturday,Morning,37,Ready,0,1
+45.0,6,4+ bedrooms,79,1,House,House,1,0,40,30.8,Partial,In-person,Sales rep,1,Winter,Monday,Morning,26,Not ready,0,0
+9.0,2,1 bedroom,19,0,Apartment,Apartment,0,1,135,7.8,Partial,Video call,Sales rep,1,Spring,Saturday,Morning,93,Ready,0,0
+35.0,5,4+ bedrooms,81,0,House,House,1,0,110,12.7,Customer packs,Video call,Operations estimator,0,Spring,Wednesday,Morning,54,Ready,0,0
+17.0,2,2 bedrooms,26,0,Apartment,House,2,0,45,9.9,Partial,Phone,Sales rep,0,Fall,Saturday,Morning,15,Not ready,0,0
+45.0,6,4+ bedrooms,64,0,House,House,2,0,45,35.9,Full,Video call,Sales rep,0,Winter,Saturday,Morning,24,Not ready,0,1
+6.0,2,1 bedroom,12,0,Apartment,House,0,1,175,8.1,Customer packs,Phone,Sales rep,1,Fall,Friday,Morning,16,Ready,0,1
+12.0,2,1 bedroom,20,0,Apartment,Apartment,1,1,70,7.0,Full,In-person,Operations estimator,1,Spring,Thursday,Morning,45,Not ready,1,0
+28.0,4,4+ bedrooms,57,0,House,House,1,0,20,20.9,Partial,In-person,Sales rep,0,Winter,Saturday,Morning,19,Ready,0,0
+10.0,2,1 bedroom,18,0,House,House,3,0,35,5.5,Customer packs,Phone,Sales rep,0,Summer,Monday,Afternoon,28,Ready,0,0
+22.5,3,2 bedrooms,27,0,Townhouse,Condo,1,1,225,22.7,Full,Video call,Sales rep,0,Spring,Friday,Morning,36,Ready,1,0
+28.0,4,3 bedrooms,41,0,House,House,1,0,40,8.3,Full,Video call,Sales rep,0,Winter,Friday,Morning,6,Ready,0,0
+16.0,2,3 bedrooms,39,0,House,House,0,0,60,4.2,Customer packs,Phone,Sales rep,0,Summer,Monday,Morning,4,Ready,0,0
+20.0,2,3 bedrooms,45,0,House,House,1,0,95,29.4,Customer packs,Video call,Sales rep,0,Spring,Wednesday,Morning,46,Not ready,0,0
+24.0,3,2 Bedrooms,45,1,Townhouse,Condo,1,0,100,5.0,Customer packs,Video call,Operations estimator,0,Winter,Saturday,Morning,12,Ready,0,0
+32.0,4,3 Bedrooms,42,0,Townhouse,Townhouse,3,0,50,16.1,Full,In-person,Operations estimator,0,Summer,Wednesday,Morning,25,Ready,0,0
+15.0,2,2 bedrooms,30,1,Condo,House,1,1,210,7.8,Customer packs,Video call,Operations estimator,1,Winter,Friday,Morning,9,Ready,0,1
+49.0,7,3 bedrooms,82,1,House,House,1,0,65,7.9,Partial,Video call,Operations estimator,0,Summer,Friday,Morning,10,Ready,0,0
+28.5,3,4+ bedrooms,46,0,House,House,2,0,60,10.6,Partial,Phone,Sales rep,0,Summer,Saturday,Morning,4,Ready,0,0
+14.0,2,Studio,14,0,Apartment,Condo,0,1,,35.6,Full,Phone,Sales rep,0,Spring,Wednesday,Morning,5,No answer,0,0
+15.0,2,2 bedrooms,38,0,Apartment,Apartment,0,1,160,7.2,Customer packs,Video call,Sales rep,0,Spring,Thursday,Morning,8,Ready,0,0
+11.0,2,1 bedroom,17,0,Apartment,Townhouse,3,0,85,19.8,Customer packs,Video call,Operations estimator,0,Fall,Tuesday,Morning,12,No answer,0,0
+10.0,2,1 bedroom,17,0,Apartment,Apartment,1,0,125,12.3,Partial,Video call,Operations estimator,0,Winter,Monday,Morning,10,No answer,0,0
+42.0,6,4+ bedrooms,59,0,House,House,1,0,150,15.7,Full,In-person,Sales rep,0,Summer,Thursday,Morning,21,Ready,0,0
+17.0,2,1 bedroom,22,0,Apartment,Apartment,0,1,165,52.7,Partial,Video call,Operations estimator,0,Winter,Friday,Morning,35,Ready,0,0
+17.0,2,2 bedrooms,27,0,Condo,Condo,0,1,185,12.9,Partial,Video call,Operations estimator,0,Fall,Saturday,Morning,37,Not ready,0,0
+15.0,2,2 bedrooms,25,0,Apartment,House,0,1,145,47.1,Partial,Video call,Sales rep,0,Spring,Saturday,Morning,15,Ready,0,0
+7.0,2,Studio,11,0,Condo,Apartment,1,1,195,-12.5,Customer packs,Video call,Sales rep,1,Fall,Monday,Morning,999,Ready,0,0
+24.0,3,3 bedrooms,42,0,House,House,2,0,35,4.4,Partial,In-person,Operations estimator,0,Winter,Friday,Morning,4,Ready,0,0
+24.0,3,3 bedrooms,46,1,House,Townhouse,3,0,70,2.3,Customer packs,In-person,Operations estimator,0,Summer,Saturday,Morning,9,Ready,0,0
+25.5,3,2 bedrooms,35,0,Apartment,Townhouse,5,0,130,23.6,Partial,Video call,Operations estimator,0,Summer,Saturday,Morning,17,Not ready,0,0
+22.0,4,3 bedrooms,60,1,House,House,1,0,55,2.0,Customer packs,In-person,Operations estimator,1,Fall,Thursday,Morning,11,Not ready,0,1
+32.0,4,4+ bedrooms,55,0,Apartment,House,1,0,130,20.2,Partial,In-person,Sales rep,0,Spring,Monday,Morning,14,Ready,0,0
+7.0,2,Studio,11,0,Apartment,Apartment,1,1,160,9.2,Customer packs,Phone,Sales rep,0,Spring,Saturday,Morning,5,No answer,0,0
+24.0,3,3 bedrooms,41,0,House,House,3,0,170,5.3,Customer packs,Phone,Operations estimator,0,Winter,Friday,Morning,9,Not ready,0,1
+37.5,5,3 bedrooms,54,0,House,House,2,0,25,7.1,Full,In-person,Operations estimator,0,Fall,Wednesday,Morning,3,No answer,0,0
+14.0,2,1 bedroom,26,0,Apartment,Apartment,3,0,200,8.9,Customer packs,Phone,Sales rep,0,Spring,Saturday,Morning,9,Not ready,0,1
+9.0,2,Studio,12,0,Apartment,Apartment,2,0,125,17.5,Customer packs,Phone,Operations estimator,0,Spring,Saturday,Afternoon,8,Ready,0,0
+9.0,2,1 bedroom,13,0,Apartment,Townhouse,3,0,55,6.5,Partial,Video call,Sales rep,0,Fall,Friday,Morning,53,Ready,0,0
+26.0,4,3 bedrooms,45,2,House,House,2,0,20,21.7,Customer packs,In-person,Sales rep,0,Summer,Wednesday,Morning,17,Ready,0,0
+14.0,2,1 bedroom,23,0,Apartment,Townhouse,1,1,75,37.7,Customer packs,Phone,Sales rep,0,Summer,Monday,Morning,14,Ready,0,0
+8.0,2,1 bedroom,14,0,House,Apartment,0,1,170,24.9,Customer packs,Video call,Operations estimator,0,Fall,Saturday,Morning,12,Not ready,0,0
+10.0,2,Studio,13,0,Apartment,Condo,0,1,125,25.0,Full,Video call,Sales rep,1,Summer,Friday,Morning,21,Ready,0,1
+26.0,4,3 bedrooms,56,0,House,House,1,0,120,12.9,Customer packs,Video call,Operations estimator,0,Fall,Saturday,Morning,31,Not ready,0,0
+37.5,5,4+ bedrooms,80,2,House,House,2,0,40,19.7,Customer packs,Video call,Sales rep,0,Fall,Wednesday,Morning,24,No answer,0,0
+45.5,7,4+ bedrooms,78,0,Townhouse,House,3,0,105,11.8,Partial,Video call,Sales rep,0,Summer,Tuesday,Morning,20,No answer,0,0
+7.0,2,Studio,9,0,Apartment,Apartment,6,0,95,4.0,Customer packs,Phone,Operations estimator,0,Fall,Friday,Afternoon,5,Ready,0,0
+11.0,2,1 bedroom,18,0,Condo,Apartment,0,1,155,11.0,Full,In-person,Sales rep,0,Spring,Wednesday,Morning,2,Ready,0,1
+32.5,5,4+ bedrooms,57,2,House,House,2,0,50,14.3,Customer packs,In-person,Operations estimator,0,Summer,Wednesday,Morning,8,Ready,1,0
+27.0,3,3 bedrooms,62,0,House,House,1,0,40,9.7,Customer packs,In-person,Operations estimator,0,Summer,Monday,Morning,21,Ready,0,0
+18.0,3,2 bedrooms,42,0,Apartment,Condo,0,1,110,10.2,Customer packs,In-person,Operations estimator,1,Summer,Thursday,Morning,16,Not ready,0,0
+35.0,5,3 bedrooms,45,0,House,Apartment,1,0,65,36.5,Full,Video call,Sales rep,0,Fall,Saturday,Morning,108,Ready,0,0
+26.0,4,3 bedrooms,55,0,House,House,3,0,50,6.5,Customer packs,Phone,Sales rep,0,Summer,Wednesday,Morning,11,Ready,1,0
+30.0,3,3 bedrooms,48,0,House,House,2,0,45,19.9,Partial,Video call,Operations estimator,0,Summer,Wednesday,Morning,9,Ready,0,0
+19.5,3,3 bedrooms,38,0,House,House,1,0,40,4.9,Partial,In-person,Operations estimator,0,Fall,Monday,Morning,4,Not ready,0,0
+12.0,2,2 bedrooms,25,0,House,Apartment,1,0,30,7.4,Partial,Video call,Operations estimator,1,Fall,Saturday,Morning,79,Ready,0,0
+22.5,3,3 bedrooms,44,1,House,House,3,0,35,13.4,Customer packs,In-person,Sales rep,0,Spring,Friday,Morning,69,Ready,0,0
+14.0,2,2 bedrooms,24,0,Apartment,Apartment,1,1,280,8.2,Customer packs,Phone,Sales rep,0,Summer,Wednesday,Morning,27,Ready,0,1
+16.0,2,2 bedrooms,38,0,House,House,0,0,30,12.1,Customer packs,In-person,Operations estimator,0,Fall,Tuesday,Morning,14,Ready,0,0
+34.0,4,4+ bedrooms,56,3,House,House,2,0,40,6.1,Customer packs,Video call,Operations estimator,0,Spring,Wednesday,Morning,32,Not ready,0,1
+10.0,2,1 bedroom,18,0,Apartment,Apartment,3,0,95,11.1,Customer packs,Video call,Operations estimator,0,Spring,Thursday,Morning,15,Ready,0,0
+11.0,2,3 bedrooms,30,0,House,House,0,0,50,4.6,Customer packs,In-person,Sales rep,0,Spring,Saturday,Morning,9,No answer,0,1
+30.0,4,2  bedrooms,37,0,Apartment,Townhouse,1,1,180,7.1,Full,In-person,Operations estimator,0,Summer,Friday,Morning,14,Ready,0,0
+12.0,2,2  bedrooms,28,0,Condo,Apartment,2,0,85,6.8,Customer packs,Phone,Sales rep,1,Summer,Saturday,Morning,105,Ready,0,0
+19.0,2,2 bedrooms,39,0,Townhouse,Condo,3,0,50,7.7,Customer packs,In-person,Sales rep,0,Spring,Thursday,Morning,13,Ready,0,0
+13.0,2,1 bedroom,24,0,Apartment,Condo,0,1,95,39.8,Customer packs,Phone,Sales rep,0,Fall,Tuesday,Morning,2,Ready,0,0
+36.0,4,4+ bedrooms,46,2,House,House,1,0,30,6.6,Full,Video call,Sales rep,0,Summer,Friday,Morning,9,No answer,0,0
+30.0,5,4+ bedrooms,77,0,House,House,1,0,115,17.5,Customer packs,In-person,Sales rep,1,Winter,Saturday,Morning,114,Not ready,0,1
+45.0,6,3 bedrooms ,56,0,Townhouse,Townhouse,3,0,70,2.3,Full,Phone,Sales rep,0,Spring,Monday,Morning,10,Not ready,0,0
+13.0,2,2 bedrooms,30,0,Apartment,Condo,0,1,180,1.9,Customer packs,Phone,Operations estimator,0,Spring,Tuesday,Morning,10,Not ready,0,1
+25.5,3,2 bedrooms,40,0,Townhouse,Townhouse,6,0,65,22.2,Customer packs,In-person,Operations estimator,0,Winter,Tuesday,Morning,53,Ready,0,0
+48.0,8,3 bedrooms,61,0,Townhouse,Townhouse,5,0,50,2.8,Full,In-person,Operations estimator,0,Fall,Saturday,Morning,58,Ready,0,0
+16.5,3,2 bedrooms,34,0,Condo,House,1,1,150,15.8,Customer packs,Phone,Sales rep,0,Fall,Saturday,Morning,24,Ready,1,0
+9.0,2,Studio,9,0,Apartment,Apartment,3,0,115,8.4,Partial,Video call,Operations estimator,0,Summer,Monday,Morning,72,Not ready,0,0
+7.0,2,Studio,13,0,Apartment,Apartment,0,1,140,4.4,Customer packs,Phone,Operations estimator,0,Winter,Tuesday,Afternoon,9,Ready,0,0
+14.0,2,2 bedrooms,23,0,Condo,Apartment,2,1,95,25.5,Partial,In-person,Sales rep,1,Summer,Saturday,Morning,32,Ready,0,0
+14.0,2,2 bedrooms,29,1,House,Condo,1,1,85,4.4,Customer packs,In-person,Operations estimator,1,Summer,Friday,Morning,6,Ready,0,1
+12.0,2,1 bedroom,16,0,Apartment,Apartment,2,1,175,5.1,Partial,In-person,Operations estimator,0,Fall,Friday,Morning,19,Ready,0,0
+13.0,2,2 bedrooms,29,0,House,Apartment,3,0,90,13.2,Customer packs,Video call,Operations estimator,1,Summer,Thursday,Morning,16,Ready,0,1
+24.0,4,2 bedrooms,32,0,Townhouse,Townhouse,3,0,75,19.5,Full,Video call,Sales rep,0,Summer,Monday,Morning,15,Ready,0,0
+9.0,2,1 bedroom,17,0,Apartment,Condo,0,1,220,29.4,Customer packs,Video call,Sales rep,0,Fall,Saturday,Morning,27,Ready,0,0
+19.0,2,2 bedrooms,32,0,Townhouse,Apartment,1,1,210,37.2,Customer packs,Video call,Sales rep,0,Summer,Friday,Morning,26,Ready,0,0
+14.0,2,2 bedrooms,28,0,Apartment,Apartment,0,1,160,10.5,Partial,Video call,Sales rep,0,Spring,Saturday,Morning,4,No answer,0,0
+11.0,2,1 bedroom,15,1,Apartment,Townhouse,2,1,95,5.3,Customer packs,Phone,Sales rep,0,Spring,Saturday,Afternoon,15,Ready,0,1
+15.0,2,1 bedroom,21,0,Condo,Apartment,2,1,155,33.3,Customer packs,Phone,Operations estimator,0,Summer,Thursday,Morning,48,Ready,0,0
+11.0,2,1 bedroom,21,0,Apartment,Apartment,1,1,120,34.7,Customer packs,Video call,Operations estimator,0,Spring,Friday,Morning,7,Ready,0,0
+26.0,4,3 bedrooms,45,1,Townhouse,Townhouse,3,0,70,4.7,Partial,In-person,Sales rep,0,Summer,Thursday,Morning,11,No answer,0,0
+14.0,2,2 bedrooms,35,1,Apartment,Apartment,2,1,100,9.1,Customer packs,Phone,Sales rep,1,Fall,Saturday,Morning,8,Ready,0,1
+13.0,2,1 bedroom,29,0,Apartment,Apartment,0,1,135,7.3,Customer packs,Phone,Sales rep,0,Spring,Saturday,Morning,23,Ready,0,0
+7.0,2,1 bedroom,18,0,Apartment,Apartment,0,1,125,2.0,Customer packs,Phone,Sales rep,1,Winter,Tuesday,Afternoon,4,Not ready,0,1
+30.0,4,4+ bedrooms,51,3,House,House,2,0,90,4.5,Customer packs,Video call,Operations estimator,0,Winter,Thursday,Morning,7,No answer,0,1
+11.0,2,1 bedroom,20,0,Apartment,Apartment,2,1,80,22.6,Customer packs,Phone,Sales rep,0,Spring,Wednesday,Morning,15,No answer,0,0
+8.0,2,Studio,15,0,Condo,Condo,2,1,165,27.4,Customer packs,Phone,Sales rep,1,Winter,Saturday,Afternoon,8,Ready,0,0
+40.0,5,4+ bedrooms,71,1,House,Apartment,1,1,85,9.0,Partial,In-person,Operations estimator,0,Summer,Saturday,Morning,999,Ready,0,0
+10.0,2,1 bedroom,22,0,Apartment,Apartment,0,1,140,5.9,Customer packs,Phone,Sales rep,0,Fall,Friday,Morning,22,Ready,0,1
+24.0,3,2 bedrooms,40,1,Apartment,Apartment,2,1,140,10.8,Customer packs,Phone,Sales rep,0,Fall,Tuesday,Morning,11,Ready,0,1
+16.0,2,2 bedrooms,27,1,Apartment,House,2,0,70,7.5,Customer packs,In-person,Operations estimator,0,Summer,Saturday,Morning,40,Ready,0,0
+28.0,4,3 bedrooms,58,0,Townhouse,Townhouse,3,0,125,2.2,Customer packs,Video call,Operations estimator,0,Fall,Saturday,Morning,17,Not ready,0,0
+12.0,2,2 bedrooms,24,0,Apartment,Apartment,1,1,210,11.3,Customer packs,In-person,Operations estimator,0,Summer,Thursday,Morning,22,Ready,0,0
+18.0,3,3 bedrooms,46,0,House,House,1,0,40,14.3,Customer packs,Phone,Sales rep,0,Winter,Wednesday,Morning,1,Not ready,0,0
+68.0,8,3 bedrooms,81,1,House,Townhouse,4,0,35,5.6,Full,Video call,Operations estimator,0,Spring,Wednesday,Morning,49,Ready,0,0
+42.0,7,4+ bedrooms,79,0,House,Townhouse,1,0,15,3.3,Full,Video call,Sales rep,1,Summer,Friday,Morning,24,Ready,0,0
+24.0,3,3  bedrooms,49,0,House,House,1,0,100,18.7,Customer packs,Video call,Operations estimator,0,Fall,Saturday,Morning,15,Ready,0,0
+8.0,2,Studio,13,0,Apartment,Apartment,0,1,30,23.2,Customer packs,Phone,Sales rep,0,Summer,Wednesday,Afternoon,5,Ready,0,1
+32.5,5,4+ bedrooms,59,0,Townhouse,Townhouse,3,0,60,9.8,Partial,Video call,Sales rep,1,Fall,Tuesday,Morning,6,Not ready,0,0
+10.0,2,1  bedroom,23,0,Apartment,Apartment,0,1,220,12.8,Customer packs,Phone,Sales rep,1,Winter,Friday,Morning,6,Not ready,0,1
+10.0,2,1 bedroom,16,0,Townhouse,Townhouse,4,0,80,14.0,Customer packs,Video call,Operations estimator,0,Summer,Thursday,Morning,50,Ready,0,0
+25.5,3,2 bedrooms,32,0,Townhouse,Townhouse,4,0,50,53.9,Partial,Video call,Sales rep,0,Summer,Tuesday,Morning,51,Not ready,0,0
+9.0,2,1 bedroom,18,0,Apartment,Apartment,3,0,115,5.2,Customer packs,Video call,Operations estimator,0,Summer,Wednesday,Afternoon,22,No answer,0,0
+24.0,3,1 BEDROOM,32,0,Condo,Condo,0,1,220,3.0,Full,Phone,Sales rep,0,Winter,Friday,Morning,6,Ready,0,0
+11.0,2,1 bedroom,18,0,Condo,Condo,1,1,180,20.3,Partial,Phone,Sales rep,1,Spring,Saturday,Morning,62,Not ready,0,1
+18.0,3,2 bedrooms,40,0,Apartment,Apartment,0,1,120,6.6,Partial,Video call,Operations estimator,1,Spring,Wednesday,Morning,74,Ready,0,1
+8.0,2,Studio,10,0,Apartment,Apartment,1,1,50,19.6,Full,Phone,Sales rep,0,Summer,Thursday,Afternoon,6,Not ready,0,1
+24.0,4,3 bedrooms,49,1,House,House,2,0,45,13.0,Customer packs,In-person,Operations estimator,0,Fall,Monday,Morning,9,Ready,0,0
+9.0,2,1 bedroom,19,0,Apartment,Apartment,0,0,120,10.5,Customer packs,Phone,Sales rep,0,Spring,Tuesday,Afternoon,15,Not ready,1,0
+32.5,5,2 bedrooms,44,1,Apartment,Apartment,0,1,155,6.5,Full,In-person,Operations estimator,0,Summer,Saturday,Morning,36,Ready,0,0
+7.0,2,Studio,13,0,Apartment,Apartment,1,1,70,5.9,Customer packs,Video call,Operations estimator,0,Summer,Tuesday,Afternoon,9,No answer,0,0
+18.0,3,3 bedrooms,29,0,Townhouse,Townhouse,2,0,45,13.8,Partial,Video call,Sales rep,0,Fall,Friday,Morning,28,Ready,0,0
+24.0,3,2 bedrooms,26,1,Townhouse,Townhouse,5,0,100,3.4,Full,Video call,Sales rep,0,Summer,Tuesday,Morning,6,No answer,0,0
+26.0,4,3 bedrooms,35,1,House,House,1,0,45,7.3,Full,Phone,Operations estimator,0,Fall,Wednesday,Morning,7,Ready,1,1
+25.5,3,2 bedrooms,29,0,Condo,Townhouse,2,0,105,12.7,Full,Phone,Operations estimator,0,Summer,Saturday,Morning,5,Ready,0,0
+38.5,7,3 bedrooms,72,0,Townhouse,Townhouse,3,0,150,7.7,Partial,In-person,Sales rep,1,Fall,Friday,Morning,82,Ready,0,0
+32.0,4,2 bedrooms,40,0,Condo,Apartment,1,1,105,3.4,Full,Phone,Sales rep,0,Summer,Monday,Morning,16,Ready,0,0
+9.0,2,Studio,16,0,Apartment,Condo,0,1,300,9.8,Customer packs,Phone,Sales rep,0,Winter,Friday,Afternoon,61,Ready,1,1
+13.0,2,1 bedroom,16,1,Apartment,Townhouse,2,1,150,8.2,Partial,Phone,Sales rep,0,Fall,Friday,Morning,17,Not ready,0,1
+13.0,2,1 bedroom,21,0,Condo,Condo,2,0,80,19.6,Partial,In-person,Sales rep,0,Spring,Saturday,Morning,25,Ready,0,0
+21.0,2,3 Bedrooms,43,0,House,House,2,0,115,4.6,Customer packs,In-person,Operations estimator,0,Summer,Wednesday,Morning,24,Ready,0,0
+13.0,2,1 bedroom,22,0,Apartment,Apartment,4,0,110,9.2,Customer packs,Phone,Sales rep,0,Spring,Saturday,Morning,2,Ready,0,0
+12.0,2,1 bedroom,24,0,Apartment,Apartment,0,1,135,4.4,Customer packs,Video call,Operations estimator,0,Spring,Tuesday,Morning,8,Ready,0,0
+42.5,5,4+ bedrooms,84,0,House,House,3,0,25,17.4,Customer packs,Video call,Operations estimator,0,Summer,Saturday,Morning,4,Ready,0,0
+14.0,2,1 bedroom,18,0,Apartment,Condo,3,1,225,1450.0,Customer packs,Phone,Sales rep,0,Summer,Tuesday,Morning,4,Not ready,1,1
+30.0,5,3 bedrooms,61,1,House,Townhouse,1,0,70,7.5,Partial,Phone,Sales rep,0,Fall,Thursday,Morning,31,Ready,0,0
+24.0,4,4+ bedrooms,38,0,House,Townhouse,2,0,45,3.8,Full,In-person,Operations estimator,0,Winter,Saturday,Morning,16,Not ready,0,0
+26.0,4,2 bedrooms,31,1,Condo,House,3,0,45,18.2,Full,Video call,Sales rep,0,Fall,Saturday,Morning,13,Ready,0,0
+14.0,2,1 bedroom,15,0,Condo,Condo,2,1,110,22.5,Full,Video call,Sales rep,0,Winter,Friday,Morning,34,Ready,0,0
+15.0,2,2 bedrooms,20,0,Apartment,Apartment,0,1,135,13.2,Full,Phone,Operations estimator,0,Spring,Saturday,Morning,17,Ready,0,0
+21.0,3,2 bedrooms,38,0,House,House,0,0,55,22.8,Partial,Video call,Sales rep,0,Spring,Saturday,Morning,61,Not ready,0,0
+30.0,5,3 bedrooms,42,1,House,House,1,0,25,5.6,Full,In-person,Operations estimator,0,Fall,Wednesday,Morning,16,No answer,0,0
+16.5,3,2 bedrooms,29,0,Apartment,Apartment,0,1,80,9.7,Partial,In-person,Operations estimator,0,Summer,Friday,Morning,17,No answer,1,0
+24.0,4,1 bedroom,32,0,Townhouse,Apartment,4,0,100,3.9,Full,Phone,Sales rep,0,Summer,Thursday,Morning,4,Ready,0,0
+52.5,7,4+ bedrooms,71,1,House,House,1,0,55,6.3,Full,In-person,Operations estimator,0,Spring,Saturday,Morning,27,Ready,0,0
+16.0,2,2 bedrooms,34,1,House,House,2,0,25,11.0,Customer packs,Phone,Sales rep,0,Summer,Wednesday,Morning,33,Not ready,0,1
+42.0,6,4+ bedrooms,75,0,House,House,1,0,50,11.7,Partial,Phone,Operations estimator,0,Summer,Saturday,Morning,53,Ready,0,0
+16.5,3,3 bedrooms,30,0,House,House,3,0,30,13.3,Partial,Video call,Sales rep,1,Fall,Saturday,Morning,5,Ready,0,0
+8.0,2,1 bedroom,18,0,Apartment,Apartment,0,1,135,9.9,Customer packs,Video call,Sales rep,0,Summer,Tuesday,Morning,5,Not ready,0,0
+24.0,4,3 bedrooms,53,0,House,House,0,0,35,10.6,Partial,In-person,Operations estimator,1,Spring,Friday,Morning,4,Not ready,0,0
+8.0,2,1 bedroom,16,0,House,House,1,0,10,3.3,Customer packs,Video call,Sales rep,0,Fall,Friday,Afternoon,117,No answer,0,1
+19.5,3,3 bedrooms,48,0,House,House,2,0,60,8.3,Customer packs,In-person,Sales rep,1,Winter,Thursday,Morning,21,Not ready,0,0
+24.0,3,3 bedrooms,33,1,Condo,Townhouse,2,1,125,10.2,Partial,In-person,Operations estimator,0,Spring,Tuesday,Morning,18,Not ready,0,0
+28.0,4,2  bedrooms,45,0,Apartment,Apartment,0,1,120,6.2,Full,Video call,Sales rep,0,Fall,Saturday,Morning,21,Ready,0,0
+54.0,6,4+ bedrooms,72,0,House,House,2,0,30,5.6,Full,Video call,Operations estimator,0,Winter,Wednesday,Morning,49,No answer,0,0
+9.0,2,Studio,14,0,Apartment,Apartment,3,0,70,6.3,Customer packs,Video call,Operations estimator,0,Summer,Saturday,Afternoon,8,Ready,0,0
+45.5,7,4+ Bedrooms,90,0,Townhouse,House,1,0,35,6.5,Partial,In-person,Operations estimator,0,Winter,Saturday,Morning,3,Ready,0,0
+49.0,7,4+ bedrooms,74,1,House,House,1,0,40,7.9,Full,Video call,Sales rep,0,Fall,Tuesday,Morning,11,Ready,0,0
+37.5,5,4+ bedrooms,69,1,Condo,Condo,0,1,105,4.7,Partial,In-person,Operations estimator,0,Spring,Saturday,Morning,1,Ready,0,0
+20.0,4,2 bedrooms,42,0,Condo,House,1,0,75,25.2,Customer packs,Video call,Sales rep,0,Spring,Monday,Morning,22,Not ready,0,0
+8.0,2,Studio,11,0,Apartment,Apartment,0,0,145,22.0,Partial,In-person,Sales rep,0,Fall,Friday,Morning,48,Ready,0,0
+15.0,2,Studio,13,0,Apartment,Apartment,3,1,130,35.2,Full,Phone,Sales rep,0,Summer,Thursday,Morning,7,Ready,0,0
+13.0,2,1 bedroom,34,0,Apartment,Apartment,1,0,130,3.0,Customer packs,Video call,Sales rep,1,Winter,Friday,Morning,32,No answer,0,0
+16.0,2,3 bedrooms ,40,0,Apartment,Apartment,0,1,190,19.8,Customer packs,In-person,Sales rep,1,Spring,Saturday,Morning,16,Ready,0,1
+42.0,6,3 bedrooms,57,0,Condo,Condo,0,1,225,17.0,Full,Phone,Sales rep,0,Summer,Wednesday,Morning,12,Ready,0,1
+22.5,3,2 bedrooms,43,1,Condo,Condo,3,1,110,3.9,Customer packs,Phone,Sales rep,0,Summer,Wednesday,Morning,33,Ready,0,1
+26.0,4,3 bedrooms,33,0,Townhouse,Townhouse,3,0,55,7.4,Full,In-person,Operations estimator,0,Summer,Friday,Morning,14,Ready,0,0
+19.5,3,2 bedrooms,27,0,Apartment,Apartment,1,1,145,7.1,Full,In-person,Operations estimator,0,Summer,Friday,Morning,12,Ready,0,0
+7.0,2,Studio,14,0,Apartment,Apartment,1,1,120,6.9,Customer packs,In-person,Operations estimator,0,Summer,Wednesday,Afternoon,999,Ready,0,1
+13.0,2,2 bedrooms,33,0,Apartment,Apartment,3,1,75,4.8,Customer packs,Video call,Sales rep,0,Spring,Wednesday,Morning,4,No answer,0,1
+6.0,2,1 bedroom,14,0,House,House,0,0,30,8.9,Customer packs,Phone,Sales rep,1,Fall,Thursday,Morning,7,Ready,0,0
+12.0,2,1 bedroom,25,0,Apartment,Apartment,2,1,115,12.6,Customer packs,Video call,Operations estimator,0,Summer,Wednesday,Morning,8,Ready,0,0
+40.0,5,4+ bedrooms,60,1,House,House,2,0,150,6.9,Partial,In-person,Operations estimator,0,Summer,Monday,Morning,4,Ready,0,0
+11.0,2,2 bedrooms,22,0,House,Condo,1,0,90,9.7,Customer packs,Phone,Operations estimator,0,Winter,Friday,Morning,7,Not ready,0,0
+13.0,2,2 bedrooms,20,0,Condo,Townhouse,1,1,140,7.6,Partial,In-person,Operations estimator,0,Fall,Wednesday,Morning,25,Ready,0,0
+64.0,8,4+ bedrooms,122,1,House,House,0,0,115,10.2,Partial,Video call,Sales rep,0,Winter,Saturday,Morning,34,Not ready,0,0
+35.0,5,3 bedrooms,57,0,House,Apartment,1,1,145,8.1,Full,In-person,Sales rep,1,Winter,Saturday,Morning,36,Ready,1,0
+11.0,2,1 bedroom,23,0,Apartment,House,3,0,40,21.4,Customer packs,Phone,Sales rep,0,Spring,Friday,Morning,999,Ready,0,0
+38.5,7,3 bedrooms,54,0,House,Townhouse,2,0,155,3.8,Full,In-person,Operations estimator,0,Fall,Friday,Morning,29,Ready,0,0
+19.5,3,2 bedrooms,37,1,House,House,1,0,125,7.0,Customer packs,Video call,Sales rep,0,Summer,Wednesday,Morning,17,Ready,1,0
+49.0,7,4+ bedrooms,81,1,House,House,1,0,150,8.3,Partial,In-person,Operations estimator,0,Spring,Tuesday,Morning,14,Not ready,0,0
+18.0,3,3 bedrooms,34,0,House,House,1,0,55,9.9,Partial,Video call,Sales rep,0,Spring,Saturday,Afternoon,15,Not ready,0,0
+22.5,3,2 bedrooms,38,0,House,Condo,0,1,245,7.2,Partial,Phone,Sales rep,0,Summer,Friday,Morning,28,Ready,0,0
+9.0,2,1 bedroom,18,0,Condo,Apartment,0,1,205,7.3,Customer packs,Phone,Operations estimator,0,Summer,Wednesday,Morning,10,Not ready,0,1
+32.0,4,2 bedrooms,39,0,Townhouse,Townhouse,3,0,55,7.5,Full,Video call,Operations estimator,0,Summer,Monday,Morning,12,Ready,0,0
+15.0,2,2 bedrooms,33,0,Condo,Condo,1,1,165,9.5,Customer packs,Video call,Sales rep,0,Summer,Thursday,Morning,44,Ready,0,0
+28.0,4,3 bedrooms,45,1,House,House,1,0,85,19.1,Partial,Video call,Sales rep,0,Spring,Thursday,Morning,9,Not ready,0,0
+13.0,2,1 bedroom,24,0,Apartment,Apartment,0,1,105,16.6,Partial,Phone,Sales rep,0,Spring,Friday,Morning,999,Ready,0,0
+22.5,3,4+ bedrooms,48,0,Townhouse,Townhouse,3,0,50,16.0,Customer packs,Video call,Sales rep,1,Summer,Thursday,Morning,43,Ready,0,0
+63.0,7,3 bedrooms,74,0,Condo,House,1,1,125,23.8,Full,In-person,Operations estimator,0,Spring,Friday,Morning,9,Ready,0,0
+7.0,2,Studio,15,0,Apartment,Apartment,0,0,90,7.7,Customer packs,In-person,Operations estimator,0,Fall,Saturday,Morning,22,Ready,0,0
+42.0,6,3 bedrooms,70,0,House,Townhouse,4,0,85,9.8,Partial,Video call,Sales rep,0,Spring,Thursday,Morning,15,Ready,1,0
+10.0,2,Studio,12,0,Apartment,Condo,1,1,260,17.8,Partial,Phone,Operations estimator,0,Spring,Tuesday,Morning,6,Ready,0,1
+11.0,2,1 bedroom,20,0,Condo,Condo,0,1,190,34.1,Customer packs,Phone,Sales rep,0,Fall,Tuesday,Morning,6,No answer,1,0
+22.5,3,4+ bedrooms,57,0,House,House,1,0,45,11.7,Customer packs,Video call,Sales rep,1,Summer,Wednesday,Morning,5,Ready,0,0
+42.0,6,4+ bedrooms,61,0,House,House,0,0,,21.6,Full,Phone,Operations estimator,0,Summer,Friday,Morning,28,Not ready,0,1
+19.5,3,2 bedrooms,38,0,Townhouse,House,4,0,155,7.9,Customer packs,Video call,Sales rep,1,Summer,Saturday,Morning,11,Ready,0,0
+16.0,2,2 bedrooms,27,0,Apartment,Apartment,0,0,130,9.1,Partial,Video call,Operations estimator,0,Summer,Thursday,Morning,20,Ready,0,0
+11.0,2,Studio,21,0,Condo,Apartment,0,1,175,4.6,Customer packs,In-person,Operations estimator,0,Summer,Monday,Morning,13,Ready,0,0
+30.0,4,3 bedrooms,45,0,Townhouse,Townhouse,4,0,,21.2,Partial,In-person,Operations estimator,0,Fall,Tuesday,Morning,13,Ready,1,0
+7.0,2,Studio,9,0,Townhouse,Townhouse,3,0,65,13.1,Partial,Phone,Sales rep,0,Spring,Monday,Morning,12,Not ready,0,0
+18.0,3,3 bedrooms,38,0,House,Townhouse,4,0,45,22.3,Customer packs,Video call,Sales rep,1,Fall,Wednesday,Morning,50,Not ready,0,1
+15.0,3,2 bedrooms,26,0,House,Townhouse,4,0,80,5.7,Partial,Video call,Sales rep,1,Winter,Tuesday,Morning,13,Not ready,0,0
+22.5,3,3 bedrooms,44,0,House,Townhouse,1,0,45,16.2,Partial,Phone,Operations estimator,0,Spring,Monday,Morning,4,Ready,0,0
+11.0,2,1 BEDROOM,17,0,Condo,Condo,0,1,260,9.4,Partial,In-person,Operations estimator,0,Spring,Saturday,Morning,2,No answer,0,0
+21.0,3,2 bedrooms,37,0,Condo,House,3,0,35,3.6,Partial,Phone,Sales rep,0,Summer,Wednesday,Morning,12,Ready,0,0
+13.0,2,2 bedrooms,22,0,Apartment,House,0,1,115,13.8,Partial,Video call,Operations estimator,0,Spring,Monday,Morning,57,No answer,0,0
+32.0,4,4+ bedrooms,66,0,House,House,1,0,115,15.8,Customer packs,In-person,Operations estimator,0,Spring,Saturday,Morning,14,Ready,0,0
+22.5,3,1 bedroom,37,0,Condo,Condo,2,1,80,13.9,Partial,Phone,Sales rep,0,Summer,Thursday,Morning,18,Ready,0,0
+12.0,2,Studio,12,1,Apartment,Apartment,2,1,100,38.3,Customer packs,Phone,Sales rep,0,Winter,Thursday,Afternoon,17,Ready,0,1
+24.0,3,4+ bedrooms,39,1,House,House,0,0,25,14.6,Full,Video call,Sales rep,1,Spring,Tuesday,Morning,13,Ready,1,0
+14.0,2,2 bedrooms,30,0,House,House,2,0,40,7.0,Customer packs,Phone,Sales rep,0,Summer,Saturday,Morning,4,Ready,1,0
+45.0,6,4+ bedrooms,62,0,House,House,1,0,60,17.0,Full,In-person,Operations estimator,0,Spring,Saturday,Morning,23,Ready,0,0
+13.0,2,1 bedroom,19,0,Condo,Condo,0,1,135,53.3,Customer packs,Phone,Sales rep,0,Fall,Monday,Morning,17,No answer,0,0
+17.0,2,2 bedrooms,28,0,House,House,3,0,60,9.5,Partial,In-person,Operations estimator,0,Summer,Friday,Morning,3,No answer,0,0
+15.0,2,1 bedroom,17,0,Townhouse,Townhouse,4,0,45,12.2,Full,Phone,Operations estimator,0,Winter,Friday,Morning,10,No answer,0,1
+76.0,8,4+ bedrooms,109,1,House,House,2,0,50,36.2,Full,Video call,Operations estimator,0,Fall,Tuesday,Morning,34,Ready,1,1
+25.5,3,1 bedroom,24,0,Apartment,Apartment,5,0,125,26.7,Full,Video call,Sales rep,0,Spring,Monday,Morning,5,Ready,0,0
+18.0,3,1 bedroom,26,0,Condo,Apartment,6,0,70,8.8,Partial,Video call,Operations estimator,0,Fall,Thursday,Morning,118,Ready,0,0
+7.0,2,Studio,13,0,Apartment,Apartment,0,1,130,9.3,Partial,Phone,Sales rep,1,Summer,Wednesday,Afternoon,6,Ready,0,1
+13.0,2,1 bedroom,20,0,Condo,Apartment,1,0,210,5.6,Partial,In-person,Operations estimator,0,Winter,Friday,Morning,15,Not ready,1,0
+45.5,7,4+ bedrooms,59,0,Townhouse,Townhouse,3,0,85,7.9,Full,In-person,Operations estimator,0,Winter,Saturday,Morning,11,Ready,0,0
+25.5,3,3 bedrooms,38,1,House,House,2,0,40,24.9,Partial,Video call,Sales rep,0,Fall,Tuesday,Morning,42,Ready,0,0
+38.5,7,3 bedrooms,62,0,Apartment,Townhouse,1,1,150,11.1,Full,In-person,Sales rep,1,Summer,Tuesday,Morning,3,No answer,0,0
+17.0,2,2 bedrooms,23,0,Townhouse,Condo,4,0,,21.0,Partial,Phone,Operations estimator,0,Fall,Monday,Morning,10,Ready,0,1
+19.5,3,2 BEDROOMS,34,0,Condo,Condo,1,1,120,10.2,Partial,Video call,Operations estimator,0,Summer,Monday,Morning,26,Ready,0,0
+7.0,2,Studio,10,0,Apartment,Apartment,0,1,180,24.9,Customer packs,Phone,Sales rep,0,Summer,Monday,Afternoon,3,Ready,0,0
+22.0,4,2 bedrooms,29,0,Apartment,Townhouse,5,0,195,8.7,Partial,Phone,Sales rep,0,Winter,Saturday,Afternoon,17,Not ready,0,0
+18.0,2,3 bedrooms,33,0,House,Townhouse,1,0,70,23.7,Customer packs,Video call,Sales rep,0,Winter,Saturday,Morning,9,Ready,0,0
+13.5,3,2 bedrooms,25,0,Townhouse,Townhouse,4,0,55,20.5,Customer packs,Phone,Sales rep,0,Summer,Saturday,Morning,11,Not ready,0,0
+40.0,5,3 bedrooms,50,1,House,House,2,0,90,6.6,Full,Video call,Operations estimator,0,Spring,Monday,Morning,33,Ready,0,0
+26.0,4,3 bedrooms,48,0,House,House,3,0,30,11.3,Partial,Video call,Operations estimator,0,Fall,Thursday,Morning,18,Not ready,0,0
+27.5,5,4+ bedrooms,67,0,House,House,2,0,65,1.7,Customer packs,In-person,Sales rep,0,Summer,Tuesday,Morning,60,No answer,0,0
+9.0,2,1 bedroom,18,0,Townhouse,Townhouse,3,0,70,6.7,Customer packs,Video call,Sales rep,0,Winter,Saturday,Morning,21,Ready,0,0
+13.0,2,1 bedroom,18,0,Apartment,Apartment,0,1,160,44.9,Partial,Phone,Sales rep,0,Spring,Saturday,Morning,2,Not ready,0,1
+16.5,3,2 bedrooms,36,0,Apartment,Apartment,2,1,135,19.8,Customer packs,Phone,Sales rep,1,Winter,Saturday,Morning,32,Ready,0,0
+18.0,3,3 bedrooms,39,0,Townhouse,Townhouse,3,0,65,4.9,Customer packs,In-person,Operations estimator,1,Winter,Saturday,Afternoon,8,Ready,0,0
+24.0,4,4+ bedrooms,36,0,House,House,1,0,60,2.5,Full,Video call,Operations estimator,0,Fall,Saturday,Morning,13,Ready,0,0
+32.0,4,2 bedrooms,47,1,Townhouse,Condo,3,0,150,5.6,Partial,In-person,Operations estimator,0,Spring,Thursday,Morning,21,Ready,0,0
+8.0,2,Studio,13,0,Apartment,Apartment,0,1,100,10.8,Customer packs,Phone,Sales rep,0,Summer,Wednesday,Afternoon,5,Not ready,0,0
+18.0,3,3 bedrooms,37,0,Condo,House,1,1,190,17.9,Customer packs,In-person,Operations estimator,0,Winter,Monday,Morning,15,Ready,0,0
+52.5,7,3 bedrooms,83,0,Apartment,House,3,0,155,5.5,Partial,In-person,Sales rep,0,Spring,Saturday,Morning,999,Ready,0,0
+32.5,5,3 bedrooms,56,0,Townhouse,Townhouse,3,0,60,1.4,Partial,In-person,Sales rep,0,Fall,Saturday,Morning,25,No answer,0,0
+9.0,2,1 bedroom,18,0,Apartment,Apartment,0,1,120,14.7,Customer packs,Phone,Operations estimator,0,Winter,Tuesday,Morning,9,Ready,0,0
+9.0,2,1 bedroom,17,0,Apartment,Apartment,1,1,180,3.4,Customer packs,Phone,Sales rep,0,Fall,Monday,Morning,20,No answer,0,0
+26.0,4,3 bedrooms,36,0,House,House,1,0,125,4.5,Full,In-person,Operations estimator,0,Summer,Tuesday,Morning,38,No answer,0,0
+21.0,3,2 bedrooms,31,0,Townhouse,Apartment,5,0,110,10.8,Partial,Video call,Sales rep,0,Summer,Tuesday,Morning,26,Not ready,0,0
+17.0,2,2 bedrooms,39,0,Apartment,Apartment,1,0,45,10.8,Customer packs,In-person,Sales rep,0,Summer,Monday,Morning,12,Ready,0,0
+45.0,6,4+ bedrooms,68,1,Apartment,Apartment,0,1,190,25.0,Partial,In-person,Operations estimator,0,Summer,Saturday,Morning,29,Ready,0,0
+9.0,2,1 bedroom,19,0,Apartment,Apartment,2,0,110,9.0,Customer packs,Video call,Sales rep,0,Spring,Wednesday,Morning,34,Ready,1,0
+10.0,2,1 bedroom,14,0,Townhouse,Townhouse,5,0,,4.5,Partial,Video call,Operations estimator,0,Fall,Saturday,Morning,94,No answer,0,0
+45.5,7,4+ bedrooms,75,0,House,House,0,0,35,6.4,Full,Video call,Sales rep,0,Spring,Saturday,Morning,29,Ready,0,0
+24.0,3,3 bedrooms,52,0,Townhouse,House,1,0,45,33.5,Customer packs,Phone,Sales rep,0,Summer,Tuesday,Morning,6,Ready,0,0
+19.5,3,3 bedrooms,32,0,House,House,2,0,95,11.7,Partial,In-person,Operations estimator,0,Fall,Saturday,Morning,22,Ready,0,0
+24.0,3,2 bedrooms,37,0,Apartment,Condo,1,1,185,24.5,Partial,In-person,Operations estimator,0,Winter,Tuesday,Morning,6,Not ready,0,1
+12.0,2,2 bedrooms,22,1,Apartment,Apartment,1,1,140,11.2,Customer packs,Video call,Sales rep,0,Fall,Monday,Morning,6,Ready,0,1
+22.0,4,3 bedrooms,37,0,House,House,2,0,130,9.9,Partial,In-person,Operations estimator,0,Summer,Friday,Morning,68,No answer,0,0
+30.0,4,2 bedrooms,36,0,Condo,Condo,0,1,170,29.8,Full,In-person,Operations estimator,0,Summer,Monday,Morning,11,Ready,0,0
+19.0,2,2 bedrooms,26,0,House,House,1,0,20,25.4,Full,Phone,Sales rep,0,Summer,Friday,Morning,10,Ready,0,0
+19.5,3,2 bedrooms,28,0,House,Townhouse,1,0,95,4.3,Full,Video call,Operations estimator,1,Winter,Wednesday,Morning,10,No answer,0,0
+64.0,8,4+ bedrooms,125,0,House,House,2,0,15,15.1,Partial,In-person,Sales rep,0,Summer,Monday,Morning,30,Ready,0,0
+35.0,5,3 bedrooms,50,1,Townhouse,Townhouse,2,0,190,23.0,Partial,In-person,Operations estimator,0,Spring,Tuesday,Morning,44,Ready,0,0
+11.0,2,1 Bedroom,21,0,Townhouse,Apartment,2,0,125,15.7,Customer packs,Phone,Sales rep,0,Summer,Tuesday,Morning,37,Ready,0,0
+10.0,2,1 bedroom,21,0,Apartment,Apartment,0,1,165,12.3,Customer packs,Video call,Sales rep,0,Winter,Tuesday,Afternoon,3,Ready,0,0
+17.0,2,1 bedroom,30,1,Apartment,Apartment,0,1,185,6.7,Customer packs,Video call,Operations estimator,0,Summer,Wednesday,Morning,77,Ready,0,1
+24.0,4,3 bedrooms,59,0,House,House,1,0,40,19.5,Customer packs,In-person,Sales rep,0,Spring,Saturday,Morning,85,Ready,0,0
+15.0,2,2 bedrooms,25,0,Condo,Townhouse,2,0,105,6.4,Partial,Video call,Operations estimator,0,Fall,Wednesday,Morning,6,Ready,1,0
+32.5,5,3 bedrooms,78,0,Townhouse,Townhouse,2,0,75,10.6,Customer packs,Video call,Operations estimator,0,Summer,Friday,Morning,5,Ready,0,0
+12.0,2,1 bedroom,19,0,Apartment,Apartment,0,1,,5.8,Partial,Phone,Sales rep,0,Winter,Monday,Morning,23,Ready,0,1
+20.0,4,1 bedroom,29,0,Apartment,Apartment,2,0,110,10.1,Full,In-person,Sales rep,1,Fall,Monday,Morning,36,Ready,0,1
+11.0,2,1 bedroom,22,0,Townhouse,Townhouse,2,0,70,4.4,Customer packs,Phone,Sales rep,0,Fall,Thursday,Morning,7,No answer,0,0
+17.0,2,1 bedroom,23,0,Apartment,Apartment,0,1,205,39.4,Partial,In-person,Operations estimator,0,Fall,Monday,Morning,54,Ready,0,0
+9.0,2,1 bedroom,20,0,Apartment,Apartment,1,1,110,6.5,Customer packs,Video call,Operations estimator,0,Winter,Saturday,Morning,18,Ready,0,0
+21.0,3,2 bedrooms,29,0,Apartment,Townhouse,3,1,90,34.2,Partial,Video call,Operations estimator,0,Summer,Wednesday,Morning,52,Ready,1,0
+25.5,3,2 bedrooms,27,0,Apartment,Townhouse,2,0,150,13.4,Full,Phone,Operations estimator,0,Spring,Wednesday,Morning,28,Ready,0,0
+36.0,4,4+ bedrooms,66,1,House,House,1,0,35,25.7,Customer packs,In-person,Operations estimator,0,Summer,Saturday,Morning,10,Not ready,0,1
+6.0,2,Studio,12,0,Apartment,Apartment,0,1,115,17.4,Customer packs,Phone,Sales rep,0,Spring,Friday,Afternoon,98,Ready,0,1
+6.0,2,Studio,9,0,Condo,Condo,0,1,140,9.5,Partial,Phone,Sales rep,1,Summer,Thursday,Morning,50,Ready,0,0
+20.0,2,3 bedrooms,30,1,Apartment,Townhouse,1,1,110,17.5,Partial,In-person,Operations estimator,0,Fall,Friday,Morning,40,Not ready,0,1
+15.0,3,1 bedroom,28,0,Condo,Condo,2,1,80,3.9,Partial,Phone,Sales rep,0,Winter,Wednesday,Morning,15,No answer,0,0
+24.0,3,4+ bedrooms,57,0,House,House,0,0,55,27.0,Customer packs,In-person,Sales rep,0,Summer,Friday,Morning,42,Ready,0,0
+24.0,3,3 bedrooms,52,0,Townhouse,Townhouse,2,0,60,6.8,Customer packs,Phone,Operations estimator,0,Summer,Friday,Morning,999,Not ready,0,1
+15.0,2,1 bedroom,28,0,Apartment,Apartment,0,0,205,17.8,Customer packs,Video call,Sales rep,0,Summer,Saturday,Morning,36,No answer,0,0
+12.0,2,1 bedroom,22,0,Apartment,Apartment,3,1,120,2.7,Customer packs,Video call,Sales rep,0,Summer,Friday,Afternoon,16,No answer,0,0
+13.0,2,2  bedrooms,20,0,Townhouse,Townhouse,5,0,45,24.3,Customer packs,Phone,Sales rep,0,Summer,Friday,Morning,6,No answer,0,0
+30.0,4,4+ bedrooms,41,1,House,House,0,0,35,38.4,Partial,Video call,Operations estimator,0,Summer,Friday,Morning,37,Ready,0,0
+21.0,3,2 bedrooms,30,0,Apartment,Apartment,0,1,165,13.3,Full,Phone,Sales rep,0,Summer,Tuesday,Morning,8,Ready,0,0
+10.0,2,1 bedroom,24,0,Apartment,Condo,1,0,205,16.3,Customer packs,Phone,Sales rep,1,Spring,Tuesday,Morning,3,Not ready,0,1
+12.0,2,1 Bedroom,24,0,Condo,Condo,0,1,120,33.1,Customer packs,In-person,Sales rep,0,Spring,Friday,Morning,9,Ready,0,0
+11.0,2, 2 bedrooms,24,0,Apartment,Apartment,0,0,75,8.9,Customer packs,Video call,Operations estimator,0,Fall,Tuesday,Morning,103,Ready,0,0
+27.0,3,3 bedrooms,48,0,Condo,House,1,1,,3.5,Partial,Phone,Sales rep,0,Summer,Monday,Morning,36,Ready,0,0
+21.0,3,1 bedroom,34,0,Apartment,Apartment,2,0,95,2.6,Partial,Video call,Sales rep,0,Spring,Friday,Morning,7,Ready,0,0
+49.0,7,4+ bedrooms,57,1,Townhouse,Townhouse,3,0,50,24.4,Full,Video call,Sales rep,0,Fall,Saturday,Morning,12,Ready,0,0
+12.0,2,2 BEDROOMS,31,0,House,House,1,0,40,2.2,Customer packs,Video call,Operations estimator,1,Fall,Tuesday,Morning,117,Ready,0,1
+22.5,3,2 bedrooms,30,0,Apartment,Apartment,2,1,110,19.6,Full,Phone,Sales rep,0,Summer,Wednesday,Morning,7,Ready,0,0
+35.0,5,3 bedrooms,46,2,Apartment,Apartment,5,0,135,4.5,Customer packs,Video call,Operations estimator,0,Winter,Saturday,Morning,21,Ready,0,1
+21.0,2,2 bedrooms,39,0,Condo,Apartment,0,1,270,12.1,Customer packs,Phone,Operations estimator,0,Fall,Wednesday,Morning,18,Ready,0,1
+12.0,2,1 bedroom,23,0,Apartment,Apartment,0,1,170,10.1,Partial,Phone,Sales rep,1,Summer,Wednesday,Morning,26,Ready,0,0
+9.0,2,Studio,9,1,Apartment,Apartment,0,1,145,1.7,Full,Video call,Operations estimator,0,Summer,Thursday,Morning,27,Ready,0,1
+35.0,5,4+ bedrooms,66,1,House,House,1,0,40,4.0,Partial,In-person,Operations estimator,0,Summer,Thursday,Morning,26,Not ready,0,1
+6.0,2,Studio,12,0,Apartment,Apartment,0,0,95,6.4,Customer packs,In-person,Sales rep,1,Summer,Thursday,Afternoon,17,Ready,0,0
+16.5,3,2 bedrooms,40,0,Townhouse,House,2,0,,7.2,Customer packs,In-person,Sales rep,0,Summer,Thursday,Morning,6,Not ready,1,0
+16.5,3,1 bedroom,23,0,Apartment,Apartment,0,1,180,10.2,Full,Phone,Sales rep,0,Summer,Saturday,Morning,24,Ready,0,1
+39.0,6,3 bedrooms,58,0,House,House,2,0,75,17.3,Full,Phone,Sales rep,0,Fall,Saturday,Morning,9,Ready,0,0
+19.0,2,2 bedrooms,29,0,Apartment,Apartment,1,1,145,67.3,Customer packs,Phone,Operations estimator,0,Summer,Thursday,Morning,2,Ready,0,0
+21.0,3,2 bedrooms,41,0,House,House,2,0,70,27.5,Customer packs,Phone,Sales rep,0,Fall,Friday,Morning,87,Ready,0,0
+20.0,4,3 bedrooms,31,1,Townhouse,Townhouse,4,0,170,24.7,Customer packs,Video call,Operations estimator,0,Spring,Friday,Morning,2,Ready,0,1
+12.0,3,2 bedrooms,27,0,House,House,0,0,45,5.0,Partial,Phone,Operations estimator,0,Winter,Tuesday,Afternoon,49,Ready,0,1
+48.0,6,4+ bedrooms,69,0,Apartment,Apartment,0,1,140,12.7,Full,In-person,Operations estimator,0,Winter,Friday,Morning,12,Ready,0,0
+10.0,2,2 bedrooms,17,0,Townhouse,Townhouse,3,0,65,5.4,Customer packs,In-person,Sales rep,0,Spring,Wednesday,Morning,16,Ready,0,0
+10.0,2,1 bedroom,15,0,Condo,Condo,0,1,150,16.9,Partial,Phone,Sales rep,0,Fall,Friday,Morning,7,Ready,0,0
+16.0,2,2 bedrooms,25,0,Townhouse,Townhouse,3,0,70,27.3,Partial,Phone,Sales rep,0,Fall,Friday,Morning,9,Ready,0,1
+13.0,2,1 bedroom,19,0,Apartment,Apartment,4,0,120,20.3,Customer packs,Video call,Sales rep,0,Spring,Saturday,Morning,10,Ready,0,0
+6.0,2,Studio,14,0,Apartment,Apartment,1,0,80,11.3,Customer packs,In-person,Operations estimator,1,Spring,Saturday,Afternoon,10,Ready,0,0
+25.5,3,2 bedrooms,37,0,Townhouse,Apartment,2,1,300,62.0,Customer packs,In-person,Operations estimator,0,Winter,Friday,Morning,10,Ready,1,1
+35.0,5,4+ bedrooms,67,1,House,Apartment,4,0,60,7.4,Customer packs,In-person,Sales rep,0,Spring,Thursday,Morning,10,Ready,0,0
+9.0,2,1 bedroom,19,0,Apartment,Condo,2,1,45,8.5,Customer packs,In-person,Operations estimator,0,Fall,Monday,Morning,17,Ready,0,0
+18.0,3,2 bedrooms,27,0,Condo,Condo,0,1,230,3.6,Full,Video call,Sales rep,0,Summer,Monday,Morning,18,Ready,0,1
+36.0,6,4+ bedrooms,63,0,Townhouse,House,2,0,50,8.3,Full,Video call,Operations estimator,1,Fall,Saturday,Morning,4,Ready,0,0
+15.0,2,2 bedrooms,30,0,Apartment,Apartment,2,0,115,12.5,Customer packs,Phone,Sales rep,0,Spring,Friday,Morning,14,Ready,0,0
+11.0,2,1 bedroom,25,0,Apartment,Apartment,0,1,65,8.5,Customer packs,Video call,Sales rep,0,Spring,Wednesday,Morning,23,Ready,0,0
+30.0,4,3 bedrooms,42,0,Condo,Townhouse,4,0,60,31.8,Partial,In-person,Sales rep,0,Spring,Monday,Morning,5,Ready,0,0
+19.5,3,3 bedrooms,37,0,Townhouse,Condo,5,0,100,8.1,Customer packs,Video call,Sales rep,0,Spring,Tuesday,Morning,14,Ready,0,0
+22.5,3,4+ bedrooms,33,0,Condo,Condo,0,1,95,18.2,Full,Video call,Sales rep,0,Summer,Tuesday,Morning,35,Ready,0,0
+20.0,2,2 bedrooms,38,0,Apartment,House,4,0,70,20.8,Customer packs,Video call,Sales rep,0,Winter,Friday,Morning,46,Ready,0,0
+13.0,2,2 bedrooms,25,0,House,House,0,0,40,9.6,Partial,Video call,Sales rep,0,Fall,Tuesday,Morning,34,Ready,0,0
+10.0,2,1 bedroom,18,1,Apartment,Apartment,0,0,60,21.6,Customer packs,Video call,Operations estimator,0,Fall,Monday,Morning,23,Ready,0,1
+40.0,5,4+ bedrooms,70,3,House,House,1,0,45,3.6,Customer packs,In-person,Sales rep,0,Summer,Saturday,Morning,17,Ready,1,0
+10.0,2,1 bedroom,13,0,Apartment,Apartment,0,1,185,8.3,Full,Phone,Sales rep,0,Summer,Friday,Morning,117,Ready,0,0
+32.0,4,2 bedrooms,37,1,Townhouse,Townhouse,4,0,,51.6,Partial,Phone,Sales rep,1,Spring,Thursday,Morning,39,Ready,0,0
+15.0,2,2 bedrooms,29,0,Townhouse,Apartment,1,1,175,5.2,Customer packs,Video call,Operations estimator,0,Spring,Friday,Morning,22,Ready,0,0
+25.5,3,3 bedrooms,56,0,House,House,1,0,50,10.1,Customer packs,In-person,Operations estimator,0,Summer,Friday,Morning,97,Ready,0,0
+11.0,2,1 bedroom,15,0,Apartment,Apartment,0,1,125,3.7,Full,In-person,Operations estimator,0,Summer,Thursday,Morning,11,Ready,0,0
+32.0,4,4+ Bedrooms,43,1,House,House,1,0,40,5.2,Full,In-person,Operations estimator,0,Winter,Wednesday,Morning,26,Not ready,0,0
+16.0,2,2 bedrooms,29,0,Condo,Condo,2,1,30,39.4,Customer packs,In-person,Operations estimator,0,Summer,Tuesday,Morning,14,Not ready,0,1
+45.5,7,4+ bedrooms,62,1,House,Townhouse,2,0,75,23.9,Full,In-person,Sales rep,0,Fall,Friday,Morning,7,Ready,0,0
+64.0,8,4+ bedrooms,80,3,House,House,2,0,30,34.8,Full,Video call,Sales rep,0,Fall,Saturday,Morning,6,Not ready,0,1
+22.5,3,2 bedrooms,23,2,Apartment,House,4,0,75,30.1,Customer packs,Phone,Operations estimator,0,Summer,Wednesday,Morning,14,Ready,1,1
+11.0,2,2 bedrooms,28,0,House,House,2,0,20,8.7,Customer packs,In-person,Operations estimator,0,Winter,Tuesday,Morning,40,Ready,0,0
+15.0,2,1 bedroom,20,0,Condo,Apartment,0,1,150,22.5,Full,Phone,Sales rep,0,Spring,Wednesday,Morning,4,Ready,0,0
+24.0,3,1 bedroom,28,1,House,Apartment,1,1,100,3.9,Full,Phone,Operations estimator,0,Fall,Friday,Morning,55,Ready,0,0
+18.0,2,2 bedrooms ,31,0,Apartment,Apartment,1,1,95,32.2,Customer packs,Video call,Operations estimator,0,Spring,Wednesday,Morning,4,Ready,1,0
+20.0,2,2 bedrooms ,32,0,Townhouse,Apartment,2,0,120,4.1,Partial,In-person,Operations estimator,0,Fall,Friday,Morning,11,Ready,0,0
+8.0,2,1 bedroom,15,0,Apartment,Apartment,0,0,115,17.2,Partial,Phone,Sales rep,0,Summer,Friday,Morning,14,Ready,0,0
+28.0,4, 4+ bedrooms,57,0,House,House,0,0,55,10.5,Partial,In-person,Operations estimator,0,Fall,Thursday,Morning,16,Not ready,0,0
+42.0,7,4+ bedrooms,66,0,House,House,2,0,55,3.0,Full,Video call,Sales rep,0,Spring,Monday,Morning,42,No answer,1,0
+32.5,5,4+ bedrooms,65,0,House,House,3,0,100,6.1,Customer packs,In-person,Operations estimator,0,Summer,Friday,Morning,12,Ready,0,0
+10.0,2,1 bedroom,24,0,Condo,Apartment,0,1,125,11.3,Customer packs,In-person,Sales rep,1,Summer,Saturday,Morning,5,Ready,0,0
+7.0,2,1 bedroom,17,0,Apartment,Apartment,0,1,35,12.5,Customer packs,In-person,Sales rep,0,Winter,Tuesday,Morning,12,Ready,0,0
+16.5,3,2 bedrooms,24,1,Condo,Condo,0,1,200,42.9,Customer packs,Phone,Sales rep,0,Summer,Monday,Morning,8,Not ready,0,1
+32.5,5,3 bedrooms,44,1,Townhouse,House,3,0,70,4.6,Partial,Video call,Operations estimator,0,Winter,Saturday,Morning,6,Ready,0,0
+10.0,2,1 bedroom,16,2,Apartment,Condo,0,1,105,5.0,Customer packs,Video call,Sales rep,1,Summer,Saturday,Morning,105,Ready,0,1
+12.0,2,2 bedrooms,20,0,House,House,0,0,40,27.3,Partial,Phone,Sales rep,0,Summer,Friday,Morning,23,Ready,0,0
+6.0,2,Studio,7,0,Apartment,Condo,0,1,140,19.6,Customer packs,Phone,Sales rep,0,Summer,Tuesday,Morning,63,Ready,0,0
+17.0,2,2 bedrooms,34,0,House,Condo,1,0,,9.7,Customer packs,Video call,Operations estimator,0,Spring,Friday,Morning,68,Ready,0,0
+11.0,2,1 bedroom,22,0,House,House,2,0,30,9.5,Customer packs,Video call,Operations estimator,0,Winter,Wednesday,Morning,17,Ready,0,0
+8.0,2,Studio,9,0,Apartment,Townhouse,3,1,105,17.2,Partial,Phone,Sales rep,0,Summer,Saturday,Morning,2,No answer,0,1
+12.0,2,2 bedrooms,28,0,Apartment,Apartment,0,1,110,6.3,Customer packs,Video call,Sales rep,0,Winter,Friday,Morning,29,Ready,0,0
+22.5,3,2 bedrooms,23,0,Condo,Townhouse,5,0,105,5.1,Full,Video call,Sales rep,0,Spring,Wednesday,Morning,9,Ready,0,0
+16.0,2,2 bedrooms,24,1,House,Apartment,1,1,90,7.8,Partial,In-person,Sales rep,0,Summer,Monday,Morning,49,Ready,0,0
+24.0,3,2 bedrooms,39,0,Townhouse,Townhouse,3,0,135,9.0,Partial,Phone,Sales rep,0,Spring,Friday,Morning,20,Ready,0,0
+9.0,2,Studio,13,0,Apartment,Apartment,0,1,110,31.3,Customer packs,Phone,Operations estimator,0,Fall,Tuesday,Morning,26,Ready,0,0
+21.0,3,4+ bedrooms,33,0,Apartment,House,1,1,180,11.5,Partial,Video call,Sales rep,0,Spring,Monday,Morning,8,Ready,0,1
+35.0,5,4+ bedrooms,55,1,House,House,0,0,40,4.6,Full,In-person,Operations estimator,0,Fall,Friday,Morning,68,Ready,0,0
+30.0,4,4+ bedrooms,56,0,House,Townhouse,3,0,70,7.9,Customer packs,In-person,Operations estimator,0,Spring,Saturday,Morning,19,Ready,0,0
+51.0,6,4+ bedrooms,65,0,House,House,2,0,85,12.2,Full,Video call,Operations estimator,0,Summer,Saturday,Morning,44,Ready,0,0
+7.0,2,Studio,15,0,Apartment,Apartment,1,0,120,5.3,Customer packs,Phone,Sales rep,0,Fall,Saturday,Morning,15,Ready,0,0
+28.0,4,3 bedrooms,52,1,House,House,3,0,35,13.5,Customer packs,In-person,Operations estimator,0,Summer,Friday,Morning,20,Ready,0,0
+28.0,4,3 bedrooms,63,1,House,House,1,0,50,24.9,Customer packs,In-person,Operations estimator,1,Spring,Friday,Morning,85,Ready,0,0
+24.0,3,4+ bedrooms,45,0,House,House,1,0,35,7.8,Partial,Video call,Operations estimator,0,Spring,Friday,Morning,96,Ready,0,0
+40.0,5,3 bedrooms,57,2,Townhouse,House,2,0,70,25.7,Partial,In-person,Operations estimator,0,Summer,Thursday,Morning,43,Ready,1,0
+35.0,5,3 bedrooms,63,1,House,House,1,0,125,19.6,Partial,Video call,Sales rep,0,Spring,Wednesday,Morning,64,Ready,0,1
+25.5,3,2 bedrooms,55,0,House,Condo,1,1,85,4.4,Customer packs,Phone,Sales rep,0,Fall,Thursday,Morning,52,Ready,0,0
+30.0,4,3 bedrooms,69,0,House,House,1,0,35,26.4,Customer packs,Video call,Sales rep,0,Summer,Monday,Morning,9,Ready,0,0
+28.0,4,2 bedrooms,39,0,Condo,Condo,0,1,170,11.1,Full,In-person,Operations estimator,0,Summer,Thursday,Morning,19,Not ready,0,0
+40.0,5,3 bedrooms,57,0,House,House,1,0,30,9.4,Full,In-person,Operations estimator,0,Winter,Tuesday,Morning,26,Ready,0,0
+7.0,2,STUDIO,13,0,Apartment,Apartment,0,1,190,4.2,Customer packs,Video call,Sales rep,0,Summer,Saturday,Afternoon,44,Ready,0,1
+9.0,2,1 bedroom,18,0,Apartment,Apartment,0,1,160,8.4,Customer packs,In-person,Operations estimator,0,Spring,Friday,Morning,5,Not ready,1,0
+22.5,3,4+ bedrooms,36,0,House,House,2,0,60,12.5,Partial,In-person,Operations estimator,0,Summer,Thursday,Morning,55,Not ready,0,0
+17.0,2,2 bedrooms,33,0,Condo,Condo,0,1,115,14.1,Partial,Phone,Sales rep,1,Spring,Saturday,Morning,2,No answer,0,1
+17.0,2,3 bedrooms,36,0,Townhouse,Townhouse,2,0,55,4.8,Customer packs,In-person,Operations estimator,0,Winter,Monday,Morning,999,No answer,0,0
+13.0,2,1 bedroom,19,0,Apartment,Apartment,0,0,100,20.7,Full,Video call,Sales rep,1,Spring,Tuesday,Morning,28,Ready,0,0
+21.0,3,2 bedrooms,37,0,Condo,House,1,0,120,9.9,Partial,In-person,Operations estimator,0,Summer,Friday,Morning,112,Not ready,1,1
+34.0,4,2 bedrooms,42,3,Townhouse,Condo,2,0,75,67.2,Customer packs,Phone,Operations estimator,0,Spring,Friday,Morning,10,Ready,0,0
+14.0,2,2 bedrooms,23,0,Condo,Apartment,2,1,75,9.6,Partial,Video call,Operations estimator,0,Winter,Friday,Morning,2,Not ready,1,0
+21.0,2,3 bedrooms,41,0,Condo,Condo,0,1,150,22.1,Customer packs,Video call,Operations estimator,0,Spring,Monday,Morning,66,Ready,0,1
+15.0,2,2 bedrooms,30,0,House,House,2,0,60,23.6,Customer packs,Phone,Sales rep,0,Spring,Friday,Morning,16,No answer,1,0
+16.0,2,2 bedrooms,32,0,Townhouse,Townhouse,3,0,55,7.6,Customer packs,Video call,Sales rep,0,Winter,Tuesday,Morning,4,Not ready,0,0
+13.0,2,1 bedroom,24,0,Apartment,Condo,0,1,125,79.7,Customer packs,Phone,Sales rep,1,Summer,Wednesday,Morning,2,Not ready,0,0
+8.0,2,1 bedroom,16,0,Apartment,Apartment,0,1,160,5.9,Customer packs,Phone,Sales rep,0,Winter,Monday,Morning,13,Ready,0,0
+35.0,5,3 bedrooms,44,0,Townhouse,Townhouse,4,0,75,9.3,Full,In-person,Operations estimator,0,Summer,Wednesday,Morning,7,Ready,0,0
+45.0,5,4+ bedrooms,77,1,Townhouse,Townhouse,4,0,125,15.6,Customer packs,Video call,Sales rep,0,Spring,Tuesday,Morning,4,Ready,0,1
+19.5,3,2 bedrooms,29,0,Condo,Condo,0,1,90,15.4,Full,Video call,Sales rep,0,Summer,Wednesday,Morning,11,No answer,1,0
+19.5,3,2 bedrooms,25,0,Townhouse,Townhouse,3,0,135,8.8,Full,Video call,Operations estimator,0,Fall,Wednesday,Morning,113,Ready,0,0
+26.0,4,3 bedrooms,46,0,House,Townhouse,4,0,110,6.7,Customer packs,Phone,Sales rep,0,Spring,Saturday,Morning,10,Ready,0,0
+15.0,2,2 bedrooms,26,0,Townhouse,Condo,1,1,300,29.9,Customer packs,Phone,Sales rep,0,Winter,Friday,Morning,5,Ready,0,1
+22.5,3,2 bedrooms,33,1,House,House,2,0,40,18.1,Partial,Phone,Sales rep,0,Summer,Saturday,Morning,15,No answer,0,0
+8.0,2,Studio,13,0,Apartment,Apartment,0,1,160,52.6,Customer packs,Video call,Sales rep,1,Fall,Friday,Afternoon,41,No answer,0,0
+22.5,3,3 bedrooms,49,2,Apartment,House,0,1,,7.5,Customer packs,Phone,Operations estimator,0,Fall,Monday,Morning,24,Ready,0,1
+19.5,3,1 bedroom,29,1,Apartment,Apartment,0,1,190,9.7,Full,In-person,Sales rep,1,Fall,Saturday,Morning,20,No answer,0,1
+10.0,2, 1 bedroom,20,0,Condo,Apartment,0,1,240,7.7,Customer packs,Video call,Operations estimator,0,Spring,Saturday,Morning,9,Ready,0,1
+24.0,4,3 bedrooms,60,0,House,Apartment,1,1,110,6.9,Customer packs,In-person,Operations estimator,0,Summer,Tuesday,Morning,25,Ready,0,0
+20.0,2,3 bedrooms,35,1,House,House,0,0,40,33.7,Customer packs,In-person,Operations estimator,0,Fall,Thursday,Morning,5,Not ready,0,1
+22.5,3, 3 bedrooms,47,0,Apartment,Apartment,0,1,,8.1,Customer packs,In-person,Operations estimator,0,Fall,Wednesday,Morning,14,Ready,0,0
+8.0,2,Studio,10,0,Condo,Apartment,3,1,130,32.7,Customer packs,Video call,Sales rep,0,Spring,Wednesday,Morning,21,No answer,0,0
+16.0,2,1 bedroom,31,0,Apartment,Apartment,2,0,65,9.2,Customer packs,Video call,Operations estimator,0,Winter,Wednesday,Morning,61,Ready,0,0
+24.0,3,4+ bedrooms,54,0,House,Condo,0,1,140,3.7,Customer packs,Video call,Operations estimator,0,Summer,Monday,Morning,9,Ready,0,0
+11.0,2,2 bedrooms,20,0,Condo,Townhouse,1,0,95,43.5,Customer packs,In-person,Sales rep,0,Summer,Saturday,Morning,6,Ready,0,0
+24.0,3,2 bedrooms,38,0,House,House,2,0,45,5.3,Full,Phone,Sales rep,1,Spring,Saturday,Morning,26,Ready,0,0
+12.0,2,1 bedroom,15,0,Townhouse,Apartment,1,1,95,2.3,Full,In-person,Operations estimator,0,Summer,Monday,Morning,10,No answer,0,0
+22.5,3,2 bedrooms,38,0,Condo,Condo,3,1,95,37.9,Customer packs,Phone,Sales rep,0,Spring,Monday,Morning,6,Ready,0,0
+11.0,2,1 bedroom,18,0,Apartment,Apartment,3,0,110,11.0,Customer packs,In-person,Operations estimator,0,Spring,Thursday,Morning,36,Not ready,0,0
+6.0,2,Studio,8,0,Apartment,Condo,0,1,75,11.5,Customer packs,Phone,Sales rep,0,Fall,Tuesday,Afternoon,7,Not ready,0,0
+40.0,5,3 bedrooms,47,2,House,Condo,1,1,40,41.0,Full,Video call,Sales rep,0,Summer,Saturday,Morning,999,Ready,0,0
+13.0,2,1 bedroom,15,1,Townhouse,Townhouse,3,0,65,15.6,Partial,Phone,Sales rep,0,Winter,Saturday,Morning,2,Ready,0,1
+22.5,3,2 bedrooms,44,0,Condo,Condo,0,1,195,9.4,Partial,Video call,Operations estimator,1,Summer,Thursday,Morning,26,Not ready,0,1
+7.0,2,Studio,12,0,Apartment,Apartment,0,1,130,17.1,Customer packs,Phone,Sales rep,1,Summer,Thursday,Morning,55,Ready,0,0
+16.0,2,2 bedrooms,29,0,House,Apartment,3,0,65,12.8,Customer packs,In-person,Operations estimator,0,Winter,Wednesday,Morning,40,Ready,0,0
+6.0,2,Studio,8,0,Apartment,Apartment,0,0,55,3.0,Customer packs,Phone,Sales rep,1,Spring,Wednesday,Afternoon,7,Ready,0,0
+17.0,2,2 bedrooms,26,1,Townhouse,Townhouse,3,0,60,32.4,Customer packs,In-person,Sales rep,0,Fall,Saturday,Morning,19,Ready,0,1
+18.0,3,3 bedrooms,37,0,House,House,2,0,45,14.4,Partial,In-person,Operations estimator,1,Winter,Wednesday,Morning,27,Ready,0,1
+6.0,2,Studio,9,0,Apartment,Apartment,3,0,55,4.4,Customer packs,Phone,Sales rep,1,Summer,Monday,Morning,11,Ready,0,0
+37.5,5,3 bedrooms,59,0,Apartment,Apartment,0,0,115,17.2,Full,Phone,Operations estimator,0,Winter,Friday,Morning,24,Ready,0,0
+28.0,4,3 bedrooms,70,0,House,House,2,0,25,7.6,Customer packs,Video call,Sales rep,0,Fall,Wednesday,Morning,71,Ready,0,1
+15.0,3,3 bedrooms,36,0,House,House,1,0,35,21.9,Customer packs,In-person,Operations estimator,0,Summer,Saturday,Morning,3,Ready,0,0
+18.0,3,2 bedrooms,37,0,Townhouse,Townhouse,3,0,75,22.6,Customer packs,In-person,Sales rep,1,Winter,Wednesday,Morning,9,Not ready,1,0
+35.0,5,4+ bedrooms,72,1,Townhouse,House,2,0,55,2.7,Customer packs,Video call,Operations estimator,0,Fall,Saturday,Morning,10,Ready,0,0
+24.0,4,3 bedrooms,42,0,Townhouse,Townhouse,4,0,65,3.8,Partial,Video call,Sales rep,0,Summer,Friday,Morning,10,Not ready,0,1
+13.0,2,1 bedroom,23,0,Apartment,Apartment,2,1,175,15.3,Customer packs,Phone,Sales rep,0,Fall,Monday,Morning,22,Not ready,0,0
+25.5,3,2 bedrooms,28,0,Condo,Apartment,1,1,135,33.3,Full,In-person,Operations estimator,0,Spring,Friday,Morning,14,Ready,0,0
+8.0,2,Studio,14,0,Condo,Townhouse,2,1,155,5.7,Customer packs,Phone,Operations estimator,0,Summer,Friday,Afternoon,11,Ready,0,0
+21.0,2,2 bedrooms,28,0,Townhouse,Condo,3,1,120,4.1,Full,Video call,Sales rep,0,Fall,Saturday,Morning,18,Ready,0,0
+12.0,2,1 Bedroom,19,0,Apartment,Apartment,0,1,190,6.0,Full,Video call,Operations estimator,1,Winter,Monday,Morning,64,Not ready,0,1
+6.0,2,Studio,11,0,Apartment,Apartment,2,0,100,4.4,Customer packs,Phone,Sales rep,0,Summer,Wednesday,Afternoon,8,Ready,0,0
+19.5,3,3 bedrooms,38,0,House,House,2,0,35,3.0,Partial,Video call,Sales rep,0,Winter,Friday,Morning,8,Ready,0,0
+24.0,4,3 bedrooms,58,0,House,House,1,0,30,8.6,Customer packs,In-person,Operations estimator,0,Fall,Saturday,Morning,34,Ready,0,0
+6.0,2,Studio,12,0,Apartment,Apartment,0,1,110,4.9,Customer packs,Phone,Operations estimator,0,Spring,Thursday,Afternoon,24,Ready,1,0
+25.5,3,2 bedrooms,30,2,Apartment,Apartment,2,1,185,7.7,Partial,Phone,Operations estimator,0,Summer,Thursday,Morning,15,Not ready,0,0
+16.0,2,1 bedroom ,25,1,Condo,Apartment,2,1,180,2.8,Customer packs,Phone,Sales rep,0,Winter,Friday,Morning,3,No answer,0,1
+9.0,2,1 bedroom,20,0,Apartment,Condo,0,1,130,2.7,Customer packs,Video call,Sales rep,0,Summer,Monday,Afternoon,76,Ready,0,1
+7.0,2,Studio,11,0,Apartment,Condo,0,1,135,33.7,Customer packs,Video call,Operations estimator,0,Summer,Thursday,Morning,71,Ready,0,0
+19.5,3,1 bedroom,25,2,House,House,1,0,160,20.8,Customer packs,Phone,Operations estimator,0,Summer,Thursday,Morning,7,No answer,0,0
+11.0,2,1 bedroom,15,0,Townhouse,House,2,0,50,10.6,Partial,Video call,Operations estimator,0,Spring,Friday,Morning,45,Ready,0,0
+39.0,6,4+ bedrooms,110,0,Townhouse,House,1,0,45,9.1,Customer packs,Phone,Sales rep,1,Summer,Friday,Morning,3,Ready,0,1
+30.0,4,3 bedrooms,34,0,Townhouse,Townhouse,4,0,95,8.8,Full,In-person,Operations estimator,0,Spring,Wednesday,Morning,6,Ready,0,0
+7.0,2,1 bedroom,17,0,Apartment,Apartment,0,1,195,8.7,Customer packs,Video call,Sales rep,1,Summer,Monday,Morning,30,Ready,0,1
+13.0,2,2 bedrooms,28,0,House,House,0,0,60,18.2,Customer packs,Phone,Sales rep,0,Winter,Thursday,Morning,14,Ready,0,0
+10.0,2,1 bedroom,18,0,Apartment,Townhouse,3,0,165,21.6,Customer packs,Video call,Sales rep,1,Fall,Monday,Morning,18,Ready,0,1
+7.0,2,Studio,12,0,Townhouse,Townhouse,2,0,60,5.5,Customer packs,Video call,Operations estimator,0,Summer,Thursday,Morning,27,Not ready,0,0
+12.0,2,Studio,14,0,Apartment,Apartment,2,1,220,3.6,Full,Phone,Sales rep,0,Fall,Wednesday,Morning,50,Ready,0,0
+17.0,2,3 bedrooms,33,0,Townhouse,Townhouse,2,0,130,24.2,Customer packs,In-person,Sales rep,0,Fall,Saturday,Morning,39,Not ready,0,0
+32.5,5,3 bedrooms,47,0,Townhouse,Apartment,3,1,,16.6,Partial,In-person,Operations estimator,0,Fall,Saturday,Morning,9,Ready,0,1
+35.0,5,3 bedrooms,55,0,Townhouse,Townhouse,3,0,110,14.7,Partial,Video call,Operations estimator,0,Spring,Monday,Morning,6,Ready,0,0
+30.0,4,3 BEDROOMS,38,1,House,House,1,0,35,18.4,Full,In-person,Operations estimator,0,Spring,Saturday,Morning,17,Ready,0,0
+13.0,2,1 bedroom,20,0,Apartment,Apartment,4,0,145,4.9,Customer packs,Phone,Operations estimator,0,Summer,Saturday,Morning,5,No answer,1,1
+17.0,2,2 bedrooms,32,0,Apartment,Condo,1,1,220,5.6,Customer packs,Phone,Sales rep,0,Spring,Saturday,Morning,10,Not ready,0,1
+40.0,5,4+ bedrooms,66,0,House,House,0,0,40,2.2,Full,In-person,Operations estimator,0,Fall,Tuesday,Morning,55,Ready,0,0
+37.5,5,4+ bedrooms,90,0,Townhouse,House,1,0,50,18.6,Customer packs,Video call,Sales rep,0,Spring,Saturday,Morning,14,Not ready,0,0
+6.0,2,Studio,11,0,Apartment,Apartment,0,1,145,4.6,Customer packs,Phone,Sales rep,0,Summer,Friday,Afternoon,48,No answer,0,1
+26.0,4,2 bedrooms,54,0,Condo,Apartment,0,1,190,28.3,Customer packs,Video call,Sales rep,0,Fall,Saturday,Morning,21,Ready,0,0
+10.0,2,1 bedroom,19,0,Condo,Apartment,0,1,150,4.3,Customer packs,In-person,Operations estimator,0,Spring,Monday,Morning,3,Not ready,0,0
+32.0,4,3 bedrooms,49,0,House,House,1,0,40,32.4,Partial,In-person,Operations estimator,0,Spring,Thursday,Morning,50,Not ready,0,0
+28.0,4,3 bedrooms,44,0,House,House,4,0,40,24.4,Partial,In-person,Sales rep,0,Summer,Friday,Morning,60,No answer,0,0
+8.0,2,1 bedroom,12,0,Apartment,Condo,0,1,190,2600.0,Partial,Phone,Sales rep,0,Summer,Tuesday,Morning,7,No answer,0,0
+8.0,2,1 bedroom,13,0,Apartment,Townhouse,1,0,180,7.8,Customer packs,Phone,Sales rep,0,Summer,Tuesday,Afternoon,13,Ready,0,0
+12.0,2,2 bedrooms,28,0,Condo,House,1,1,40,14.2,Customer packs,Video call,Sales rep,0,Spring,Friday,Morning,42,Ready,0,0
+28.0,4,3 bedrooms,70,0,Apartment,Apartment,1,0,,22.0,Customer packs,Phone,Sales rep,0,Spring,Saturday,Morning,11,Ready,0,0
+9.0,2,1 bedroom,18,0,House,House,1,0,50,4.0,Customer packs,Phone,Sales rep,0,Winter,Saturday,Afternoon,6,Not ready,0,0
+30.0,5,4+ bedrooms,73,0,House,Condo,1,1,115,5.2,Customer packs,In-person,Sales rep,0,Summer,Friday,Morning,9,No answer,1,0
+15.0,2,1 bedroom,19,0,Apartment,Apartment,2,0,175,5.8,Partial,In-person,Operations estimator,0,Spring,Saturday,Morning,6,Ready,0,0
+52.5,7,4+ bedrooms,60,0,House,House,2,0,160,23.3,Full,In-person,Sales rep,0,Summer,Tuesday,Morning,65,Ready,0,0
+24.0,4,3 bedrooms,31,0,Apartment,Townhouse,4,0,90,7.8,Full,Video call,Sales rep,0,Summer,Friday,Morning,16,Ready,0,0
+24.0,4,3 bedrooms,56,0,House,House,2,0,30,13.9,Customer packs,Video call,Sales rep,0,Spring,Saturday,Afternoon,999,No answer,0,1
+24.0,3,2 bedrooms,32,0,Apartment,Apartment,0,1,140,17.2,Full,Video call,Sales rep,0,Fall,Tuesday,Morning,39,Ready,0,0
+16.0,2,1 bedroom,23,1,Apartment,Apartment,1,1,165,27.8,Customer packs,Phone,Sales rep,0,Spring,Monday,Morning,29,Ready,0,1
+34.0,4,3 bedrooms,54,0,House,House,1,0,135,8.9,Partial,In-person,Sales rep,0,Summer,Thursday,Morning,8,Ready,0,0
+6.0,2,Studio,10,0,Apartment,Apartment,2,1,160,3.4,Customer packs,Phone,Sales rep,1,Winter,Tuesday,Morning,18,Ready,0,0
+25.5,3,3 bedrooms,38,0,House,Townhouse,2,0,10,21.0,Partial,In-person,Operations estimator,0,Summer,Saturday,Morning,999,No answer,0,0
+35.0,5,4+ bedrooms,48,1,House,House,1,0,25,8.9,Full,Video call,Sales rep,0,Fall,Saturday,Morning,31,Ready,0,0
+9.0,2,1 bedroom,23,0,Condo,Condo,0,1,105,5.0,Partial,Phone,Sales rep,1,Spring,Saturday,Morning,6,Not ready,1,1
+6.0,2,1 bedroom,13,0,Apartment,Apartment,0,1,100,8.9,Customer packs,Video call,Operations estimator,0,Summer,Monday,Morning,6,No answer,0,0
+11.0,2,1 bedroom,18,0,Apartment,Apartment,3,1,135,24.0,Customer packs,Phone,Operations estimator,0,Spring,Thursday,Morning,4,Ready,1,0
+48.0,6,4+ BEDROOMS,62,2,House,House,1,0,30,19.5,Full,In-person,Operations estimator,0,Summer,Monday,Morning,39,Ready,1,0
+56.0,7,4+ bedrooms,62,0,House,House,4,0,175,11.7,Full,In-person,Sales rep,0,Summer,Thursday,Morning,22,Ready,1,0
+26.0,4, 3 bedrooms,32,0,Townhouse,House,3,0,70,21.7,Full,In-person,Operations estimator,0,Summer,Wednesday,Morning,14,Ready,0,0
+18.0,3,2 bedrooms,31,0,Townhouse,Townhouse,4,0,70,5.8,Customer packs,Video call,Operations estimator,0,Fall,Tuesday,Morning,39,Ready,1,0
+28.0,4,3 bedrooms,40,0,Apartment,Townhouse,2,0,100,3.9,Full,Phone,Sales rep,0,Spring,Saturday,Morning,50,Ready,0,1
+12.0,2,1 bedroom,27,0,Apartment,Condo,0,1,145,5.5,Customer packs,In-person,Operations estimator,0,Summer,Monday,Morning,13,Ready,0,0
+19.5,3,1 BEDROOM,29,0,Condo,Apartment,5,0,105,15.6,Customer packs,In-person,Sales rep,0,Summer,Saturday,Morning,15,Ready,1,0
+6.0,2,Studio,11,0,Apartment,Apartment,0,1,120,6.4,Customer packs,Phone,Sales rep,1,Spring,Tuesday,Morning,6,Ready,1,0
+10.0,2,1 bedroom,19,0,Condo,Apartment,0,1,150,4.3,Customer packs,In-person,Operations estimator,0,Spring,Monday,Morning,3,Not ready,0,0
+13.5,3,2 bedrooms,36,0,Apartment,House,1,1,100,4.6,Customer packs,Phone,Sales rep,1,Fall,Saturday,Morning,6,Ready,0,0
+12.0,2,2 bedrooms,21,0,House,House,3,0,35,9.8,Customer packs,In-person,Sales rep,0,Fall,Wednesday,Morning,10,Ready,0,0
+16.0,2,3 bedrooms,32,0,Apartment,House,0,1,140,2.4,Partial,In-person,Sales rep,0,Summer,Friday,Morning,37,Ready,0,0
+11.0,2,1 bedroom,28,0,Apartment,Apartment,3,1,80,5.3,Customer packs,Phone,Sales rep,1,Summer,Monday,Morning,15,Ready,0,0
+19.5,3,3 bedrooms,36,0,House,House,2,0,55,6.9,Full,In-person,Sales rep,1,Summer,Monday,Morning,16,Ready,0,0
+11.0,2,Studio,18,0,Apartment,Apartment,0,0,60,22.3,Partial,Phone,Sales rep,0,Spring,Saturday,Morning,20,Not ready,0,0
+16.5,3,2 bedrooms,31,0,Condo,Condo,0,1,110,9.5,Partial,Video call,Operations estimator,0,Spring,Friday,Morning,15,Ready,0,0
+42.0,6,3 bedrooms,82,0,Apartment,Apartment,0,1,110,4.8,Partial,Phone,Sales rep,0,Summer,Monday,Morning,9,Ready,0,0
+12.0,2,Studio,11,1,Apartment,Condo,1,1,140,10.2,Full,Video call,Operations estimator,0,Spring,Friday,Afternoon,14,Ready,0,1
+10.0,2,1 bedroom,17,0,Apartment,Townhouse,2,1,145,9.7,Customer packs,Phone,Sales rep,0,Fall,Saturday,Morning,29,Ready,0,0
+45.0,5,4+ bedrooms,58,3,House,House,1,0,50,6.1,Full,In-person,Sales rep,0,Winter,Friday,Morning,6,Ready,0,0
+9.0,2,1 bedroom,19,0,Condo,Condo,0,1,60,10.2,Customer packs,In-person,Operations estimator,0,Fall,Saturday,Afternoon,47,No answer,0,0
+19.5,3,3 bedrooms,42,1,House,Condo,0,1,110,1.8,Customer packs,Video call,Sales rep,0,Winter,Wednesday,Morning,62,No answer,0,0
+16.5,3,2 bedrooms,33,0,House,Condo,1,1,140,4.1,Partial,Video call,Sales rep,1,Summer,Saturday,Morning,4,Ready,0,0
+12.0,2,1 bedroom,25,0,House,Townhouse,2,0,45,8.0,Customer packs,In-person,Operations estimator,0,Summer,Saturday,Morning,17,Ready,0,0
+7.0,2,Studio,11,0,Apartment,Apartment,3,1,125,13.7,Customer packs,Video call,Sales rep,0,Summer,Monday,Afternoon,6,Not ready,0,1
+24.0,4,4+ bedrooms,55,1,House,House,1,0,35,13.7,Customer packs,Phone,Sales rep,0,Winter,Wednesday,Morning,5,No answer,0,1
+12.0,2,2 bedrooms,20,0,Condo,Apartment,1,1,190,18.5,Customer packs,Phone,Sales rep,0,Summer,Tuesday,Morning,22,Ready,0,0
+12.0,2,1 bedroom,21,0,Apartment,Apartment,3,0,,4.6,Customer packs,In-person,Sales rep,0,Spring,Thursday,Morning,2,Ready,0,0
+37.5,5,3 bedrooms,48,0,Condo,Townhouse,4,0,85,3.0,Full,In-person,Operations estimator,0,Summer,Tuesday,Morning,4,Not ready,0,0
+30.0,4,3 bedrooms,49,0,House,House,2,0,70,19.8,Partial,Phone,Sales rep,0,Summer,Saturday,Morning,7,Ready,0,0
+10.0,2,1 bedroom,15,0,Apartment,Apartment,4,0,65,16.8,Customer packs,In-person,Operations estimator,0,Summer,Thursday,Morning,16,Ready,0,0
+9.0,2,1 bedroom,19,0,Apartment,Condo,0,1,110,13.8,Customer packs,Phone,Sales rep,0,Fall,Saturday,Morning,6,Ready,1,0
+24.0,4,2 bedrooms,34,0,House,House,2,0,50,3.7,Full,Phone,Sales rep,0,Spring,Friday,Morning,6,No answer,0,0
+10.0,2,1 bedroom,20,0,Apartment,Apartment,1,0,85,9.4,Customer packs,Video call,Sales rep,0,Winter,Wednesday,Morning,25,Not ready,0,0
+56.0,7,3 bedrooms,67,0,House,House,3,0,35,17.3,Full,Phone,Sales rep,0,Fall,Friday,Morning,999,Not ready,0,0
+21.0,3,2 bedrooms,41,0,Townhouse,House,4,0,115,13.4,Customer packs,In-person,Sales rep,0,Fall,Saturday,Morning,14,Ready,0,0
+56.0,8,4+ bedrooms,83,0,House,House,2,0,65,2.4,Full,Video call,Sales rep,0,Fall,Saturday,Morning,5,Ready,0,0
+19.5,3,2 bedrooms,39,0,Apartment,Townhouse,2,0,85,6.4,Customer packs,In-person,Operations estimator,0,Winter,Friday,Morning,49,Ready,0,0
+12.0,2,1 bedroom,19,0,Condo,House,0,1,225,3.4,Partial,Phone,Sales rep,0,Fall,Wednesday,Morning,108,Ready,0,0
+32.0,4,3 bedrooms,53,1,House,Townhouse,1,0,130,14.9,Partial,In-person,Sales rep,0,Summer,Thursday,Morning,31,Not ready,0,0
+7.0,2,Studio,12,0,Apartment,Apartment,1,0,100,16.8,Customer packs,Phone,Sales rep,0,Summer,Thursday,Afternoon,9,Not ready,0,0
+17.0,2,2 bedrooms,35,0,Apartment,Apartment,2,1,75,42.4,Customer packs,In-person,Operations estimator,1,Spring,Monday,Morning,15,No answer,0,1
+12.0,2,2 bedrooms,28,0,House,House,1,0,55,13.3,Customer packs,Video call,Sales rep,0,Fall,Friday,Morning,19,No answer,0,0
+32.0,4,3 bedrooms,64,1,Apartment,Apartment,0,1,150,25.3,Customer packs,Video call,Sales rep,0,Winter,Wednesday,Morning,34,Ready,0,0
+13.0,2,2 bedrooms,28,0,Apartment,Townhouse,1,1,95,6.1,Customer packs,Video call,Operations estimator,0,Fall,Saturday,Morning,4,Not ready,0,1
+21.0,3,3 bedrooms,36,0,Townhouse,Townhouse,3,0,50,13.7,Customer packs,Phone,Operations estimator,0,Fall,Tuesday,Morning,4,No answer,0,0
+11.0,2,1 bedroom,21,0,Apartment,Apartment,2,0,50,31.2,Customer packs,Video call,Sales rep,0,Winter,Monday,Afternoon,36,Ready,0,0
+27.5,5,3 bedrooms,74,0,Apartment,Apartment,2,1,110,7.1,Customer packs,Phone,Sales rep,1,Fall,Saturday,Morning,15,Ready,0,0
+13.0,2,2 bedrooms,27,0,Condo,Apartment,0,1,130,7.7,Customer packs,Video call,Operations estimator,0,Summer,Tuesday,Morning,8,Ready,0,0
+13.0,2,2 bedrooms,29,0,Apartment,Apartment,0,1,135,5.7,Customer packs,Video call,Sales rep,0,Summer,Saturday,Morning,100,Not ready,0,0
+36.0,4,3 bedrooms,52,0,Townhouse,Townhouse,2,0,90,38.9,Partial,Phone,Operations estimator,0,Summer,Saturday,Morning,13,Not ready,0,0
+19.5,3,3 bedrooms,36,1,Townhouse,House,2,0,75,8.2,Customer packs,In-person,Operations estimator,0,Fall,Wednesday,Morning,6,Ready,0,0
+7.0,2,Studio,10,0,Apartment,Apartment,0,1,175,13.4,Customer packs,Video call,Operations estimator,0,Summer,Saturday,Morning,5,No answer,0,0
+19.5,3,3 BEDROOMS,42,1,Apartment,House,1,1,35,6.5,Customer packs,In-person,Sales rep,0,Spring,Saturday,Morning,16,No answer,0,0
+24.0,3,2 bedrooms,35,1,Condo,Apartment,0,1,240,29.6,Partial,In-person,Sales rep,0,Summer,Saturday,Morning,5,Ready,0,1
+28.0,4,2 bedrooms,37,1,Townhouse,Townhouse,5,0,100,6.9,Partial,Phone,Sales rep,1,Fall,Saturday,Morning,14,Ready,0,0
+49.0,7,3 bedrooms,53,1,Townhouse,Townhouse,2,0,165,24.0,Full,Phone,Sales rep,0,Summer,Saturday,Morning,29,Ready,0,0
+19.5,3,3 bedrooms,44,0,Townhouse,House,1,0,80,15.7,Customer packs,In-person,Operations estimator,0,Summer,Thursday,Morning,10,Ready,1,0
+22.5,3,4+ bedrooms,54,0,House,House,1,0,60,3.3,Customer packs,In-person,Operations estimator,0,Fall,Saturday,Morning,36,Ready,0,1
+9.0,2,Studio,8,0,Apartment,Apartment,3,1,80,16.6,Full,Phone,Sales rep,0,Spring,Tuesday,Afternoon,3,No answer,0,0
+22.0,4,3 bedrooms,27,0,House,Townhouse,2,0,140,26.0,Full,In-person,Operations estimator,1,Spring,Thursday,Morning,53,Ready,0,0
+24.0,4,2 bedrooms,38,0,Townhouse,Townhouse,4,0,80,9.3,Partial,Phone,Sales rep,0,Spring,Saturday,Afternoon,7,Ready,1,0
+13.0,2,1 bedroom,26,0,Apartment,Apartment,0,1,160,16.1,Customer packs,Video call,Sales rep,0,Spring,Saturday,Morning,15,Not ready,0,1
+39.0,6,3 bedrooms,64,0,House,House,1,0,120,2.5,Full,Video call,Sales rep,1,Summer,Monday,Morning,20,Ready,0,0
+11.0,2,1 bedroom,19,0,Apartment,Apartment,0,1,170,32.2,Customer packs,Video call,Sales rep,0,Spring,Saturday,Morning,5,Ready,0,0
+52.5,7,3 bedrooms,75,3,Apartment,House,1,1,190,5.9,Partial,In-person,Sales rep,0,Summer,Saturday,Morning,32,No answer,0,1
+15.0,2,1 bedroom,27,0,Apartment,House,0,1,120,38.6,Customer packs,Phone,Sales rep,0,Winter,Saturday,Morning,9,Ready,0,0
+34.0,4,3 bedrooms,51,0,Townhouse,Townhouse,3,0,140,2.4,Partial,Phone,Operations estimator,0,Summer,Saturday,Morning,8,No answer,0,0
+25.5,3,2 bedrooms,40,0,Townhouse,House,3,0,65,33.0,Partial,In-person,Operations estimator,0,Spring,Thursday,Morning,999,Not ready,0,1
+13.0,2,1 bedroom,14,1,Apartment,Apartment,0,1,95,23.3,Full,Phone,Sales rep,0,Summer,Wednesday,Morning,11,Ready,0,1
+16.5,3,3 bedrooms,36,0,House,Townhouse,2,0,70,8.8,Customer packs,Phone,Sales rep,0,Fall,Friday,Morning,20,Not ready,0,0
+28.0,4,3 bedrooms,49,1,House,House,1,0,45,4.6,Partial,In-person,Sales rep,0,Spring,Saturday,Morning,14,Ready,0,0
+13.0,2,1 bedroom,25,0,Apartment,Apartment,2,1,105,24.4,Customer packs,Phone,Operations estimator,0,Winter,Saturday,Morning,41,Ready,0,0
+22.5,3,2 bedrooms,31,0,Apartment,Apartment,2,1,105,11.4,Full,Video call,Sales rep,0,Summer,Saturday,Morning,24,Ready,0,0
+35.0,5,4+ bedrooms,71,0,Townhouse,Townhouse,3,0,65,5.3,Customer packs,In-person,Operations estimator,0,Summer,Tuesday,Morning,32,Ready,0,0
+18.0,2,2 bedrooms,40,0,Townhouse,House,1,0,55,12.8,Customer packs,In-person,Operations estimator,0,Summer,Saturday,Morning,14,Ready,0,0
+49.0,7,4+ bedrooms,64,0,House,House,3,0,50,20.6,Full,In-person,Sales rep,0,Fall,Thursday,Morning,31,Ready,0,0
+18.0,2,3 bedrooms,42,0,Townhouse,House,2,0,40,14.0,Customer packs,In-person,Operations estimator,1,Fall,Saturday,Morning,22,Ready,0,0
+18.0,3,3 bedrooms,41,0,Townhouse,Townhouse,2,0,85,5.5,Customer packs,In-person,Operations estimator,0,Fall,Wednesday,Morning,4,Ready,0,0
+34.0,4,3 bedrooms,36,0,Townhouse,Townhouse,4,0,75,120.0,Partial,Video call,Sales rep,0,Spring,Monday,Morning,14,Ready,0,0
+9.0,2,1 bedroom,19,0,Apartment,Townhouse,1,1,85,15.2,Customer packs,In-person,Operations estimator,0,Winter,Tuesday,Morning,21,Ready,1,0
+10.0,2,1 bedroom,18,0,Apartment,Condo,1,1,235,15.8,Customer packs,Phone,Operations estimator,0,Summer,Thursday,Morning,14,Ready,0,1
+9.0,2,Studio,15,0,Condo,Condo,3,1,200,12.4,Customer packs,Video call,Operations estimator,1,Summer,Thursday,Morning,101,Ready,0,1
+9.0,2,1 bedroom,15,0,Apartment,Townhouse,3,0,70,7.8,Customer packs,Video call,Operations estimator,0,Summer,Tuesday,Afternoon,5,Ready,0,0
+28.0,4,3 bedrooms,48,0,House,House,1,0,50,20.2,Partial,Phone,Operations estimator,0,Fall,Monday,Morning,10,No answer,0,0
+13.0,2,1 bedroom,24,0,Apartment,Apartment,1,1,190,14.4,Customer packs,Phone,Sales rep,0,Winter,Saturday,Morning,33,Ready,0,0
+36.0,6,4+ BEDROOMS,47,3,House,House,3,0,105,11.1,Partial,In-person,Operations estimator,0,Summer,Saturday,Morning,12,Ready,0,1
+19.5,3,2 bedrooms,31,0,Townhouse,Townhouse,3,0,75,14.7,Partial,In-person,Sales rep,0,Summer,Thursday,Morning,17,Ready,0,0
+34.0,4,3 bedrooms,63,0,Townhouse,Townhouse,3,0,75,37.6,Customer packs,In-person,Sales rep,0,Spring,Saturday,Morning,30,Ready,0,0
+16.5,3,2 bedrooms,22,0,Apartment,Townhouse,3,0,125,7.1,Full,Video call,Sales rep,0,Summer,Monday,Morning,28,Ready,0,0
+26.0,4,3 bedrooms,45,1,Townhouse,House,1,0,60,33.4,Partial,In-person,Sales rep,1,Winter,Friday,Morning,17,No answer,1,0
+24.0,3,2 bedrooms,42,1,Condo,Condo,1,1,105,31.3,Customer packs,Video call,Operations estimator,0,Spring,Friday,Morning,27,Not ready,0,0
+24.0,3,3 bedrooms,35,0,House,House,1,0,155,4.2,Full,Phone,Sales rep,0,Spring,Thursday,Morning,46,Ready,0,0
+6.0,2,Studio,8,0,Apartment,Apartment,0,1,175,27.0,Partial,Video call,Sales rep,0,Spring,Friday,Morning,11,Ready,0,1
+28.0,4,3 bedrooms,40,0,House,House,2,0,35,14.8,Full,Video call,Operations estimator,0,Fall,Monday,Morning,65,Ready,0,0
+12.0,2,1 bedroom,24,0,Apartment,Apartment,0,1,140,14.6,Customer packs,In-person,Operations estimator,0,Summer,Friday,Morning,35,Ready,0,0
+21.0,3,3 bedrooms,47,0,House,House,3,0,40,8.9,Customer packs,Video call,Operations estimator,0,Summer,Saturday,Morning,16,Ready,0,0
+34.0,4,3 bedrooms,40,1,House,Condo,0,1,205,5.5,Full,In-person,Operations estimator,0,Summer,Tuesday,Morning,9,Ready,1,0
+30.0,3,4+ bedrooms,48,0,House,House,3,0,40,34.5,Partial,Video call,Sales rep,0,Summer,Tuesday,Morning,56,Ready,0,0
+30.0,4,2 bedrooms,34,1,Apartment,Apartment,3,0,105,15.1,Full,Video call,Operations estimator,0,Spring,Saturday,Morning,21,Ready,0,0
+13.0,2,1 bedroom,17,0,Apartment,Apartment,0,1,205,89.3,Customer packs,Phone,Sales rep,0,Fall,Saturday,Morning,22,Ready,0,1
+10.0,2,1 bedroom,17,0,Apartment,Apartment,3,1,105,2.5,Customer packs,In-person,Operations estimator,0,Summer,Saturday,Morning,13,Ready,1,0
+42.5,5,3 bedrooms,52,1,Apartment,Apartment,3,0,130,45.8,Partial,Video call,Sales rep,0,Fall,Saturday,Morning,43,No answer,0,0
+22.0,2,3 bedrooms,48,0,House,House,3,0,105,5.0,Customer packs,Video call,Sales rep,0,Winter,Wednesday,Morning,38,Ready,0,0
+28.0,4,4+ bedrooms,52,1,House,House,2,0,55,26.6,Customer packs,Video call,Operations estimator,0,Fall,Monday,Morning,16,Ready,0,0
+9.0,2,1 bedroom,21,0,Apartment,Apartment,0,0,90,7.9,Customer packs,Phone,Sales rep,0,Fall,Tuesday,Afternoon,45,Not ready,0,1
+26.0,4,3 bedrooms,38,0,House,House,2,0,50,12.4,Full,Video call,Operations estimator,0,Winter,Friday,Morning,35,Ready,0,0
+10.0,2,1 bedroom,20,0,Condo,Condo,0,1,130,10.5,Customer packs,Phone,Sales rep,0,Fall,Saturday,Morning,17,Ready,1,0
+16.0,2,2 bedrooms,30,0,Townhouse,Townhouse,2,0,65,6.0,Partial,In-person,Operations estimator,0,Summer,Saturday,Morning,29,No answer,0,0
+12.0,2,1 bedroom,21,0,Apartment,Apartment,4,0,75,6.7,Customer packs,Phone,Sales rep,0,Summer,Saturday,Morning,9,Ready,0,1
+6.0,2,Studio,5,0,Apartment,Apartment,0,1,185,2.5,Customer packs,Phone,Operations estimator,0,Fall,Saturday,Afternoon,48,Ready,1,0
+12.0,2,1 bedroom,20,0,Condo,Apartment,0,1,130,9.2,Partial,Phone,Sales rep,0,Summer,Tuesday,Morning,6,Ready,0,0
+24.0,3,3 bedrooms,51,0,Townhouse,House,2,0,55,9.3,Customer packs,Phone,Sales rep,0,Summer,Wednesday,Morning,12,Not ready,0,0
+24.0,3,3 bedrooms,49,0,Townhouse,House,4,0,90,8.2,Customer packs,In-person,Operations estimator,0,Fall,Monday,Morning,4,Ready,0,0
+25.5,3,3 bedrooms,43,0,Condo,Townhouse,2,1,125,50.8,Customer packs,In-person,Operations estimator,0,Spring,Saturday,Morning,31,Not ready,0,0
+24.0,4,2 bedrooms,30,1,Apartment,Apartment,4,0,275,5.7,Partial,Video call,Operations estimator,0,Fall,Saturday,Morning,69,Not ready,0,1
+35.0,5, 3 bedrooms,81,2,House,House,1,0,100,4.4,Customer packs,In-person,Operations estimator,0,Summer,Monday,Morning,23,Ready,0,0
+10.0,2,1 bedroom,22,0,Apartment,Apartment,0,1,110,32.0,Customer packs,In-person,Operations estimator,0,Winter,Friday,Morning,13,No answer,0,0
+9.0,2,1 bedroom,20,0,Condo,Apartment,0,1,125,8.4,Customer packs,Phone,Sales rep,0,Fall,Friday,Afternoon,110,Ready,0,0
+8.0,2,1 bedroom,15,0,Apartment,Apartment,1,1,135,6.7,Customer packs,Phone,Sales rep,0,Fall,Monday,Afternoon,49,No answer,0,0
+35.0,5,3 bedrooms,63,1,House,House,1,0,125,19.6,Partial,Video call,Sales rep,0,Spring,Wednesday,Morning,64,Ready,0,1
+25.5,3,3  bedrooms,42,0,Townhouse,House,1,0,75,35.4,Partial,In-person,Operations estimator,0,Spring,Friday,Morning,43,Not ready,0,0
+18.0,2,2 bedrooms,25,0,Condo,Apartment,1,1,295,6.3,Partial,Video call,Sales rep,0,Spring,Saturday,Morning,75,Not ready,0,1
+51.0,6,4+ bedrooms,58,2,House,House,3,0,45,5.4,Full,In-person,Operations estimator,0,Summer,Wednesday,Morning,49,No answer,0,0
+9.0,2,Studio,14,0,Apartment,Apartment,3,0,115,8.7,Customer packs,In-person,Sales rep,0,Summer,Friday,Afternoon,16,Ready,0,0
+9.0,2,Studio,14,0,Condo,Apartment,0,1,175,6.8,Partial,Phone,Sales rep,0,Summer,Tuesday,Morning,47,Ready,0,0
+22.5,3,2 bedrooms,34,0,Condo,Townhouse,3,1,90,12.6,Partial,Video call,Operations estimator,0,Summer,Friday,Morning,8,Ready,0,0
+39.0,6,4+ bedrooms,54,0,House,Townhouse,4,0,40,8.2,Full,In-person,Sales rep,1,Summer,Wednesday,Morning,10,No answer,0,0
+42.0,7,4+ bedrooms,98,1,House,House,2,0,45,13.8,Customer packs,Video call,Operations estimator,0,Fall,Saturday,Afternoon,11,Ready,0,1
+37.5,5,4+ bedrooms,71,1,House,Townhouse,3,0,70,18.9,Customer packs,In-person,Operations estimator,1,Spring,Monday,Morning,31,Ready,0,0
+28.0,4,3 bedrooms,67,0,House,House,2,0,40,9.2,Customer packs,In-person,Operations estimator,0,Winter,Saturday,Morning,67,No answer,0,1
+37.5,5,4+ bedrooms,65,0,House,House,2,0,35,6.9,Partial,Video call,Sales rep,0,Spring,Thursday,Morning,39,Not ready,0,0
+13.5,3,2 bedrooms,36,0,Condo,Condo,0,1,170,3.5,Customer packs,Phone,Operations estimator,1,Spring,Wednesday,Afternoon,35,Ready,0,1
+21.0,3,3 bedrooms,37,0,House,House,2,0,20,21.2,Partial,Video call,Sales rep,0,Summer,Friday,Morning,999,Not ready,0,0
+16.0,2,1 bedroom,28,1,House,House,1,0,65,28.5,Customer packs,Phone,Operations estimator,1,Summer,Saturday,Morning,6,Ready,0,1
+21.0,3,3 bedrooms,32,1,Condo,Townhouse,1,1,70,36.2,Partial,In-person,Sales rep,0,Spring,Friday,Morning,4,No answer,0,0
+21.0,3,4+ bedrooms,48,0,Townhouse,House,1,0,55,6.0,Customer packs,Video call,Operations estimator,0,Summer,Friday,Morning,12,Ready,0,0
+22.5,3,3 bedrooms,36,0,House,Apartment,1,1,120,10.3,Full,In-person,Operations estimator,1,Spring,Wednesday,Morning,50,Ready,0,0
+26.0,4,3 bedrooms,60,1,House,Townhouse,2,0,75,3.7,Customer packs,Phone,Operations estimator,0,Spring,Monday,Morning,42,Ready,0,1
+17.0,2,2 bedrooms,35,1,Apartment,Apartment,1,1,130,13.8,Customer packs,Video call,Sales rep,0,Spring,Tuesday,Morning,12,No answer,0,1
+39.0,6,4+ bedrooms,78,2,House,House,1,0,30,14.0,Partial,Phone,Operations estimator,1,Fall,Monday,Morning,8,Ready,0,0
+32.0,4,3 bedrooms,48,0,House,House,0,0,45,7.4,Full,Phone,Sales rep,0,Summer,Saturday,Morning,6,Ready,0,0
+22.5,3,2 bedrooms,24,2,Apartment,Townhouse,4,0,130,32.3,Customer packs,Video call,Sales rep,0,Winter,Saturday,Morning,101,Ready,0,0
+40.0,5,4+ bedrooms,64,1,House,House,1,0,40,22.0,Partial,In-person,Operations estimator,0,Summer,Thursday,Morning,27,Not ready,0,0
+14.0,2,1 bedroom,22,0,Apartment,Apartment,1,1,180,28.5,Partial,In-person,Operations estimator,0,Summer,Monday,Morning,11,Not ready,0,0
+9.0,2,1 bedroom,17,0,Apartment,Apartment,1,1,135,12.5,Partial,Phone,Operations estimator,1,Summer,Thursday,Afternoon,20,Ready,0,1
+15.0,2,2 bedrooms,35,0,Townhouse,Townhouse,3,0,95,1.0,Customer packs,Phone,Sales rep,1,Fall,Saturday,Morning,23,Ready,0,0
+14.0,2,1 bedroom,19,0,Apartment,Condo,0,1,165,33.2,Full,Video call,Operations estimator,1,Summer,Monday,Morning,57,Ready,0,0
+26.0,4,3 bedrooms,57,0,Townhouse,Townhouse,3,0,35,8.4,Customer packs,In-person,Operations estimator,0,Spring,Thursday,Morning,4,Ready,0,0
+6.0,2,1 bedroom,14,0,Townhouse,Townhouse,2,0,80,7.3,Customer packs,Video call,Sales rep,1,Spring,Friday,Morning,22,Ready,0,1
+12.0,2,studio,10,0,Condo,Apartment,3,1,220,29.2,Full,Video call,Operations estimator,0,Summer,Saturday,Afternoon,7,Ready,0,1
+7.0,2,Studio,10,0,Apartment,Apartment,1,1,120,13.3,Full,Phone,Sales rep,0,Summer,Tuesday,Afternoon,41,Ready,0,1
+15.0,2,Studio,23,0,Apartment,Condo,0,1,170,47.7,Partial,Phone,Operations estimator,0,Fall,Thursday,Morning,21,Ready,0,0
+19.5,3,3 bedrooms,40,0,House,House,2,0,70,13.9,Customer packs,Phone,Sales rep,0,Spring,Tuesday,Morning,17,Ready,0,0
+22.0,4,3 bedrooms,49,1,House,House,2,0,50,5.4,Customer packs,Video call,Operations estimator,0,Fall,Friday,Morning,21,Ready,0,0
+13.0,2,2 bedrooms,31,0,Condo,Condo,0,1,130,4.2,Customer packs,In-person,Sales rep,0,Spring,Saturday,Morning,27,Ready,0,0
+35.0,5,3 bedrooms,65,0,Townhouse,Townhouse,4,0,135,12.9,Customer packs,Video call,Sales rep,0,Winter,Monday,Morning,26,Ready,0,0
+13.0,2,2 BEDROOMS,23,0,Condo,Condo,0,1,220,44.2,Customer packs,Video call,Operations estimator,0,Summer,Wednesday,Morning,22,Ready,0,0
+10.0,2,1 bedroom,21,0,Apartment,Apartment,2,0,80,6.5,Customer packs,In-person,Operations estimator,0,Spring,Monday,Morning,24,Ready,0,0
+30.0,4,4+ bedrooms,59,1,House,Townhouse,3,0,50,3.9,Customer packs,Phone,Sales rep,0,Fall,Tuesday,Morning,11,Ready,0,1
+18.0,3,2 bedrooms,53,0,Apartment,Condo,0,1,135,2.1,Customer packs,Video call,Sales rep,1,Spring,Saturday,Morning,7,Ready,0,0
+25.5,3,2 BEDROOMS,40,1,Apartment,Townhouse,1,1,55,50.1,Customer packs,In-person,Operations estimator,0,Spring,Friday,Morning,24,No answer,0,0
+19.5,3,2 bedrooms,38,0,Townhouse,Townhouse,6,0,65,4.4,Customer packs,Video call,Sales rep,0,Summer,Thursday,Morning,72,Ready,0,1
+24.0,4,3 bedrooms,48,0,House,House,2,0,35,8.0,Partial,In-person,Sales rep,0,Fall,Tuesday,Afternoon,15,Not ready,0,0
+26.0,4,4+ bedrooms,64,1,House,House,0,0,40,5.3,Customer packs,In-person,Operations estimator,0,Spring,Monday,Morning,16,No answer,0,0
+11.0,2,2 bedrooms,24,0,Condo,Condo,0,1,85,26.6,Customer packs,In-person,Operations estimator,0,Summer,Saturday,Morning,116,Not ready,0,1
+34.0,4,3 bedrooms,56,0,Townhouse,Apartment,3,1,145,22.2,Customer packs,In-person,Operations estimator,0,Spring,Monday,Morning,44,Ready,0,0
+56.0,8,3 bedrooms,85,0,House,House,0,0,40,20.2,Full,Phone,Sales rep,0,Summer,Friday,Morning,16,Ready,0,0
+12.0,2,2 bedrooms,25,0,Condo,Apartment,0,1,205,15.1,Customer packs,In-person,Operations estimator,0,Summer,Friday,Morning,27,Ready,0,0
+22.5,3,3 bedrooms,36,0,House,House,0,0,45,16.1,Full,In-person,Operations estimator,0,Spring,Thursday,Morning,43,No answer,0,0
+6.0,2,Studio,10,0,Apartment,Apartment,0,1,235,4.8,Customer packs,Phone,Sales rep,0,Spring,Thursday,Morning,10,Ready,0,0
+45.0,6,4+ bedrooms,80,0,House,House,2,0,145,12.0,Partial,In-person,Operations estimator,0,Fall,Tuesday,Morning,15,Ready,0,0
+15.0,2,1 bedroom,21,0,Apartment,Apartment,2,1,45,21.3,Full,Video call,Sales rep,0,Summer,Monday,Morning,42,Ready,0,0
+45.5,7,4+ bedrooms,86,3,House,House,1,0,40,6.0,Partial,Video call,Sales rep,0,Winter,Wednesday,Morning,17,Ready,0,0
+12.0,2,1 bedroom,22,0,Townhouse,Apartment,2,0,160,22.3,Customer packs,Video call,Sales rep,0,Fall,Friday,Morning,19,Ready,0,0
+9.0,2,1 bedroom,18,0,Apartment,Apartment,0,0,60,4.0,Customer packs,Phone,Operations estimator,0,Spring,Tuesday,Morning,18,Not ready,0,1
+37.5,5,4+ bedrooms,65,1,House,House,1,0,30,9.6,Partial,Video call,Operations estimator,0,Summer,Friday,Morning,49,Not ready,0,0
+22.5,3,3 bedrooms,56,0,House,House,0,0,115,9.6,Customer packs,Video call,Operations estimator,0,Summer,Friday,Morning,65,Ready,0,0
+26.0,4,2 bedrooms,46,0,Townhouse,Townhouse,3,0,95,5.5,Partial,Phone,Operations estimator,1,Summer,Friday,Morning,22,No answer,0,0
+19.5,3,2 bedrooms,29,0,Condo,Condo,0,1,90,15.4,Full,Video call,Sales rep,0,Summer,Wednesday,Morning,11,No answer,1,0
+45.5,7,4+ bedrooms,87,1,House,House,1,0,45,3.5,Partial,In-person,Sales rep,0,Summer,Thursday,Morning,17,Ready,0,0
+17.0,2,4+ bedrooms,43,1,House,House,1,0,30,8.2,Customer packs,In-person,Sales rep,0,Spring,Saturday,Morning,23,Ready,0,1
+42.0,7,4+ bedrooms,101,0,House,House,2,0,95,9.4,Customer packs,In-person,Operations estimator,0,Summer,Wednesday,Morning,9,Not ready,0,0
+10.0,2,2 bedrooms,18,0,House,House,2,0,65,12.2,Customer packs,Video call,Sales rep,0,Fall,Saturday,Morning,13,Ready,0,0
+22.5,3,3 bedrooms,49,0,Townhouse,Condo,2,0,80,13.8,Customer packs,Video call,Sales rep,0,Fall,Saturday,Morning,78,Ready,0,0
+15.0,2,1 bedroom,27,1,Apartment,Apartment,3,1,125,1.7,Customer packs,Phone,Sales rep,0,Spring,Wednesday,Morning,2,Not ready,0,1
+26.0,4,3 bedrooms,53,0,House,House,2,0,40,26.3,Customer packs,In-person,Operations estimator,0,Fall,Friday,Morning,12,Ready,0,0
+28.0,4,3 Bedrooms,46,0,Townhouse,Townhouse,4,0,50,22.4,Partial,In-person,Operations estimator,1,Spring,Wednesday,Morning,119,Ready,0,0
+32.5,5,4+ bedrooms,51,1,House,House,2,0,115,7.5,Partial,In-person,Operations estimator,0,Fall,Wednesday,Morning,22,Ready,0,0
+28.0,4,2 bedrooms,41,0,Condo,Condo,0,1,225,4.3,Full,Video call,Operations estimator,0,Winter,Monday,Morning,25,Ready,0,1
+24.0,4,3 bedrooms,41,0,Condo,Condo,4,0,65,3.9,Partial,Video call,Operations estimator,0,Summer,Saturday,Morning,28,Ready,0,0
+12.0,2,1 bedroom,19,0,Apartment,House,0,0,65,14.7,Partial,Phone,Sales rep,0,Winter,Saturday,Morning,5,No answer,0,0
+6.0,2,Studio,9,0,Apartment,Apartment,0,1,225,28.2,Customer packs,Phone,Sales rep,0,Fall,Wednesday,Morning,16,Not ready,1,1
+30.0,4,2 bedrooms,44,2,House,Condo,2,0,110,7.3,Partial,In-person,Sales rep,0,Spring,Saturday,Morning,30,Ready,0,0
+13.0,2,1 bedroom,17,1,Townhouse,Apartment,1,0,135,8.6,Partial,Phone,Operations estimator,0,Summer,Thursday,Morning,14,Not ready,0,1
+18.0,2,2 bedrooms,31,0,Condo,Condo,0,1,190,4.9,Partial,In-person,Operations estimator,0,Summer,Thursday,Morning,10,Ready,0,0
+16.0,2,1 bedroom,26,0,Condo,Condo,2,1,100,7.1,Partial,Video call,Operations estimator,0,Fall,Saturday,Morning,12,Not ready,0,1
+11.0,2,1 bedroom,19,0,Apartment,Apartment,2,0,120,17.3,Customer packs,Phone,Sales rep,0,Summer,Wednesday,Morning,11,Ready,0,0
+32.5,5,4+ bedrooms,71,0,House,House,1,0,40,5.5,Partial,In-person,Sales rep,0,Fall,Tuesday,Morning,64,Ready,0,1
+12.0,2,1 bedroom,21,0,Condo,Condo,0,1,140,6.3,Partial,Phone,Sales rep,0,Summer,Saturday,Morning,31,Ready,0,0
+45.0,5,3 bedrooms,45,1,Condo,House,1,1,205,37.8,Full,Phone,Operations estimator,0,Summer,Saturday,Morning,16,Ready,0,1
+42.0,6,4+ bedrooms,88,0,House,Townhouse,5,0,65,12.1,Customer packs,In-person,Sales rep,0,Spring,Saturday,Morning,9,Ready,0,0
+26.0,4,2 bedrooms,52,0,House,Apartment,0,1,70,11.9,Partial,Video call,Sales rep,0,Spring,Friday,Morning,5,Not ready,0,1
+10.0,2,1 bedroom,18,0,Apartment,Apartment,0,1,170,17.2,Customer packs,Phone,Sales rep,0,Fall,Saturday,Morning,9,Ready,0,0
+12.0,3,1 bedroom,26,0,Apartment,Apartment,3,0,115,1.8,Customer packs,Video call,Sales rep,1,Spring,Friday,Morning,94,Ready,0,0
+16.0,2,2 bedrooms,25,0,Apartment,Apartment,2,1,135,4.7,Partial,Video call,Sales rep,0,Summer,Tuesday,Morning,81,Ready,0,1
+30.0,4,2 bedrooms,41,1,Apartment,Apartment,2,1,180,7.8,Partial,Video call,Sales rep,0,Winter,Friday,Morning,25,Ready,0,0
+13.0,2,Studio,10,0,Apartment,Apartment,1,1,135,106.0,Customer packs,Phone,Sales rep,0,Spring,Wednesday,Morning,6,Not ready,0,0
+18.0,2,2 bedrooms,24,0,Condo,Apartment,0,1,180,4.2,Full,Video call,Operations estimator,0,Summer,Friday,Morning,4,Ready,0,0
+22.5,3,3 bedrooms,43,1,Townhouse,House,3,0,55,13.4,Customer packs,Video call,Sales rep,0,Summer,Friday,Morning,18,Ready,0,0
+14.0,2,2 bedrooms,26,0,House,Townhouse,2,0,150,24.0,Customer packs,Phone,Sales rep,0,Fall,Saturday,Morning,4,Not ready,0,1
+9.0,2,1 bedroom,18,0,Apartment,Apartment,2,0,80,16.1,Customer packs,Phone,Operations estimator,0,Fall,Wednesday,Morning,53,Ready,0,0
+14.0,2,2 bedrooms,28,0,Townhouse,Apartment,2,0,70,6.7,Customer packs,In-person,Operations estimator,0,Spring,Friday,Morning,58,Ready,0,0
+22.5,3,3 bedrooms,49,0,Townhouse,Townhouse,5,0,20,18.5,Customer packs,In-person,Operations estimator,0,Summer,Friday,Morning,999,Ready,0,0
+17.0,2,2 bedrooms,28,0,House,House,3,0,60,9.5,Partial,In-person,Operations estimator,0,Summer,Friday,Morning,3,No answer,0,0
+21.0,2,3 bedrooms,38,0,House,House,1,0,40,6.3,Partial,In-person,Sales rep,0,Spring,Tuesday,Morning,20,Not ready,0,0
+12.0,2,1 bedroom,21,0,Apartment,Apartment,0,1,155,3.7,Partial,Phone,Operations estimator,0,Summer,Thursday,Morning,7,No answer,0,0
+12.0,2,1 bedroom,27,0,Condo,Condo,2,1,120,8.1,Customer packs,Phone,Sales rep,0,Summer,Tuesday,Morning,12,No answer,0,1
+14.0,2,1 bedroom,29,0,Apartment,Apartment,2,0,110,12.4,Customer packs,Phone,Operations estimator,0,Spring,Friday,Morning,4,Ready,0,1
+26.0,4,3 bedrooms,44,0,Townhouse,Townhouse,3,0,95,12.9,Partial,Phone,Sales rep,0,Winter,Thursday,Morning,13,Ready,0,0
+25.5,3,3 bedrooms,56,0,House,House,1,0,30,10.0,Customer packs,Video call,Operations estimator,0,Spring,Saturday,Morning,64,Not ready,0,1
+17.0,2,2 bedrooms,29,0,Condo,Condo,2,1,190,34.5,Customer packs,Video call,Operations estimator,0,Winter,Tuesday,Morning,50,Ready,0,1
+24.0,3,3 bedrooms,52,0,Condo,House,1,1,70,9.3,Customer packs,Video call,Operations estimator,0,Fall,Friday,Morning,48,Not ready,0,1
+35.0,5,3 bedrooms,65,0,Apartment,House,1,1,180,6.5,Partial,Phone,Sales rep,0,Fall,Saturday,Morning,65,Ready,0,0
+26.0,4,2 bedrooms,40,1,Apartment,Apartment,3,0,90,6.4,Partial,In-person,Operations estimator,0,Winter,Thursday,Morning,53,Ready,0,1
+45.0,6,4+ bedrooms,64,1,House,House,3,0,150,16.8,Partial,In-person,Operations estimator,0,Spring,Saturday,Morning,6,Not ready,0,1
+13.0,2,1 bedroom,30,0,Condo,Condo,1,1,170,10.3,Customer packs,Phone,Sales rep,1,Spring,Thursday,Morning,4,Not ready,0,1
+15.0,2,2 bedrooms,32,0,Townhouse,Townhouse,2,0,70,5.3,Customer packs,Video call,Sales rep,0,Summer,Monday,Morning,17,Not ready,0,1
+6.0,2,Studio,12,0,Apartment,Apartment,0,1,120,10.2,Customer packs,Phone,Sales rep,0,Summer,Friday,Morning,20,No answer,0,0
+16.0,2,2 bedrooms,30,0,Apartment,Apartment,1,1,125,23.9,Customer packs,In-person,Operations estimator,0,Fall,Wednesday,Morning,32,Not ready,0,0
+15.0,2,2 bedrooms,27,0,Apartment,Apartment,4,0,135,3.8,Customer packs,In-person,Operations estimator,0,Summer,Friday,Morning,25,Ready,0,0
+6.0,2,Studio,6,0,Apartment,Townhouse,2,1,205,16.0,Customer packs,Phone,Sales rep,1,Spring,Wednesday,Afternoon,999,Ready,0,0
+16.0,2,2 bedrooms,32,0,Apartment,Apartment,0,1,,28.5,Customer packs,In-person,Operations estimator,0,Summer,Tuesday,Morning,28,Ready,0,0
+24.0,4,2 bedrooms,34,0,Condo,Townhouse,1,1,190,13.7,Full,Phone,Sales rep,1,Winter,Thursday,Morning,31,Ready,0,0
+32.0,4,4+ bedrooms,61,0,Condo,Condo,0,1,115,18.2,Partial,Phone,Sales rep,1,Spring,Wednesday,Morning,10,Ready,0,0
+28.0,4,3 bedrooms,45,1,Condo,House,2,1,115,5.3,Partial,In-person,Sales rep,0,Fall,Wednesday,Morning,56,Ready,0,0
+16.5,3,2 bedrooms ,29,1,Apartment,Townhouse,3,1,,3.7,Customer packs,Video call,Sales rep,0,Fall,Thursday,Morning,24,Ready,0,0
+34.0,4,3 bedrooms,67,0,House,House,1,0,35,21.6,Partial,In-person,Operations estimator,0,Winter,Friday,Morning,38,Ready,0,0
+22.0,4,4+ bedrooms,39,0,Townhouse,House,3,0,35,7.6,Partial,Video call,Operations estimator,0,Fall,Saturday,Morning,33,No answer,0,1
+13.0,2,1 bedroom,35,0,Apartment,Condo,0,1,140,3.5,Customer packs,Video call,Sales rep,1,Winter,Saturday,Morning,37,No answer,0,0
+22.0,4,2 bedrooms,34,0,Apartment,Condo,0,0,125,15.3,Full,Video call,Operations estimator,0,Winter,Friday,Morning,13,Not ready,0,0
+15.0,2,2 bedrooms,39,0,House,House,1,0,35,16.8,Customer packs,Video call,Sales rep,0,Fall,Monday,Morning,13,No answer,0,0
+9.0,2,1 bedroom,17,0,Apartment,Apartment,2,1,105,9.5,Customer packs,Phone,Sales rep,0,Spring,Thursday,Afternoon,3,No answer,0,0
+16.0,2,2 bedrooms,27,0,Condo,Condo,0,1,210,4.0,Partial,Phone,Operations estimator,0,Winter,Wednesday,Morning,7,Not ready,0,0
+27.0,3,4+ bedrooms,50,0,House,House,1,0,140,55.5,Customer packs,In-person,Operations estimator,0,Winter,Saturday,Morning,6,Ready,0,0
+7.0,2,Studio,11,0,Condo,Apartment,0,1,200,13.3,Customer packs,Phone,Operations estimator,0,Summer,Friday,Morning,9,Ready,0,0
+19.0,2,3 bedrooms,34,2,House,House,2,0,50,7.8,Customer packs,In-person,Operations estimator,0,Spring,Wednesday,Morning,17,No answer,1,1
+19.5,3,2 bedrooms,25,0,House,House,2,0,115,12.0,Full,Phone,Sales rep,0,Winter,Tuesday,Morning,3,Ready,0,0
+27.0,3,2 bedrooms,34,0,Apartment,Townhouse,1,1,145,6.2,Full,Phone,Sales rep,0,Summer,Friday,Morning,34,No answer,0,0
+18.0,2,2 bedrooms,36,0,House,House,2,0,30,20.2,Customer packs,Video call,Operations estimator,0,Summer,Thursday,Morning,18,Ready,0,0
+39.0,6,3 bedrooms,47,0,Townhouse,Townhouse,4,0,70,18.0,Full,Video call,Operations estimator,0,Summer,Friday,Morning,15,Ready,1,0
+52.5,7,3 bedrooms,67,0,Condo,Apartment,3,1,125,3.6,Full,Phone,Sales rep,0,Fall,Wednesday,Morning,9,Ready,0,0
+11.0,2,1 bedroom,25,0,Condo,Apartment,0,1,120,2.5,Customer packs,Video call,Sales rep,0,Fall,Monday,Morning,53,Ready,0,0
+10.0,2,2 bedrooms,21,0,Apartment,Condo,2,0,100,15.8,Customer packs,Video call,Sales rep,0,Spring,Saturday,Morning,9,Not ready,0,1
+42.5,5,4+ bedrooms,48,2,House,House,1,0,45,21.0,Full,In-person,Operations estimator,0,Summer,Tuesday,Morning,10,No answer,0,0
+9.0,2,1 bedroom,19,0,Apartment,Apartment,0,1,115,22.6,Customer packs,Phone,Sales rep,0,Spring,Saturday,Morning,20,Not ready,0,1
+9.0,2,1 bedroom,16,0,Condo,Condo,2,1,140,6.4,Customer packs,Phone,Sales rep,0,Spring,Saturday,Morning,8,No answer,0,1
+45.0,6,4+ bedrooms,70,1,House,House,3,0,40,13.9,Partial,Video call,Sales rep,0,Spring,Friday,Morning,34,Ready,0,0
+12.0,2,2 bedrooms,25,0,Apartment,House,1,0,75,2.2,Customer packs,Video call,Sales rep,0,Summer,Saturday,Morning,35,Ready,0,0
+8.0,2,Studio,13,0,Condo,Apartment,0,1,115,16.6,Partial,Phone,Sales rep,0,Summer,Saturday,Morning,18,Ready,0,0
+24.0,3,3 bedrooms,33,1,House,House,0,0,30,19.6,Full,Video call,Operations estimator,0,Fall,Saturday,Morning,15,Ready,0,0
+21.0,3,2 bedrooms,32,1,Apartment,Townhouse,2,1,110,22.1,Partial,Phone,Sales rep,0,Spring,Monday,Morning,17,Ready,0,0
+14.0,2,2 bedrooms,19,0,Apartment,Condo,2,1,185,15.1,Partial,In-person,Operations estimator,0,Summer,Wednesday,Morning,7,Not ready,0,0
+24.0,4,3 bedrooms,54,0,House,House,0,0,25,8.3,Partial,Video call,Sales rep,0,Fall,Wednesday,Morning,44,Ready,1,0
+35.0,5,4+ bedrooms,57,0,House,House,2,0,95,11.5,Partial,In-person,Operations estimator,0,Fall,Saturday,Morning,4,Not ready,0,0
+22.5,3,2 bedrooms,50,0,Condo,Townhouse,2,0,50,8.6,Customer packs,In-person,Operations estimator,0,Spring,Monday,Morning,6,Ready,0,0
+24.0,4,2 bedrooms,35,0,Apartment,Apartment,2,1,75,5.1,Full,Video call,Sales rep,0,Summer,Wednesday,Morning,34,Ready,0,0
+48.0,6,4+ bedrooms,55,0,House,House,2,0,70,54.0,Full,In-person,Operations estimator,0,Spring,Monday,Morning,22,Ready,0,0
+34.0,4,3 bedrooms,37,0,Townhouse,House,3,0,115,36.9,Full,Video call,Sales rep,0,Winter,Friday,Morning,65,Ready,0,1
+39.0,6,3 bedrooms,51,2,House,House,2,0,55,3.6,Full,Video call,Sales rep,0,Summer,Wednesday,Morning,23,Ready,0,0
+40.0,5,3 bedrooms,45,1,House,Apartment,5,0,145,21.3,Partial,Video call,Operations estimator,0,Spring,Monday,Morning,19,Ready,0,0
+7.0,2,Studio,13,0,Apartment,Apartment,1,0,165,6.5,Customer packs,Phone,Operations estimator,0,Fall,Saturday,Morning,5,Ready,0,0
+18.0,3,2 bedrooms,44,0,Townhouse,House,2,0,45,5.4,Customer packs,In-person,Operations estimator,0,Fall,Friday,Morning,33,Ready,0,0
+13.0,2,1 BEDROOM,16,0,Apartment,Apartment,0,1,190,15.9,Full,In-person,Operations estimator,0,Fall,Monday,Morning,45,Ready,0,0
+13.0,2,1 bedroom,22,0,Apartment,Apartment,5,0,155,22.7,Customer packs,Phone,Sales rep,0,Summer,Friday,Morning,27,No answer,0,0
+11.0,2,1 bedroom,21,0,Apartment,Apartment,1,1,100,11.5,Customer packs,Video call,Sales rep,0,Fall,Friday,Morning,36,Ready,0,0
+21.0,3,3 bedrooms,42,0,Townhouse,House,3,0,50,19.1,Customer packs,Phone,Sales rep,0,Spring,Friday,Morning,22,Ready,1,0
+11.0,2,1 bedroom,15,0,Townhouse,Townhouse,5,0,85,3.7,Partial,In-person,Sales rep,0,Summer,Friday,Morning,63,No answer,0,0

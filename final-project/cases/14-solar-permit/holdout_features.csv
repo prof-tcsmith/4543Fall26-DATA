@@ -1,0 +1,1001 @@
+id,jurisdiction,application_month,days_since_code_update,prior_rejections_jurisdiction_90d,system_size_kw,num_panels,mount_surface,roof_pitch_deg,home_age_years,structural_letter_attached,battery_included,main_panel_upgrade,inverter_type,site_survey_type,designer_experience_months,plan_set_pages,design_revisions,sales_rush_request,hoa_member,financing_type
+0,Corvale,Nov,200,42,5.33,13,Ground mount,0,12,0,0,0,String inverter,Drone,25,9,0,0,0,Lease
+1,Elmsworth,Nov,280,37,8.0,20,Asphalt shingle,14,22,0,0,1,String inverter with optimizers,Drone,8,11,0,0,1,Loan
+2,Dunfield County,Oct,16,32,10.66,26,Asphalt shingle,30,30,1,0,0,String inverter,Drone,62,13,1,0,0,Loan
+3,Brindle Creek,Aug,397,52,3.78,9,Asphalt shingle,14,5,1,0,0,Microinverters,In-person,29,11,2,1,0,Loan
+4,Fennmoor,Aug,50,53,9.43,23,Asphalt shingle,40,60,1,0,0,Microinverters,In-person,12,11,0,0,1,Lease
+5,Corvale,May,8,32,15.05,35,Asphalt shingle,27,12,0,1,0,Microinverters,In-person,5,12,1,0,0,Lease
+6,Ashcombe Township,Dec,157,37,5.33,13,Metal,22,18,0,0,0,Microinverters,Satellite imagery only,15,10,0,0,0,Loan
+7,Corvale,Jun,60,73,3.78,9,Asphalt shingle,14,67,0,0,0,String inverter with optimizers,In-person,11,9,2,0,0,Cash
+8,Elmsworth,Sep,223,36,8.2,20,Asphalt shingle,22,44,0,0,0,Microinverters,Satellite imagery only,27,8,1,0,0,Loan
+9,Brindle Creek,Nov,314,34,10.66,26,Metal,10,22,0,1,1,String inverter with optimizers,Satellite imagery only,17,14,0,1,0,Lease
+10,Ashcombe Township,May,310,41,6.02,14,Clay tile,26,50,1,0,1,Microinverters,Drone,33,13,1,1,0,Loan
+11,Brindle Creek,Sep,257,50,13.33,31,Ground mount,0,18,0,0,1,String inverter with optimizers,Satellite imagery only,14,17,1,1,1,Cash
+12,Fennmoor,Oct,129,52,10.0,25,Asphalt shingle,34,49,1,1,0,String inverter with optimizers,In-person,14,13,2,0,1,Loan
+13,Brindle Creek,Oct,475,48,7.6,19,Concrete tile,27,107,1,1,0,Microinverters,In-person,80,11,1,1,0,Cash
+14,Corvale,Nov,197,47,5.74,14,Concrete tile,22,10,1,0,1,Microinverters,Satellite imagery only,4,10,2,0,1,Loan
+15,Brindle Creek,Jun,163,53,8.4,21,Clay tile,23,24,0,0,0,String inverter with optimizers,Drone,13,9,1,0,0,Loan
+16,Ashcombe Township,Sep,3,43,4.92,12,Concrete tile,23,30,0,0,1,Microinverters,Satellite imagery only,9,9,0,0,0,Cash
+17,Dunfield County,May,217,26,7.6,19,Metal,14,34,1,1,0,Microinverters,In-person,68,12,3,0,1,Loan
+18,Corvale,Dec,222,33,6.15,15,Asphalt shingle,14,47,0,1,0,String inverter with optimizers,In-person,8,13,1,0,1,Lease
+19,Brindle Creek,May,120,52,4.4,11,Asphalt shingle,40,33,0,0,0,String inverter,In-person,14,8,0,0,0,Loan
+20,Ashcombe Township,Dec,98,72,15.05,35,Asphalt shingle,27,30,0,0,0,Microinverters,In-person,31,12,0,1,0,Loan
+21,Brindle Creek,May,327,37,7.98,19,Ground mount,0,65,1,1,0,Microinverters,Drone,6,14,0,0,0,Loan
+22,Dunfield County,Jun,272,38,9.43,23,Asphalt shingle,45,22,0,0,0,Microinverters,In-person,144,10,1,0,0,Cash
+23,Brindle Creek,Oct,275,45,7.31,17,Asphalt shingle,27,37,0,0,0,Microinverters,Drone,15,8,1,0,0,Cash
+24,Corvale,Sep,137,70,8.4,20,Asphalt shingle,27,22,0,0,1,String inverter,Drone,17,12,0,0,1,Loan
+25,Brindle Creek,Aug,237,53,8.82,21,Flat membrane,2,15,0,0,0,Microinverters,Drone,15,12,1,0,0,Lease
+26,Ashcombe Township,Apr,404,28,7.56,18,Concrete tile,22,43,1,1,0,Microinverters,Drone,45,14,1,0,0,Loan
+27,Elmsworth,Aug,209,29,10.66,26,Flat membrane,3,44,0,0,1,Microinverters,Drone,60,11,2,0,0,Lease
+28,Brindle Creek,Sep,452,52,7.31,17,Metal,18,42,0,0,0,String inverter,Satellite imagery only,8,7,0,0,0,Cash
+29,Brindle Creek,Jun,342,36,6.97,17,Metal,18,64,0,1,0,String inverter with optimizers,Drone,9,12,3,0,0,Loan
+30,Corvale,Feb,298,47,11.89,29,Concrete tile,34,15,1,0,0,Microinverters,Drone,24,9,0,0,0,Loan
+31,Ashcombe Township,Feb,350,29,10.08,24,Flat membrane,2,26,0,0,1,Microinverters,In-person,14,14,1,0,0,Cash
+32,Dunfield County,Jan,486,34,6.45,15,Asphalt shingle,22,32,0,0,1,String inverter with optimizers,Satellite imagery only,7,10,1,1,0,Loan
+33,Dunfield County,Dec,451,28,11.89,29,Asphalt shingle,18,17,0,0,1,Microinverters,Drone,82,13,2,0,0,Loan
+34,Ashcombe Township,Aug,408,45,8.4,21,Asphalt shingle,22,47,0,0,1,Microinverters,In-person,82,11,2,0,1,Loan
+35,Dunfield County,Nov,402,31,8.6,20,Asphalt shingle,22,5,0,0,0,Microinverters,In-person,12,6,0,0,0,Cash
+36,Ashcombe Township,Jun,344,63,11.61,27,Asphalt shingle,34,23,0,0,1,String inverter with optimizers,In-person,7,12,0,0,0,Lease
+37,Corvale,May,14,33,9.84,24,Ground mount,0,15,0,0,0,String inverter,In-person,60,13,2,1,0,Loan
+38,Corvale,Feb,411,31,7.56,18,Concrete tile,22,70,1,0,0,String inverter,Satellite imagery only,6,11,0,0,0,Loan
+39,Elmsworth,Feb,4,26,8.61,21,Metal,14,36,0,0,0,String inverter,In-person,52,11,0,0,0,Loan
+40,Corvale,Oct,184,39,4.0,10,Concrete tile,34,22,0,0,0,Microinverters,In-person,47,7,0,0,0,Lease
+41,Ashcombe Township,Aug,402,49,3.69,9,Metal,34,10,0,1,0,Microinverters,In-person,5,12,1,0,0,Loan
+42,Fennmoor,Apr,227,26,7.31,17,Asphalt shingle,40,37,0,0,0,Microinverters,In-person,87,6,3,0,0,Loan
+43,Dunfield County,Sep,349,41,9.84,24,Asphalt shingle,26,14,1,0,0,String inverter with optimizers,In-person,7,14,1,0,0,Cash
+44,Dunfield County,Jun,629,30,8.4,21,Asphalt shingle,18,23,0,1,0,Microinverters,In-person,13,14,1,0,1,Loan
+45,Dunfield County,Jun,259,35,12.8,32,Asphalt shingle,22,28,0,1,1,String inverter with optimizers,In-person,18,17,5,0,1,Loan
+46,Corvale,Mar,346,37,9.89,23,Metal,27,19,0,0,0,Microinverters,Satellite imagery only,29,13,2,0,0,Loan
+47,Ashcombe Township,Sep,91,83,10.5,25,Ground mount,0,64,0,0,0,String inverter,In-person,6,13,0,0,0,Loan
+48,Fennmoor,Jul,326,41,5.46,13,Concrete tile,18,36,0,1,0,Microinverters,Satellite imagery only,2,9,0,1,0,Loan
+49,Dunfield County,Nov,48,50,10.8,27,Asphalt shingle,30,57,0,0,0,String inverter,Satellite imagery only,31,10,1,0,1,Cash
+50,Elmsworth,Jan,344,26,15.96,38,Ground mount,0,22,0,1,1,Microinverters,In-person,19,16,0,0,0,Loan
+51,Brindle Creek,Jan,26,33,12.6,30,Asphalt shingle,22,77,1,1,1,Microinverters,Drone,41,17,0,0,0,Loan
+52,Dunfield County,Jun,255,33,18.49,43,Asphalt shingle,40,60,1,1,0,Microinverters,In-person,20,15,1,0,0,Loan
+53,Elmsworth,Jun,115,65,9.6,24,Asphalt shingle,26,14,0,0,0,String inverter,Drone,90,8,0,0,0,Loan
+54,Ashcombe Township,Aug,423,47,6.72,16,Concrete tile,26,25,0,0,0,Microinverters,In-person,7,9,3,0,1,Loan
+55,Ashcombe Township,Dec,101,70,10.92,26,Clay tile,30,44,0,0,1,String inverter with optimizers,Drone,112,11,1,0,0,Loan
+56,Corvale,Jul,105,89,7.31,17,Asphalt shingle,18,18,0,0,0,String inverter with optimizers,Satellite imagery only,12,11,1,0,0,Loan
+57,Corvale,Jan,387,28,6.3,15,Asphalt shingle,22,14,0,0,0,String inverter,In-person,17,11,3,0,0,Lease
+58,Dunfield County,Apr,206,25,9.6,24,Asphalt shingle,23,14,1,0,0,String inverter,In-person,28,9,0,0,1,Loan
+59,Corvale,Feb,310,42,8.4,21,Metal,14,21,0,1,0,String inverter with optimizers,In-person,12,10,1,0,0,Cash
+60,Dunfield County,Jul,303,43,5.33,13,Asphalt shingle,23,110,1,0,0,Microinverters,Drone,21,10,1,0,1,Cash
+61,Brindle Creek,Jan,2,28,8.61,21,Asphalt shingle,40,30,0,1,1,Microinverters,In-person,45,15,1,0,0,Lease
+62,Ashcombe Township,Aug,56,79,11.34,27,Asphalt shingle,22,5,0,0,1,Microinverters,Drone,32,10,1,0,0,Loan
+63,Dunfield County,Jan,485,34,13.53,33,Ground mount,0,28,0,1,1,Microinverters,Satellite imagery only,14,19,3,1,0,Lease
+64,Elmsworth,Jul,144,60,7.6,19,Asphalt shingle,34,18,0,1,1,String inverter with optimizers,Drone,4,14,0,0,0,Loan
+65,Ashcombe Township,Dec,156,37,11.76,28,Asphalt shingle,14,38,0,1,1,Microinverters,Drone,3,15,1,0,0,Loan
+66,Elmsworth,Oct,233,43,12.0,30,Clay tile,22,90,1,1,0,String inverter,In-person,52,12,1,0,0,Loan
+67,Ashcombe Township,Sep,430,43,5.2,13,Flat membrane,2,23,0,0,0,String inverter,Drone,12,7,2,0,0,Lease
+68,Fennmoor,Aug,355,42,11.18,26,Asphalt shingle,27,14,0,0,0,String inverter with optimizers,Drone,37,8,0,0,1,Cash
+69,Dunfield County,Oct,16,32,8.4,21,Ground mount,0,110,0,1,1,String inverter,In-person,18,12,1,0,1,Loan
+70,Ashcombe Township,Sep,0,42,18.48,44,Ground mount,0,22,0,1,0,Microinverters,Satellite imagery only,47,15,1,1,0,Loan
+71,Brindle Creek,Jul,211,50,4.73,11,Asphalt shingle,23,32,0,0,0,Microinverters,In-person,28,9,1,0,0,Loan
+72,Brindle Creek,Nov,324,30,9.6,24,Ground mount,0,8,0,1,0,Microinverters,In-person,35,13,1,0,0,Lease
+73,Ashcombe Township,Apr,415,31,9.24,22,Flat membrane,4,12,0,0,0,Microinverters,In-person,18,15,2,0,0,Loan
+74,Fennmoor,Jun,294,37,9.24,22,Asphalt shingle,18,29,0,1,1,String inverter with optimizers,In-person,7,18,2,0,1,Cash
+75,Elmsworth,Mar,42,39,5.59,13,Asphalt shingle,34,17,0,1,0,Microinverters,Satellite imagery only,83,12,2,0,0,Lease
+76,Ashcombe Township,Aug,414,44,7.98,19,Asphalt shingle,18,13,0,1,0,Microinverters,In-person,13,11,1,0,0,Cash
+77,Ashcombe Township,Oct,107,66,11.6,29,Asphalt shingle,23,20,1,0,1,Microinverters,Drone,16,15,1,1,0,Cash
+78,Fennmoor,Jun,642,34,11.07,27,Asphalt shingle,27,42,0,0,1,String inverter with optimizers,In-person,18,16,4,0,0,Loan
+79,Dunfield County,Dec,448,28,8.6,20,Clay tile,34,70,0,0,0,String inverter with optimizers,In-person,41,9,0,0,0,Cash
+80,Elmsworth,Nov,284,36,9.03,21,Asphalt shingle,27,93,0,0,0,String inverter,In-person,21,9,0,0,0,Loan
+81,Brindle Creek,Nov,330,31,9.84,24,Asphalt shingle,26,42,0,0,1,Microinverters,In-person,13,9,1,0,0,Loan
+82,Corvale,Jul,64,71,8.2,20,Ground mount,0,31,0,0,1,String inverter,Drone,12,13,2,0,1,Loan
+83,Fennmoor,Jul,33,49,13.12,32,Asphalt shingle,30,45,0,1,1,String inverter with optimizers,In-person,10,16,0,0,0,Loan
+84,Brindle Creek,Aug,411,55,6.4,16,Ground mount,0,67,0,0,0,Microinverters,In-person,11,10,0,0,0,Loan
+85,Brindle Creek,Jul,366,46,7.56,18,Asphalt shingle,22,83,0,0,0,String inverter with optimizers,Drone,6,10,0,0,0,Cash
+86,Dunfield County,Apr,198,20,14.19,33,Flat membrane,2,79,0,0,0,Microinverters,In-person,42,11,1,0,1,Loan
+87,Corvale,Jul,86,88,4.1,10,Concrete tile,27,39,0,1,1,Microinverters,Drone,14,9,0,0,0,Cash
+88,Corvale,May,20,36,14.35,35,Ground mount,0,39,0,1,1,String inverter,In-person,10,14,0,0,0,Lease
+89,Fennmoor,Aug,74,59,8.61,21,Asphalt shingle,26,3,0,1,1,Microinverters,Drone,1,10,1,0,1,Loan
+90,Elmsworth,Apr,82,42,8.2,20,Asphalt shingle,34,16,0,0,0,String inverter with optimizers,Satellite imagery only,9,10,2,0,0,Loan
+91,Corvale,Jan,382,26,10.8,27,Asphalt shingle,14,16,0,0,0,String inverter,Drone,8,10,0,1,0,Loan
+92,Ashcombe Township,Nov,60,74,9.43,23,Concrete tile,27,32,0,1,1,String inverter,Drone,13,18,1,0,0,Loan
+93,Dunfield County,Aug,697,36,7.14,17,Asphalt shingle,18,12,0,1,0,Microinverters,Drone,33,10,1,0,1,Cash
+94,Ashcombe Township,Jul,371,57,6.0,15,Asphalt shingle,26,9,0,0,0,String inverter,Drone,19,10,0,0,1,Loan
+95,Brindle Creek,Mar,247,24,7.79,19,Metal,10,22,0,1,0,String inverter with optimizers,In-person,13,12,1,0,0,Cash
+96,Elmsworth,Apr,67,43,11.18,26,Asphalt shingle,18,55,0,0,0,String inverter,Drone,37,8,0,0,0,Loan
+97,Brindle Creek,Jun,163,53,4.73,11,Metal,22,57,0,0,1,Microinverters,Drone,24,9,0,0,1,Loan
+98,Brindle Creek,Dec,356,26,8.6,20,Asphalt shingle,27,16,0,0,1,String inverter,In-person,43,11,0,0,0,Loan
+99,Ashcombe Township,May,318,49,7.98,19,Asphalt shingle,22,23,0,1,1,Microinverters,Satellite imagery only,28,14,1,0,0,Cash
+100,Fennmoor,Mar,201,22,4.92,12,Asphalt shingle,22,34,1,0,0,Microinverters,In-person,22,8,2,0,1,Cash
+101,Brindle Creek,Jun,338,38,9.84,24,Flat membrane,3,35,1,0,0,Microinverters,In-person,78,10,2,0,0,Cash
+102,Elmsworth,Apr,52,40,15.96,38,Concrete tile,18,23,0,0,0,String inverter with optimizers,In-person,20,11,2,0,1,Lease
+103,Brindle Creek,Feb,55,42,8.82,21,Ground mount,0,15,0,0,0,Microinverters,Drone,6,8,0,1,0,Lease
+104,Elmsworth,Apr,59,42,9.2,23,Clay tile,34,47,0,0,0,String inverter with optimizers,In-person,47,11,2,1,0,Loan
+105,Dunfield County,May,216,26,18.48,44,Asphalt shingle,22,10,0,1,0,Microinverters,Drone,32,13,1,0,0,Cash
+106,Dunfield County,Mar,176,18,9.2,23,Asphalt shingle,37,45,1,0,0,String inverter with optimizers,In-person,11,12,0,0,1,Loan
+107,Dunfield County,Dec,65,58,7.74,18,Concrete tile,22,30,0,0,0,Microinverters,Drone,92,9,0,0,0,Cash
+108,Fennmoor,Jan,489,23,8.82,21,Clay tile,30,57,1,0,0,String inverter,In-person,15,11,1,0,0,Lease
+109,Corvale,Jun,58,73,9.66,23,Asphalt shingle,26,14,0,0,0,String inverter with optimizers,In-person,84,14,2,0,0,Cash
+110,Dunfield County,Aug,322,45,8.4,20,Asphalt shingle,23,21,0,1,0,String inverter,Satellite imagery only,10,14,2,1,0,Lease
+111,Dunfield County,Mar,153,20,9.02,22,Clay tile,26,57,0,0,1,String inverter with optimizers,Drone,32,10,0,1,0,Loan
+112,Corvale,Nov,197,47,7.79,19,Asphalt shingle,18,4,0,0,0,Microinverters,Drone,2,8,2,0,0,Loan
+113,Fennmoor,Dec,180,24,11.6,29,Ground mount,0,42,0,1,0,String inverter with optimizers,In-person,18,12,1,0,1,Lease
+114,Dunfield County,Oct,388,31,10.08,24,Ground mount,0,40,0,0,1,String inverter with optimizers,In-person,21,14,0,0,0,Cash
+115,Fennmoor,Jul,29,46,11.76,28,Asphalt shingle,14,8,0,0,0,Microinverters,Drone,26,12,1,0,0,Loan
+116,Dunfield County,Jan,104,57,13.86,33,Asphalt shingle,23,26,0,0,1,Microinverters,In-person,29,11,2,0,0,Cash
+117,Ashcombe Township,Oct,92,84,14.35,35,Clay tile,34,78,0,1,1,String inverter,In-person,12,16,1,0,0,Loan
+118,Elmsworth,Aug,211,30,11.61,27,Asphalt shingle,27,29,0,0,0,Microinverters,Satellite imagery only,8,11,1,1,0,Cash
+119,Ashcombe Township,Jul,3,41,6.72,16,Asphalt shingle,22,69,1,0,1,Microinverters,In-person,10,13,1,1,1,Cash
+120,Ashcombe Township,Jul,389,56,8.4,21,Asphalt shingle,23,16,0,1,1,String inverter with optimizers,Drone,6,13,0,0,0,Loan
+121,Fennmoor,Apr,592,23,9.2,23,Metal,14,11,1,1,0,Microinverters,In-person,18,14,0,0,0,Cash
+122,Dunfield County,May,213,25,10.25,25,Clay tile,23,62,1,0,0,String inverter with optimizers,Drone,28,12,1,0,0,Loan
+123,Dunfield County,May,226,24,6.4,16,Ground mount,0,4,0,0,0,Microinverters,Drone,21,11,1,0,0,Cash
+124,Fennmoor,Jul,326,41,7.56,18,Concrete tile,23,8,0,0,0,Microinverters,In-person,13,9,0,0,0,Lease
+125,Fennmoor,Sep,95,65,11.2,28,Asphalt shingle,22,110,1,1,1,Microinverters,Drone,93,13,0,0,1,Loan
+126,Elmsworth,May,83,58,7.98,19,Asphalt shingle,34,95,0,0,0,Microinverters,Satellite imagery only,18,12,1,1,0,Lease
+127,Elmsworth,Dec,48,38,6.3,15,Concrete tile,30,28,0,0,0,Microinverters,In-person,108,12,1,0,1,Lease
+128,Dunfield County,Jul,276,38,7.56,18,Asphalt shingle,23,43,1,0,0,Microinverters,In-person,36,11,0,0,1,Lease
+129,Elmsworth,Jun,104,63,14.19,33,Clay tile,30,42,1,1,1,String inverter,Drone,32,14,0,0,0,Loan
+130,Ashcombe Township,Sep,1,43,9.2,23,Clay tile,22,27,1,1,1,String inverter,In-person,99,15,1,0,1,Loan
+131,Elmsworth,Jan,357,23,6.97,17,Concrete tile,26,38,1,0,0,String inverter with optimizers,Drone,73,8,0,1,1,Loan
+132,Ashcombe Township,Aug,52,75,7.98,19,Asphalt shingle,18,61,0,0,0,Microinverters,In-person,93,8,2,0,0,Loan
+133,Brindle Creek,Aug,231,55,8.2,20,Metal,14,21,0,1,0,String inverter with optimizers,In-person,87,11,1,0,1,Cash
+134,Fennmoor,Oct,110,57,13.86,33,Asphalt shingle,26,36,0,0,1,String inverter with optimizers,In-person,20,7,0,1,0,Loan
+135,Ashcombe Township,Sep,14,51,15.48,36,Metal,34,54,0,0,0,Microinverters,Satellite imagery only,15,7,0,1,0,Loan
+136,Elmsworth,Sep,198,44,5.46,13,Flat membrane,1,38,0,1,1,String inverter with optimizers,Satellite imagery only,8,14,2,0,0,Cash
+137,Ashcombe Township,Jan,320,22,7.6,19,Metal,18,45,0,1,0,Microinverters,In-person,60,12,4,1,0,Loan
+138,Fennmoor,Aug,357,41,8.82,21,Concrete tile,23,17,1,0,0,Microinverters,Satellite imagery only,15,11,2,0,0,Cash
+139,Dunfield County,Apr,191,18,6.4,16,Concrete tile,23,20,1,0,0,String inverter,In-person,30,9,3,0,1,Lease
+140,Ashcombe Township,Mar,390,30,11.48,28,Asphalt shingle,22,6,0,0,1,Microinverters,Drone,83,13,1,0,0,Cash
+141,Brindle Creek,Feb,42,35,9.02,22,Asphalt shingle,26,16,0,0,0,String inverter with optimizers,Drone,10,9,2,0,1,Loan
+142,Fennmoor,Apr,598,23,12.6,30,Asphalt shingle,23,44,0,1,1,String inverter,Satellite imagery only,18,17,3,0,1,Lease
+143,Ashcombe Township,Aug,58,78,5.74,14,Asphalt shingle,14,15,0,0,0,String inverter,Drone,30,8,0,0,0,Cash
+144,Elmsworth,Dec,51,38,5.88,14,Asphalt shingle,23,2,0,1,0,String inverter with optimizers,In-person,28,9,0,0,0,Loan
+145,Ashcombe Township,Feb,231,27,13.86,33,Metal,14,107,1,0,0,String inverter with optimizers,In-person,34,13,1,0,0,Loan
+146,Brindle Creek,Aug,419,54,10.08,24,Asphalt shingle,22,35,0,0,0,Microinverters,Satellite imagery only,14,10,1,1,0,Cash
+147,Corvale,Dec,240,42,12.3,30,Concrete tile,26,6,0,1,0,Microinverters,Satellite imagery only,144,13,1,0,1,Cash
+148,Corvale,Sep,124,86,11.76,28,Clay tile,23,95,1,1,0,Microinverters,In-person,24,15,2,0,0,Lease
+149,Elmsworth,Apr,60,46,16.8,42,Ground mount,0,13,0,1,0,String inverter,Drone,74,14,1,0,0,Cash
+150,Ashcombe Township,Sep,435,42,12.0,30,Ground mount,0,23,0,0,1,Microinverters,In-person,15,14,0,0,0,Loan
+151,Corvale,Aug,98,80,8.4,20,Asphalt shingle,18,33,0,0,0,String inverter,Satellite imagery only,50,10,1,0,1,Loan
+152,Elmsworth,Oct,267,42,7.56,18,Clay tile,26,62,1,0,0,String inverter,Satellite imagery only,21,7,0,0,1,Loan
+153,Fennmoor,Dec,467,23,6.97,17,Asphalt shingle,27,28,1,0,0,Microinverters,In-person,18,9,2,1,0,Lease
+154,Fennmoor,Jun,298,38,9.43,23,Asphalt shingle,37,26,0,1,1,String inverter with optimizers,In-person,6,13,1,0,1,Loan
+155,Brindle Creek,Jun,163,53,4.62,11,Asphalt shingle,27,21,0,1,0,String inverter with optimizers,In-person,17,11,1,0,1,Cash
+156,Fennmoor,Nov,439,26,10.66,26,Clay tile,26,96,1,1,1,String inverter,In-person,24,15,1,0,0,Cash
+157,Dunfield County,Oct,372,37,15.99,39,Asphalt shingle,37,19,0,0,1,String inverter,In-person,38,15,2,0,0,Loan
+158,Dunfield County,May,598,27,6.56,16,Asphalt shingle,18,52,0,1,1,Microinverters,Satellite imagery only,16,13,2,1,0,Cash
+159,Elmsworth,Mar,32,34,15.91,37,Ground mount,0,90,0,0,0,Microinverters,Drone,17,10,0,0,1,Lease
+160,Fennmoor,Dec,474,22,8.4,20,Concrete tile,18,35,0,1,0,String inverter,In-person,45,13,0,0,1,Cash
+161,Ashcombe Township,Dec,80,75,7.79,19,Asphalt shingle,34,5,0,1,0,Microinverters,In-person,18,10,1,0,1,Cash
+162,Dunfield County,Mar,541,25,5.74,14,Clay tile,23,34,1,1,0,Microinverters,Drone,20,13,2,0,0,Lease
+163,Dunfield County,Jul,654,40,11.07,27,Ground mount,0,12,0,1,0,String inverter,Satellite imagery only,15,11,2,1,0,Loan
+164,Ashcombe Township,May,427,30,7.31,17,Asphalt shingle,27,34,1,0,0,String inverter with optimizers,In-person,9,12,1,0,0,Cash
+165,Ashcombe Township,Dec,91,75,11.76,28,Concrete tile,27,25,1,0,1,String inverter,In-person,8,14,1,0,1,Loan
+166,Brindle Creek,Jun,173,46,6.56,16,Metal,18,17,0,0,0,Microinverters,Drone,9,8,0,0,1,Lease
+167,Brindle Creek,Jun,360,43,11.18,26,Asphalt shingle,26,56,0,1,1,Microinverters,In-person,22,13,2,0,0,Cash
+168,Corvale,Sep,138,71,8.2,20,Clay tile,18,23,0,0,0,String inverter with optimizers,Satellite imagery only,12,10,0,0,1,Loan
+169,Ashcombe Township,Sep,431,42,8.0,20,Ground mount,0,24,0,0,0,Microinverters,In-person,25,11,0,0,1,Lease
+170,Ashcombe Township,Oct,42,61,8.17,19,Asphalt shingle,23,15,0,0,0,Microinverters,In-person,27,11,2,0,1,Loan
+171,Elmsworth,Nov,27,35,13.6,34,Asphalt shingle,34,7,0,1,0,String inverter with optimizers,In-person,8,16,3,0,1,Cash
+172,Brindle Creek,Jun,155,52,9.43,23,Concrete tile,34,34,0,0,0,String inverter,Satellite imagery only,144,11,0,1,0,Cash
+173,Ashcombe Township,Apr,404,28,9.2,23,Asphalt shingle,22,87,1,0,0,Microinverters,In-person,7,11,0,0,1,Loan
+174,Fennmoor,Sep,94,65,6.45,15,Asphalt shingle,18,4,0,1,1,String inverter,Drone,12,12,0,0,0,Cash
+175,Elmsworth,May,104,51,11.89,29,Asphalt shingle,34,3,0,0,0,String inverter,In-person,49,13,3,0,1,Loan
+176,Brindle Creek,Apr,111,50,6.15,15,Metal,10,80,1,1,1,String inverter with optimizers,Drone,18,13,1,0,0,Loan
+177,Dunfield County,Jul,302,43,9.43,23,Metal,18,72,0,0,0,String inverter with optimizers,In-person,16,11,0,0,0,Lease
+178,Ashcombe Township,Dec,177,36,7.14,17,Asphalt shingle,30,26,0,0,0,Microinverters,In-person,7,9,0,0,0,Cash
+179,Brindle Creek,Jan,22,33,11.34,27,Asphalt shingle,14,66,0,0,0,Microinverters,Satellite imagery only,44,10,0,1,0,Cash
+180,Fennmoor,Nov,448,25,11.18,26,Asphalt shingle,27,10,0,0,0,String inverter,In-person,25,10,1,0,0,Cash
+181,Ashcombe Township,May,309,40,10.8,27,Concrete tile,18,12,0,0,0,Microinverters,Drone,110,13,4,1,1,Loan
+182,Dunfield County,Dec,435,24,8.61,21,Asphalt shingle,18,31,0,1,1,String inverter,Drone,43,11,0,1,0,Cash
+183,Elmsworth,Jun,102,63,7.14,17,Asphalt shingle,40,41,0,0,0,String inverter with optimizers,In-person,13,7,0,0,1,Loan
+184,Dunfield County,Mar,174,17,7.14,17,Asphalt shingle,22,26,1,0,1,Microinverters,In-person,34,14,1,0,0,Loan
+185,Fennmoor,Jul,322,37,8.4,20,Concrete tile,22,15,1,1,0,Microinverters,In-person,6,12,3,0,1,Loan
+186,Ashcombe Township,Mar,371,25,9.89,23,Metal,10,60,0,1,0,Microinverters,Satellite imagery only,24,11,1,1,1,Lease
+187,Dunfield County,Sep,344,44,7.56,18,Asphalt shingle,22,12,0,1,0,String inverter,Drone,5,13,1,1,0,Loan
+188,Fennmoor,Oct,134,51,4.4,11,Metal,18,20,1,0,0,String inverter with optimizers,Satellite imagery only,21,9,0,0,1,Loan
+189,Brindle Creek,Jul,203,49,16.8,40,Asphalt shingle,30,42,0,1,1,Microinverters,In-person,13,17,2,0,0,Lease
+190,Brindle Creek,Aug,229,57,6.72,16,Clay tile,22,30,0,0,0,Microinverters,Satellite imagery only,16,7,0,0,1,Cash
+191,Ashcombe Township,Aug,53,75,9.24,22,Concrete tile,22,19,0,0,1,Microinverters,In-person,10,11,0,0,1,Loan
+192,Ashcombe Township,Apr,412,31,15.48,36,Flat membrane,1,30,1,0,1,String inverter,Drone,27,14,0,0,0,Loan
+193,Corvale,Feb,408,30,12.3,30,Ground mount,0,21,0,0,0,String inverter with optimizers,In-person,9,12,1,0,0,Loan
+194,Fennmoor,Oct,135,50,9.02,22,Asphalt shingle,37,46,0,0,1,Microinverters,Satellite imagery only,26,14,1,0,1,Cash
+195,Ashcombe Township,Jan,210,29,6.97,17,Asphalt shingle,30,37,0,0,0,String inverter,Drone,14,10,0,0,0,Loan
+196,Brindle Creek,Mar,250,22,12.18,29,Asphalt shingle,26,4,0,0,0,String inverter with optimizers,In-person,19,7,0,0,0,Cash
+197,Elmsworth,Jun,132,38,8.8,22,Metal,22,26,0,0,0,Microinverters,In-person,8,9,0,0,1,Cash
+198,Elmsworth,Aug,171,50,6.88,16,Asphalt shingle,14,20,0,0,0,String inverter with optimizers,In-person,37,10,0,0,1,Loan
+199,Dunfield County,Oct,385,30,3.6,9,Asphalt shingle,26,31,0,1,0,Microinverters,In-person,43,10,1,0,0,Lease
+200,Corvale,Jul,81,77,10.08,24,Ground mount,0,65,0,0,0,Microinverters,In-person,10,11,2,0,1,Lease
+201,Ashcombe Township,Oct,18,49,7.79,19,Asphalt shingle,40,97,1,0,1,String inverter,Drone,58,13,1,0,0,Lease
+202,Brindle Creek,Jul,188,48,10.92,26,Metal,22,23,0,0,0,String inverter,Drone,13,15,5,0,0,Loan
+203,Elmsworth,Sep,221,35,7.38,18,Metal,22,51,0,1,0,Microinverters,In-person,1,8,1,0,0,Lease
+204,Ashcombe Township,May,434,30,8.61,21,Asphalt shingle,34,42,0,0,0,Microinverters,Satellite imagery only,11,10,1,1,0,Loan
+205,Brindle Creek,Apr,303,28,5.6,14,Metal,14,47,0,0,0,Microinverters,In-person,124,10,0,0,0,Loan
+206,Corvale,Sep,157,54,12.04,28,Clay tile,34,41,1,0,1,Microinverters,In-person,1,12,0,0,0,Loan
+207,Fennmoor,Aug,68,58,8.2,20,Asphalt shingle,22,16,0,0,1,String inverter,Drone,18,11,2,0,1,Loan
+208,Dunfield County,Aug,321,46,6.56,16,Asphalt shingle,34,51,0,0,0,String inverter with optimizers,In-person,31,9,0,0,0,Lease
+209,Brindle Creek,Jun,163,53,14.28,34,Asphalt shingle,14,21,0,0,0,String inverter with optimizers,In-person,13,12,0,0,0,Cash
+210,Fennmoor,Sep,81,64,6.0,15,Asphalt shingle,18,34,0,1,0,String inverter with optimizers,Drone,72,13,2,0,0,Lease
+211,Fennmoor,Nov,158,36,12.3,30,Ground mount,0,30,0,1,0,Microinverters,Satellite imagery only,24,16,3,1,0,Lease
+212,Corvale,Oct,155,66,9.02,22,Asphalt shingle,18,39,1,1,1,String inverter,In-person,57,16,0,0,0,Loan
+213,Corvale,Jul,62,72,10.8,27,Ground mount,0,58,0,1,1,String inverter,In-person,55,16,1,0,1,Loan
+214,Corvale,Mar,435,33,12.18,29,Clay tile,26,86,1,1,1,String inverter with optimizers,In-person,14,13,1,0,1,Lease
+215,Dunfield County,Apr,184,20,10.66,26,Asphalt shingle,34,7,1,0,1,String inverter,In-person,25,14,0,0,0,Lease
+216,Fennmoor,Oct,114,55,7.56,18,Flat membrane,1,6,0,0,0,String inverter,In-person,9,9,0,0,1,Lease
+217,Ashcombe Township,May,312,43,18.48,44,Ground mount,0,25,1,1,1,Microinverters,In-person,20,17,2,0,0,Cash
+218,Ashcombe Township,Jun,354,61,8.61,21,Metal,14,17,0,0,0,String inverter with optimizers,Drone,9,12,2,0,0,Cash
+219,Brindle Creek,Aug,403,54,8.2,20,Asphalt shingle,34,19,0,0,0,String inverter with optimizers,Drone,56,11,1,0,0,Loan
+220,Dunfield County,Apr,549,22,6.4,16,Asphalt shingle,23,39,0,0,0,Microinverters,In-person,14,9,0,0,0,Loan
+221,Ashcombe Township,Jul,368,58,10.75,25,Asphalt shingle,30,7,0,0,0,String inverter,In-person,53,9,1,0,0,Cash
+222,Brindle Creek,Apr,293,23,10.0,25,Ground mount,0,28,0,0,0,String inverter with optimizers,In-person,6,12,0,0,0,Loan
+223,Dunfield County,Feb,513,33,6.8,17,Clay tile,18,54,1,0,1,Microinverters,Satellite imagery only,31,9,0,0,1,Loan
+224,Fennmoor,Jul,36,50,10.92,26,Asphalt shingle,18,35,0,1,0,String inverter with optimizers,Satellite imagery only,5,15,3,0,0,Lease
+225,Corvale,Jul,76,80,15.96,38,Flat membrane,2,21,0,0,0,String inverter,In-person,50,15,2,0,0,Cash
+226,Elmsworth,Jul,139,59,11.07,27,Asphalt shingle,22,48,0,0,0,String inverter,Drone,10,11,0,0,0,Loan
+227,Brindle Creek,Aug,240,53,7.79,19,Asphalt shingle,34,14,0,0,0,Microinverters,Drone,53,8,0,0,1,Loan
+228,Fennmoor,May,636,34,18.04,44,Metal,14,6,0,0,1,Microinverters,Drone,26,11,1,0,0,Loan
+229,Brindle Creek,May,133,51,12.4,31,Asphalt shingle,27,15,0,0,0,Microinverters,Satellite imagery only,7,7,1,1,0,Lease
+230,Dunfield County,Aug,328,43,4.62,11,Asphalt shingle,30,21,0,0,0,String inverter,In-person,13,10,0,0,1,Cash
+231,Elmsworth,Jun,132,38,9.03,21,Asphalt shingle,27,19,0,0,0,Microinverters,In-person,15,12,1,0,0,Lease
+232,Corvale,May,27,39,10.8,27,Concrete tile,23,23,0,0,0,String inverter,Drone,56,11,0,1,0,Lease
+233,Fennmoor,Sep,106,61,6.97,17,Asphalt shingle,30,76,0,0,0,String inverter with optimizers,Satellite imagery only,11,10,1,0,0,Loan
+234,Ashcombe Township,Aug,401,50,6.72,16,Asphalt shingle,26,34,0,0,0,Microinverters,In-person,7,11,1,0,0,Cash
+235,Ashcombe Township,Sep,427,42,9.24,22,Asphalt shingle,34,21,1,0,1,String inverter,In-person,21,11,1,0,0,Lease
+236,Dunfield County,Nov,36,39,7.14,17,Metal,10,24,0,0,0,String inverter with optimizers,Satellite imagery only,30,11,1,0,1,Loan
+237,Ashcombe Township,Sep,14,51,8.61,21,Ground mount,0,18,0,0,0,Microinverters,Satellite imagery only,20,7,0,1,0,Loan
+238,Brindle Creek,Jul,369,46,5.04,12,Concrete tile,30,30,1,0,1,Microinverters,Satellite imagery only,6,9,0,0,0,Lease
+239,Elmsworth,Nov,277,37,11.34,27,Asphalt shingle,26,6,0,1,0,Microinverters,Satellite imagery only,8,14,1,0,0,Loan
+240,Dunfield County,Jan,118,47,8.2,20,Asphalt shingle,22,11,0,0,0,Microinverters,Drone,20,10,2,1,1,Cash
+241,Ashcombe Township,Mar,384,29,7.74,18,Asphalt shingle,18,34,0,0,0,String inverter,In-person,81,9,1,1,0,Cash
+242,Elmsworth,Feb,0,27,10.08,24,Concrete tile,22,88,1,0,1,String inverter,In-person,12,12,0,0,1,Loan
+243,Corvale,Aug,95,82,12.18,29,Ground mount,0,30,0,0,0,String inverter,Drone,9,13,1,0,1,Loan
+244,Elmsworth,Dec,30,34,9.84,24,Asphalt shingle,23,21,0,0,0,String inverter,In-person,18,7,1,1,0,Cash
+245,Brindle Creek,Aug,215,50,4.2,10,Concrete tile,34,97,1,0,0,String inverter,Drone,13,10,2,0,0,Cash
+246,Brindle Creek,Jul,190,48,7.79,19,Asphalt shingle,27,46,1,0,0,Microinverters,In-person,7,7,0,0,0,Loan
+247,Dunfield County,Sep,350,41,9.2,23,Asphalt shingle,23,67,1,0,1,String inverter with optimizers,In-person,10,14,1,0,0,Cash
+248,Ashcombe Township,Oct,23,49,9.2,23,Asphalt shingle,22,15,0,0,1,Microinverters,Drone,108,9,0,0,0,Cash
+249,Dunfield County,Jun,244,32,7.56,18,Asphalt shingle,26,39,0,0,0,String inverter with optimizers,In-person,21,6,0,0,0,Loan
+250,Ashcombe Township,Jul,16,60,6.0,15,Asphalt shingle,22,59,1,0,0,Microinverters,Satellite imagery only,25,10,0,1,0,Loan
+251,Corvale,Jun,60,73,14.4,36,Clay tile,23,88,0,0,0,Microinverters,Satellite imagery only,11,9,0,0,0,Lease
+252,Brindle Creek,Oct,472,52,5.74,14,Asphalt shingle,37,12,0,0,0,String inverter with optimizers,Drone,16,7,1,1,0,Loan
+253,Corvale,Jan,266,43,5.46,13,Asphalt shingle,14,15,0,0,0,Microinverters,Satellite imagery only,6,8,0,0,1,Lease
+254,Fennmoor,Apr,215,21,9.66,23,Asphalt shingle,27,62,0,0,0,String inverter,In-person,6,8,0,0,0,Loan
+255,Corvale,Jul,105,89,8.6,20,Metal,14,34,0,0,0,Microinverters,In-person,30,13,1,0,0,Loan
+256,Corvale,May,29,44,8.8,22,Asphalt shingle,14,36,1,0,1,Microinverters,In-person,21,12,1,0,0,Cash
+257,Dunfield County,Sep,335,42,6.15,15,Asphalt shingle,22,32,0,0,0,Microinverters,In-person,5,7,0,1,0,Loan
+258,Elmsworth,Jun,111,67,3.36,8,Asphalt shingle,26,6,1,1,0,String inverter,In-person,25,13,1,0,0,Loan
+259,Brindle Creek,Jul,189,48,7.31,17,Asphalt shingle,26,31,0,0,0,String inverter,Drone,9,10,2,0,0,Loan
+260,Brindle Creek,Jul,375,47,11.89,29,Asphalt shingle,37,47,0,1,1,String inverter,In-person,51,12,1,0,0,Loan
+261,Elmsworth,Nov,277,37,13.2,33,Metal,18,55,0,0,0,Microinverters,Drone,5,7,0,0,1,Lease
+262,Dunfield County,Feb,507,34,11.34,27,Concrete tile,22,6,0,0,0,Microinverters,Drone,17,12,1,0,1,Loan
+263,Elmsworth,Jan,244,27,9.24,22,Asphalt shingle,27,28,1,0,0,Microinverters,Drone,101,8,0,1,0,Cash
+264,Dunfield County,Jun,254,32,6.8,17,Asphalt shingle,18,67,1,1,0,String inverter,Satellite imagery only,4,13,1,0,0,Cash
+265,Elmsworth,Aug,156,52,9.24,22,Asphalt shingle,23,22,0,0,0,String inverter,In-person,47,10,0,0,1,Cash
+266,Elmsworth,Sep,223,36,5.6,14,Flat membrane,5,30,1,0,0,String inverter,In-person,25,11,2,1,0,Loan
+267,Brindle Creek,Dec,344,28,10.0,25,Asphalt shingle,14,13,0,1,0,Microinverters,In-person,37,14,0,1,0,Cash
+268,Elmsworth,Mar,23,25,6.4,16,Metal,27,13,0,1,1,String inverter,Satellite imagery only,13,16,1,0,1,Loan
+269,Dunfield County,May,227,24,13.02,31,Asphalt shingle,27,3,0,0,0,String inverter,In-person,29,12,1,0,0,Loan
+270,Brindle Creek,Sep,432,57,7.31,17,Flat membrane,3,75,0,0,0,String inverter with optimizers,Drone,144,10,1,0,0,Cash
+271,Brindle Creek,Jan,30,33,7.38,18,Asphalt shingle,23,13,0,0,0,Microinverters,In-person,50,10,0,0,0,Lease
+272,Corvale,Dec,244,26,4.3,10,Concrete tile,26,5,0,1,1,Microinverters,In-person,5,9,0,0,1,Loan
+273,Corvale,Jan,283,47,10.08,24,Metal,22,25,0,1,1,Microinverters,In-person,23,18,1,0,1,Cash
+274,Fennmoor,Sep,376,38,8.61,21,Asphalt shingle,34,52,1,1,1,String inverter,Satellite imagery only,6,13,0,0,1,Cash
+275,Brindle Creek,Dec,363,25,10.92,26,Asphalt shingle,22,30,0,1,0,Microinverters,In-person,40,12,1,1,0,Loan
+276,Dunfield County,May,219,25,10.32,24,Ground mount,0,70,0,0,0,String inverter with optimizers,In-person,6,13,0,0,0,Cash
+277,Ashcombe Township,Sep,65,81,9.84,24,Ground mount,0,17,0,0,0,Microinverters,In-person,34,13,1,0,1,Loan
+278,Ashcombe Township,Jun,364,59,11.2,28,Metal,22,29,0,0,0,String inverter with optimizers,Satellite imagery only,28,12,0,0,1,Loan
+279,Dunfield County,Apr,571,21,7.14,17,Asphalt shingle,27,12,0,1,0,String inverter with optimizers,In-person,20,10,1,1,0,Loan
+280,Brindle Creek,Feb,33,33,6.3,15,Asphalt shingle,26,36,0,1,0,Microinverters,Satellite imagery only,22,12,1,0,0,Lease
+281,Brindle Creek,Oct,274,45,13.12,32,Concrete tile,22,21,1,0,0,String inverter with optimizers,Satellite imagery only,30,9,0,0,0,Cash
+282,Brindle Creek,Jan,27,33,16.8,40,Clay tile,26,24,0,0,0,String inverter,In-person,5,11,0,0,1,Loan
+283,Elmsworth,Jun,93,62,7.56,18,Asphalt shingle,26,38,0,0,0,Microinverters,Drone,46,9,0,0,0,Lease
+284,Dunfield County,Aug,311,44,9.2,23,Asphalt shingle,30,46,0,0,1,String inverter,In-person,64,9,0,0,1,Lease
+285,Ashcombe Township,Oct,29,55,14.28,34,Asphalt shingle,27,59,1,0,1,String inverter,Satellite imagery only,14,12,0,0,1,Cash
+286,Brindle Creek,Jul,368,45,7.38,18,Asphalt shingle,27,79,0,1,1,String inverter,In-person,41,16,0,1,0,Cash
+287,Ashcombe Township,Sep,72,86,8.4,20,Asphalt shingle,14,62,1,0,0,String inverter with optimizers,In-person,9,10,1,0,0,Loan
+288,Ashcombe Township,Jun,336,62,6.15,15,Asphalt shingle,22,31,0,1,1,Microinverters,In-person,10,13,2,0,0,Cash
+289,Ashcombe Township,Jun,359,62,6.72,16,Flat membrane,1,53,1,0,0,Microinverters,In-person,13,9,1,0,0,Loan
+290,Corvale,Oct,185,39,6.72,16,Asphalt shingle,40,5,1,1,0,String inverter,In-person,17,11,1,0,1,Cash
+291,Brindle Creek,Mar,248,23,9.2,23,Asphalt shingle,26,37,0,0,0,Microinverters,In-person,21,9,0,0,0,Cash
+292,Brindle Creek,May,138,48,8.8,22,Metal,22,12,0,1,0,String inverter with optimizers,Satellite imagery only,17,12,3,0,0,Lease
+293,Ashcombe Township,Mar,249,28,7.2,18,Asphalt shingle,30,75,1,0,0,String inverter,In-person,20,11,1,1,0,Loan
+294,Dunfield County,Nov,57,59,6.72,16,Asphalt shingle,27,30,0,0,0,String inverter,In-person,96,8,0,1,1,Loan
+295,Brindle Creek,Jul,388,55,6.72,16,Ground mount,0,14,0,0,0,Microinverters,Drone,12,10,0,0,1,Cash
+296,Ashcombe Township,Oct,42,61,9.03,21,Ground mount,0,52,0,0,0,Microinverters,Drone,89,11,1,0,0,Loan
+297,Elmsworth,Jul,152,30,6.8,17,Concrete tile,26,69,1,1,0,String inverter,Satellite imagery only,63,15,3,1,0,Cash
+298,Brindle Creek,Jul,366,46,12.9,30,Ground mount,0,22,1,1,1,String inverter,In-person,17,17,2,0,1,Loan
+299,Ashcombe Township,Mar,378,24,8.61,21,Asphalt shingle,40,7,0,0,1,Microinverters,In-person,33,12,1,0,0,Loan
+300,Fennmoor,Feb,544,18,9.84,24,Metal,18,41,1,1,0,String inverter,In-person,3,13,1,0,1,Loan
+301,Dunfield County,Oct,378,30,11.76,28,Asphalt shingle,22,21,1,1,1,String inverter with optimizers,Drone,8,14,4,0,0,Loan
+302,Ashcombe Township,Dec,163,32,6.02,14,Concrete tile,23,60,1,0,1,String inverter with optimizers,In-person,55,14,1,0,0,Loan
+303,Fennmoor,Jun,8,37,9.89,23,Concrete tile,26,54,1,0,0,String inverter,Drone,144,10,2,0,0,Cash
+304,Dunfield County,Dec,435,24,14.76,36,Ground mount,0,56,0,0,1,String inverter,In-person,20,16,1,0,1,Loan
+305,Ashcombe Township,Aug,58,78,6.45,15,Asphalt shingle,22,19,0,1,0,String inverter with optimizers,In-person,29,13,1,0,0,Loan
+306,Elmsworth,Apr,85,43,7.6,19,Ground mount,0,29,0,0,0,String inverter with optimizers,In-person,11,10,1,0,1,Cash
+307,Corvale,Sep,123,88,8.4,20,Asphalt shingle,23,47,1,1,0,Microinverters,In-person,47,15,4,0,0,Loan
+308,Brindle Creek,Aug,224,55,11.07,27,Asphalt shingle,40,42,0,0,0,String inverter,Satellite imagery only,17,10,0,1,0,Lease
+309,Brindle Creek,Jul,183,49,6.97,17,Flat membrane,1,6,0,0,0,Microinverters,In-person,12,8,1,0,0,Lease
+310,Brindle Creek,Nov,515,34,9.66,23,Asphalt shingle,34,8,0,0,1,Microinverters,Drone,76,9,0,0,0,Loan
+311,Brindle Creek,Jul,366,46,8.2,20,Ground mount,0,40,0,1,0,String inverter with optimizers,Drone,11,11,1,1,0,Loan
+312,Corvale,May,20,36,4.51,11,Metal,27,55,0,0,0,Microinverters,In-person,25,9,0,0,0,Loan
+313,Elmsworth,Sep,216,34,12.18,29,Asphalt shingle,18,14,0,0,0,String inverter with optimizers,In-person,6,9,1,0,0,Loan
+314,Corvale,May,12,34,10.08,24,Asphalt shingle,14,25,0,0,0,Microinverters,In-person,14,10,2,0,0,Cash
+315,Corvale,Sep,152,65,15.17,37,Ground mount,0,88,0,1,1,String inverter with optimizers,In-person,63,19,0,0,1,Loan
+316,Brindle Creek,Mar,79,45,5.74,14,Asphalt shingle,14,40,0,0,0,String inverter with optimizers,Satellite imagery only,23,9,1,0,0,Cash
+317,Ashcombe Township,Oct,16,50,11.76,28,Concrete tile,27,90,1,0,0,Microinverters,In-person,27,13,1,1,0,Lease
+318,Brindle Creek,Oct,288,44,14.35,35,Ground mount,0,79,0,1,1,String inverter with optimizers,Drone,27,15,1,1,1,Cash
+319,Brindle Creek,Apr,96,48,5.88,14,Asphalt shingle,30,26,0,1,0,Microinverters,In-person,42,8,1,0,0,Lease
+320,Dunfield County,Oct,371,36,11.89,29,Ground mount,0,38,0,0,1,Microinverters,In-person,121,10,0,0,0,Cash
+321,Dunfield County,Jul,662,38,15.48,36,Concrete tile,34,90,1,1,1,Microinverters,Drone,43,15,1,0,0,Lease
+322,Elmsworth,Aug,173,50,8.61,21,Ground mount,0,22,0,0,0,String inverter,Satellite imagery only,17,11,0,1,1,Loan
+323,Fennmoor,Jan,493,23,8.4,21,Clay tile,23,56,1,0,0,Microinverters,In-person,10,11,1,0,1,Loan
+324,Ashcombe Township,Jul,387,57,11.07,27,Asphalt shingle,22,19,0,0,0,String inverter,Drone,16,10,1,0,0,Cash
+325,Corvale,May,8,32,6.56,16,Clay tile,27,44,0,1,0,Microinverters,In-person,24,10,0,0,1,Loan
+326,Dunfield County,Sep,352,41,12.4,31,Ground mount,0,13,0,0,0,Microinverters,Drone,17,12,1,0,1,Lease
+327,Fennmoor,Jul,30,46,5.88,14,Concrete tile,22,25,0,1,1,String inverter,Satellite imagery only,14,11,1,0,0,Cash
+328,Ashcombe Township,Nov,123,57,4.92,12,Asphalt shingle,34,18,1,1,0,Microinverters,In-person,21,10,1,0,1,Cash
+329,Fennmoor,Apr,221,25,11.76,28,Asphalt shingle,22,79,1,0,1,Microinverters,In-person,112,14,3,0,0,Loan
+330,Fennmoor,Apr,222,25,10.8,27,Asphalt shingle,34,8,0,0,0,Microinverters,Satellite imagery only,144,13,1,0,0,Loan
+331,Ashcombe Township,Oct,18,49,9.24,22,Ground mount,0,8,0,1,0,String inverter with optimizers,Drone,95,11,1,0,1,Cash
+332,Brindle Creek,Aug,239,52,11.34,27,Asphalt shingle,18,49,0,0,0,String inverter with optimizers,In-person,23,11,2,0,0,Lease
+333,Fennmoor,Jan,493,23,5.46,13,Metal,18,21,1,1,0,String inverter,Satellite imagery only,52,15,2,0,1,Cash
+334,Dunfield County,Sep,706,35,9.24,22,Clay tile,22,52,0,0,1,String inverter,In-person,5,9,0,0,0,Loan
+335,Elmsworth,Apr,89,47,15.05,35,Clay tile,22,58,0,0,0,String inverter with optimizers,Satellite imagery only,20,13,2,0,1,Loan
+336,Ashcombe Township,Jul,365,59,6.56,16,Asphalt shingle,18,92,1,0,0,Microinverters,In-person,5,12,2,0,0,Cash
+337,Ashcombe Township,Aug,406,48,6.97,17,Metal,18,103,1,1,1,Microinverters,Satellite imagery only,32,15,0,0,1,Loan
+338,Ashcombe Township,Sep,67,82,11.07,27,Ground mount,0,54,0,0,0,String inverter with optimizers,In-person,5,13,2,0,0,Loan
+339,Elmsworth,Dec,328,29,7.2,18,Concrete tile,26,22,1,1,1,String inverter with optimizers,Drone,6,19,2,0,0,Loan
+340,Fennmoor,Mar,560,18,8.8,22,Asphalt shingle,27,91,1,0,1,String inverter with optimizers,In-person,70,13,2,0,0,Cash
+341,Brindle Creek,Jun,154,51,8.2,20,Asphalt shingle,37,9,0,1,0,String inverter with optimizers,In-person,16,14,2,0,0,Loan
+342,Ashcombe Township,Jan,203,29,7.98,19,Asphalt shingle,40,88,1,1,1,String inverter with optimizers,In-person,9,14,2,1,0,Cash
+343,Corvale,Oct,165,57,6.15,15,Asphalt shingle,23,102,1,0,0,Microinverters,Drone,23,8,0,0,1,Loan
+344,Ashcombe Township,Dec,171,32,7.2,18,Asphalt shingle,23,29,0,0,0,String inverter,In-person,18,10,0,0,0,Lease
+345,Fennmoor,Jun,278,31,11.07,27,Asphalt shingle,18,44,1,1,1,String inverter,In-person,78,16,0,1,0,Lease
+346,Ashcombe Township,Dec,162,31,10.75,25,Metal,14,1,0,0,1,String inverter,In-person,18,11,3,0,0,Lease
+347,Ashcombe Township,Sep,63,78,9.84,24,Ground mount,0,24,0,0,0,Microinverters,In-person,20,11,0,0,0,Loan
+348,Brindle Creek,Jun,163,53,9.43,23,Ground mount,0,25,0,0,1,String inverter with optimizers,Satellite imagery only,14,15,0,1,0,Loan
+349,Brindle Creek,Jul,183,49,9.46,22,Asphalt shingle,27,20,0,1,0,Microinverters,In-person,28,14,0,0,0,Lease
+350,Ashcombe Township,Dec,164,32,8.6,20,Asphalt shingle,30,14,0,0,1,String inverter,In-person,21,13,0,0,0,Lease
+351,Dunfield County,Sep,343,45,8.82,21,Ground mount,0,32,0,1,0,Microinverters,In-person,12,11,0,0,1,Lease
+352,Ashcombe Township,Apr,415,31,9.02,22,Asphalt shingle,26,13,0,0,1,Microinverters,Drone,44,6,0,0,0,Loan
+353,Corvale,Sep,124,86,6.15,15,Flat membrane,2,2,0,1,0,String inverter with optimizers,Satellite imagery only,13,13,3,0,0,Cash
+354,Dunfield County,Aug,308,45,6.8,17,Asphalt shingle,26,8,0,0,0,Microinverters,Satellite imagery only,19,8,0,0,1,Lease
+355,Dunfield County,Apr,555,20,6.88,16,Asphalt shingle,18,26,0,1,0,String inverter with optimizers,In-person,39,12,2,1,0,Loan
+356,Ashcombe Township,Sep,73,86,7.6,19,Concrete tile,22,101,1,1,1,Microinverters,In-person,20,12,0,0,0,Loan
+357,Dunfield County,Aug,696,36,12.71,31,Ground mount,0,22,0,1,0,String inverter,In-person,12,13,1,0,1,Loan
+358,Dunfield County,Jul,289,47,8.6,20,Asphalt shingle,22,29,0,0,0,Microinverters,In-person,21,12,1,0,0,Cash
+359,Fennmoor,Sep,375,37,8.4,21,Ground mount,0,35,0,0,0,String inverter with optimizers,Drone,141,12,2,0,0,Loan
+360,Corvale,Oct,162,61,9.2,23,Clay tile,30,74,0,1,0,Microinverters,Drone,16,14,1,0,0,Lease
+361,Ashcombe Township,Aug,45,78,8.0,20,Concrete tile,27,23,1,0,0,String inverter,Satellite imagery only,37,10,0,0,1,Lease
+362,Fennmoor,Jan,504,21,10.32,24,Asphalt shingle,23,25,1,1,0,String inverter,Satellite imagery only,36,15,1,1,1,Loan
+363,Dunfield County,Aug,324,44,8.61,21,Asphalt shingle,22,32,0,0,0,String inverter with optimizers,In-person,18,10,1,1,0,Loan
+364,Ashcombe Township,Nov,65,74,10.92,26,Ground mount,0,93,0,1,1,String inverter with optimizers,Drone,5,14,0,0,1,Loan
+365,Dunfield County,Jul,286,45,10.92,26,Asphalt shingle,40,13,0,0,0,String inverter with optimizers,Drone,33,11,1,1,0,Loan
+366,Dunfield County,Mar,163,17,7.56,18,Asphalt shingle,23,48,0,0,0,String inverter,Drone,7,8,2,0,0,Loan
+367,Elmsworth,Oct,233,43,8.17,19,Concrete tile,18,40,0,0,1,Microinverters,In-person,54,9,0,0,0,Loan
+368,Ashcombe Township,Jul,379,58,11.18,26,Ground mount,0,33,0,0,0,Microinverters,Satellite imagery only,40,9,0,0,0,Cash
+369,Fennmoor,Jan,146,19,7.56,18,Asphalt shingle,30,42,1,0,0,Microinverters,Satellite imagery only,22,11,0,0,0,Loan
+370,Corvale,Jun,52,69,6.15,15,Asphalt shingle,22,29,0,0,0,String inverter with optimizers,Satellite imagery only,5,9,1,0,0,Lease
+371,Dunfield County,Jul,646,37,5.88,14,Asphalt shingle,18,34,1,0,0,Microinverters,In-person,23,9,1,0,0,Lease
+372,Dunfield County,Jun,265,36,6.15,15,Metal,27,13,0,0,0,String inverter with optimizers,In-person,26,10,1,0,0,Loan
+373,Brindle Creek,Apr,98,50,5.6,14,Clay tile,22,52,1,0,0,Microinverters,In-person,24,9,0,0,1,Cash
+374,Corvale,Oct,169,58,10.92,26,Asphalt shingle,27,80,1,1,1,String inverter with optimizers,Drone,29,15,1,0,1,Cash
+375,Dunfield County,Nov,402,31,10.25,25,Ground mount,0,35,0,0,0,Microinverters,Drone,15,11,0,0,1,Cash
+376,Fennmoor,Nov,166,33,9.24,22,Metal,22,65,0,0,1,Microinverters,In-person,23,11,1,0,1,Lease
+377,Ashcombe Township,Aug,420,48,7.56,18,Asphalt shingle,26,13,0,1,1,String inverter,In-person,29,17,2,0,0,Cash
+378,Elmsworth,May,79,55,9.84,24,Asphalt shingle,27,62,0,0,0,String inverter with optimizers,In-person,72,7,0,0,1,Loan
+379,Ashcombe Township,Mar,249,28,12.3,30,Ground mount,0,81,0,0,0,String inverter,In-person,24,14,2,0,1,Cash
+380,Fennmoor,Aug,58,61,9.89,23,Asphalt shingle,22,31,0,1,0,String inverter with optimizers,Drone,18,11,0,0,0,Loan
+381,Elmsworth,May,120,47,12.04,28,Metal,14,15,0,0,0,String inverter,In-person,144,9,1,0,1,Loan
+382,Dunfield County,Aug,321,46,3.36,8,Asphalt shingle,22,19,0,0,0,Microinverters,Drone,9,8,1,1,0,Cash
+383,Elmsworth,Aug,178,45,6.56,16,Ground mount,0,20,0,0,1,Microinverters,Satellite imagery only,28,11,1,0,0,Lease
+384,Fennmoor,Jul,334,40,7.98,19,Asphalt shingle,23,66,0,0,0,String inverter,Drone,26,10,1,0,1,Loan
+385,Dunfield County,Jan,107,53,7.56,18,Asphalt shingle,18,35,0,0,0,Microinverters,Drone,5,9,3,0,0,Loan
+386,Brindle Creek,Aug,426,54,11.48,28,Asphalt shingle,23,41,0,0,0,String inverter with optimizers,Drone,6,12,0,0,0,Cash
+387,Ashcombe Township,Aug,423,47,10.25,25,Metal,18,30,0,0,0,String inverter,Satellite imagery only,42,9,1,0,1,Loan
+388,Corvale,Jul,70,75,8.2,20,Asphalt shingle,22,41,0,1,0,String inverter with optimizers,In-person,20,12,1,1,1,Lease
+389,Brindle Creek,Sep,438,56,6.15,15,Asphalt shingle,18,30,0,0,0,String inverter,Drone,14,11,2,0,0,Loan
+390,Dunfield County,Jul,300,43,10.25,25,Asphalt shingle,27,52,0,0,0,String inverter with optimizers,Drone,59,10,0,0,1,Lease
+391,Brindle Creek,Aug,226,57,9.84,24,Asphalt shingle,34,28,0,1,0,Microinverters,Satellite imagery only,13,13,3,0,1,Cash
+392,Elmsworth,Mar,56,45,8.82,21,Asphalt shingle,14,43,1,1,0,String inverter with optimizers,In-person,34,17,3,0,0,Cash
+393,Fennmoor,Oct,423,26,4.62,11,Asphalt shingle,37,14,0,0,0,Microinverters,In-person,3,14,1,0,1,Lease
+394,Ashcombe Township,Oct,93,86,7.98,19,Asphalt shingle,27,12,0,0,0,String inverter with optimizers,Satellite imagery only,12,9,0,0,0,Loan
+395,Ashcombe Township,Jul,392,59,7.56,18,Asphalt shingle,34,45,0,0,0,String inverter,Satellite imagery only,10,7,0,0,0,Loan
+396,Dunfield County,Mar,167,17,16.4,40,Asphalt shingle,22,11,0,1,1,Microinverters,In-person,24,16,1,0,0,Loan
+397,Fennmoor,Jun,280,33,4.92,12,Metal,27,52,0,0,0,Microinverters,In-person,67,7,1,0,1,Cash
+398,Elmsworth,Dec,321,31,7.79,19,Metal,18,41,0,1,0,String inverter with optimizers,Satellite imagery only,14,11,3,0,1,Loan
+399,Brindle Creek,Nov,517,33,10.5,25,Asphalt shingle,22,48,1,0,0,Microinverters,Drone,38,12,1,0,0,Loan
+400,Fennmoor,Sep,79,61,12.18,29,Ground mount,0,35,0,0,0,String inverter with optimizers,In-person,8,13,1,0,1,Loan
+401,Corvale,Feb,295,44,5.33,13,Asphalt shingle,30,57,1,1,0,String inverter,In-person,8,12,0,0,0,Loan
+402,Brindle Creek,Jul,202,49,6.72,16,Ground mount,0,56,0,0,0,Microinverters,In-person,18,10,2,0,1,Loan
+403,Fennmoor,Jun,643,34,7.6,19,Asphalt shingle,26,29,1,0,0,Microinverters,In-person,6,10,1,0,1,Loan
+404,Dunfield County,Dec,448,28,5.6,14,Concrete tile,22,49,1,0,1,String inverter with optimizers,In-person,10,12,1,0,1,Lease
+405,Fennmoor,Apr,586,18,12.6,30,Concrete tile,27,31,0,0,1,String inverter with optimizers,In-person,3,9,0,0,0,Loan
+406,Dunfield County,Nov,36,39,4.2,10,Asphalt shingle,27,30,0,0,0,String inverter,Drone,39,7,1,0,0,Loan
+407,Ashcombe Township,Feb,217,29,12.18,29,Asphalt shingle,27,31,0,0,1,Microinverters,In-person,42,12,2,0,0,Loan
+408,Fennmoor,Sep,93,65,6.88,16,Asphalt shingle,26,9,0,1,0,String inverter,In-person,5,12,3,0,1,Loan
+409,Corvale,Jul,81,83,13.33,31,Flat membrane,1,39,0,1,0,Microinverters,Satellite imagery only,39,13,1,0,0,Cash
+410,Dunfield County,Dec,90,55,10.66,26,Clay tile,22,66,1,1,1,String inverter,Satellite imagery only,21,13,1,0,0,Cash
+411,Ashcombe Township,Oct,107,66,4.2,10,Asphalt shingle,34,25,0,0,0,String inverter,In-person,22,8,0,0,0,Lease
+412,Brindle Creek,Aug,423,55,8.4,20,Asphalt shingle,26,15,0,0,0,String inverter,In-person,17,9,1,0,0,Loan
+413,Ashcombe Township,Jul,10,48,6.56,16,Asphalt shingle,22,20,0,0,0,Microinverters,In-person,25,10,0,0,0,Loan
+414,Dunfield County,Dec,441,26,5.88,14,Asphalt shingle,37,40,0,0,1,Microinverters,Drone,63,11,0,0,0,Lease
+415,Fennmoor,Jul,321,37,14.0,35,Asphalt shingle,23,32,0,1,1,Microinverters,Drone,6,16,4,1,1,Loan
+416,Ashcombe Township,Sep,86,80,15.12,36,Ground mount,0,54,0,0,1,String inverter with optimizers,In-person,46,15,0,0,0,Loan
+417,Corvale,Apr,361,35,11.18,26,Asphalt shingle,18,5,0,0,0,Microinverters,In-person,9,9,0,0,0,Loan
+418,Brindle Creek,Sep,264,49,6.8,17,Asphalt shingle,30,41,0,1,0,String inverter with optimizers,In-person,6,14,2,0,1,Cash
+419,Ashcombe Township,Jul,16,60,7.79,19,Asphalt shingle,14,12,1,1,0,Microinverters,In-person,20,14,1,1,0,Lease
+420,Ashcombe Township,Jul,18,63,7.79,19,Asphalt shingle,40,60,0,1,1,String inverter,In-person,4,15,3,0,0,Loan
+421,Brindle Creek,Mar,258,25,11.89,29,Ground mount,0,22,0,0,1,Microinverters,Satellite imagery only,104,8,0,1,0,Loan
+422,Ashcombe Township,Jun,338,62,6.56,16,Asphalt shingle,22,24,1,0,0,String inverter,In-person,96,12,0,0,0,Cash
+423,Brindle Creek,Feb,47,36,10.32,24,Asphalt shingle,23,43,0,1,1,String inverter with optimizers,Satellite imagery only,16,13,2,1,1,Loan
+424,Elmsworth,Jan,236,33,12.71,31,Asphalt shingle,26,22,1,0,0,Microinverters,In-person,28,12,0,0,1,Cash
+425,Elmsworth,Dec,46,38,10.92,26,Asphalt shingle,27,35,1,0,0,Microinverters,In-person,35,10,1,0,1,Loan
+426,Fennmoor,Jul,18,41,7.98,19,Asphalt shingle,23,18,0,0,1,String inverter,Drone,17,11,0,0,0,Cash
+427,Dunfield County,Apr,551,22,4.3,10,Asphalt shingle,45,11,0,1,1,Microinverters,In-person,3,10,3,0,0,Cash
+428,Dunfield County,May,220,25,7.38,18,Metal,27,23,0,1,0,String inverter with optimizers,In-person,5,14,1,0,1,Lease
+429,Elmsworth,Jul,154,30,9.24,22,Metal,10,17,0,0,0,String inverter,Satellite imagery only,4,9,2,0,1,Cash
+430,Brindle Creek,Nov,314,34,8.8,22,Ground mount,0,45,0,0,0,String inverter with optimizers,In-person,30,10,2,0,0,Cash
+431,Fennmoor,Jun,298,38,7.2,18,Asphalt shingle,22,58,0,1,1,String inverter with optimizers,Drone,17,15,1,0,0,Loan
+432,Brindle Creek,Feb,58,42,13.6,34,Ground mount,0,37,0,0,1,String inverter,Satellite imagery only,24,16,1,1,0,Loan
+433,Elmsworth,Aug,158,54,9.43,23,Clay tile,26,46,1,0,0,String inverter,In-person,11,11,0,0,0,Loan
+434,Elmsworth,Dec,334,25,7.38,18,Asphalt shingle,34,30,0,1,0,String inverter,Drone,5,14,2,0,0,Cash
+435,Dunfield County,Oct,29,34,8.4,20,Asphalt shingle,37,33,0,0,0,String inverter with optimizers,Satellite imagery only,27,7,1,1,0,Loan
+436,Elmsworth,Jun,110,66,7.38,18,Clay tile,30,35,0,1,0,String inverter,Drone,26,14,1,0,0,Loan
+437,Dunfield County,Nov,405,29,13.6,34,Concrete tile,22,7,0,0,0,String inverter,In-person,40,13,2,1,0,Lease
+438,Corvale,Sep,132,76,11.07,27,Ground mount,0,110,1,0,0,String inverter,Satellite imagery only,24,15,2,0,1,Loan
+439,Corvale,Oct,196,39,12.18,29,Asphalt shingle,26,15,0,1,1,Microinverters,In-person,4,14,2,0,1,Loan
+440,Brindle Creek,May,324,36,7.38,18,Asphalt shingle,34,1,0,0,0,String inverter,Drone,70,10,0,0,0,Loan
+441,Corvale,Aug,118,91,9.24,22,Asphalt shingle,26,31,0,0,0,Microinverters,In-person,16,9,1,0,0,Loan
+442,Fennmoor,Dec,461,24,10.25,25,Asphalt shingle,22,27,0,1,1,Microinverters,In-person,94,13,0,0,1,Cash
+443,Elmsworth,Feb,4,26,9.43,23,Ground mount,0,22,0,0,1,Microinverters,In-person,8,13,2,0,1,Loan
+444,Dunfield County,Dec,65,58,11.48,28,Metal,18,22,0,0,0,String inverter with optimizers,In-person,7,10,1,0,0,Cash
+445,Dunfield County,Apr,202,22,7.79,19,Concrete tile,22,46,1,0,0,Microinverters,In-person,8,10,1,0,0,Lease
+446,Elmsworth,Apr,60,46,10.92,26,Ground mount,0,13,0,0,0,String inverter,In-person,144,12,1,0,0,Cash
+447,Dunfield County,Feb,496,33,12.9,30,Asphalt shingle,26,7,0,0,1,String inverter with optimizers,Satellite imagery only,16,12,1,0,1,Loan
+448,Corvale,Nov,212,38,5.74,14,Concrete tile,18,26,1,0,0,Microinverters,Drone,2,7,0,1,1,Loan
+449,Corvale,Apr,457,38,6.88,16,Clay tile,22,69,1,0,1,Microinverters,Drone,50,15,1,0,0,Loan
+450,Corvale,Jul,84,86,7.98,19,Asphalt shingle,22,82,0,0,0,Microinverters,Drone,144,8,0,1,0,Lease
+451,Dunfield County,Jul,302,43,7.98,19,Asphalt shingle,18,24,0,1,0,String inverter,In-person,128,11,0,0,1,Loan
+452,Dunfield County,Nov,31,37,10.5,25,Asphalt shingle,30,16,0,0,0,Microinverters,Drone,19,13,2,0,1,Loan
+453,Ashcombe Township,May,309,40,6.72,16,Metal,18,8,0,0,0,Microinverters,In-person,15,6,1,0,0,Lease
+454,Brindle Creek,Oct,301,37,16.8,40,Ground mount,0,30,0,1,0,String inverter,In-person,14,15,2,1,0,Cash
+455,Brindle Creek,May,310,32,5.88,14,Metal,18,21,0,0,0,String inverter with optimizers,In-person,9,9,1,0,0,Loan
+456,Elmsworth,Jan,364,25,9.43,23,Asphalt shingle,26,50,1,0,1,String inverter with optimizers,Drone,2,14,0,0,0,Loan
+457,Dunfield County,Nov,50,55,11.48,28,Ground mount,0,34,0,0,0,Microinverters,In-person,13,13,3,0,1,Cash
+458,Ashcombe Township,Dec,169,32,12.9,30,Clay tile,22,83,0,1,0,String inverter,Satellite imagery only,4,12,1,1,0,Loan
+459,Brindle Creek,Jun,348,36,8.4,20,Asphalt shingle,23,46,0,0,0,String inverter,Drone,41,9,1,0,0,Cash
+460,Fennmoor,Oct,426,27,9.43,23,Asphalt shingle,26,52,0,0,0,Microinverters,In-person,11,9,0,0,0,Cash
+461,Brindle Creek,Jan,15,27,11.76,28,Concrete tile,27,24,0,0,0,String inverter with optimizers,Drone,27,11,1,0,0,Loan
+462,Elmsworth,Nov,16,34,6.02,14,Metal,34,48,0,0,0,Microinverters,In-person,9,10,1,0,1,Loan
+463,Corvale,Aug,119,90,8.4,20,Asphalt shingle,18,24,0,1,0,String inverter,In-person,49,9,0,0,1,Cash
+464,Ashcombe Township,Mar,373,25,8.8,22,Clay tile,27,50,0,0,1,String inverter with optimizers,Drone,28,11,0,0,0,Cash
+465,Elmsworth,Feb,392,21,9.2,23,Clay tile,22,39,1,0,0,String inverter with optimizers,In-person,16,8,0,0,0,Lease
+466,Dunfield County,Jan,479,35,16.4,40,Asphalt shingle,23,16,0,1,0,String inverter with optimizers,In-person,31,16,3,0,0,Loan
+467,Elmsworth,Feb,14,24,6.72,16,Metal,27,40,0,0,0,String inverter,Satellite imagery only,4,11,1,0,0,Loan
+468,Fennmoor,Jan,514,20,5.33,13,Asphalt shingle,22,29,0,0,0,Microinverters,Drone,26,8,2,0,1,Loan
+469,Elmsworth,Oct,243,41,12.6,30,Ground mount,0,28,0,0,0,String inverter,In-person,2,11,0,0,1,Loan
+470,Corvale,Jan,373,26,8.4,20,Asphalt shingle,26,24,0,0,0,String inverter with optimizers,In-person,25,9,1,0,0,Loan
+471,Corvale,Jun,64,76,6.4,16,Asphalt shingle,27,100,1,1,0,String inverter,In-person,85,10,0,0,0,Loan
+472,Corvale,Mar,350,34,7.6,19,Ground mount,0,26,0,0,0,String inverter with optimizers,Drone,14,9,0,0,0,Loan
+473,Brindle Creek,May,334,37,4.92,12,Asphalt shingle,18,15,1,0,1,String inverter,In-person,41,11,1,0,1,Lease
+474,Corvale,Apr,359,34,5.2,13,Asphalt shingle,22,42,0,0,0,String inverter with optimizers,Satellite imagery only,3,7,0,0,1,Cash
+475,Brindle Creek,May,324,36,5.33,13,Clay tile,18,110,0,1,0,Microinverters,Satellite imagery only,8,10,1,0,1,Lease
+476,Dunfield County,Oct,386,31,5.33,13,Asphalt shingle,26,110,1,0,1,Microinverters,In-person,49,11,2,0,0,Cash
+477,Elmsworth,Jan,349,24,8.2,20,Asphalt shingle,26,33,0,0,0,String inverter with optimizers,Satellite imagery only,12,9,0,0,0,Loan
+478,Ashcombe Township,Aug,57,78,9.43,23,Concrete tile,22,42,0,1,0,Microinverters,Satellite imagery only,19,9,0,1,0,Lease
+479,Corvale,Jun,55,71,9.43,23,Asphalt shingle,34,59,0,1,1,String inverter with optimizers,Satellite imagery only,13,16,0,0,0,Loan
+480,Corvale,May,25,40,7.74,18,Asphalt shingle,27,46,0,1,0,String inverter with optimizers,Satellite imagery only,11,13,1,0,1,Loan
+481,Brindle Creek,Dec,549,27,12.47,29,Ground mount,0,37,0,0,0,String inverter,In-person,38,10,2,0,0,Loan
+482,Brindle Creek,Jul,367,45,6.45,15,Concrete tile,18,1,0,1,0,String inverter,Satellite imagery only,88,13,2,0,0,Loan
+483,Corvale,Oct,186,39,8.0,20,Clay tile,18,31,0,1,0,Microinverters,In-person,41,12,1,0,0,Cash
+484,Dunfield County,Jun,627,30,5.74,14,Asphalt shingle,22,47,1,0,0,Microinverters,In-person,9,9,0,0,0,Lease
+485,Corvale,Jul,106,89,6.56,16,Clay tile,18,46,1,0,0,Microinverters,In-person,16,9,0,0,1,Loan
+486,Ashcombe Township,Mar,247,27,9.02,22,Asphalt shingle,23,34,0,0,0,Microinverters,In-person,5,9,2,0,0,Cash
+487,Brindle Creek,Apr,92,47,5.88,14,Metal,34,25,0,0,0,String inverter with optimizers,In-person,7,9,1,0,1,Loan
+488,Ashcombe Township,May,432,32,14.28,34,Ground mount,0,11,0,0,1,Microinverters,Drone,18,14,1,0,0,Lease
+489,Fennmoor,May,616,27,9.02,22,Ground mount,0,99,0,0,0,String inverter,Drone,25,11,2,0,1,Loan
+490,Brindle Creek,May,334,37,7.38,18,Asphalt shingle,26,10,1,0,0,String inverter,Drone,29,9,2,0,1,Loan
+491,Dunfield County,Oct,394,31,12.47,29,Asphalt shingle,26,40,1,0,0,Microinverters,In-person,3,9,1,1,0,Loan
+492,Ashcombe Township,Sep,1,43,10.8,27,Asphalt shingle,34,58,0,0,0,Microinverters,Satellite imagery only,69,9,0,1,1,Lease
+493,Brindle Creek,Mar,85,48,5.74,14,Asphalt shingle,23,24,1,0,0,Microinverters,Drone,60,9,0,0,0,Cash
+494,Ashcombe Township,Nov,147,43,10.32,24,Clay tile,18,22,1,0,0,Microinverters,In-person,51,13,3,1,1,Loan
+495,Dunfield County,Aug,331,43,14.4,36,Asphalt shingle,34,44,1,0,0,String inverter,In-person,3,14,1,0,1,Cash
+496,Ashcombe Township,Feb,357,28,11.34,27,Ground mount,0,66,0,0,0,Microinverters,Satellite imagery only,31,14,3,1,0,Cash
+497,Elmsworth,Feb,382,22,9.66,23,Asphalt shingle,37,24,0,0,0,String inverter with optimizers,Satellite imagery only,43,7,0,0,0,Cash
+498,Dunfield County,May,586,26,6.97,17,Ground mount,0,54,0,0,0,Microinverters,Drone,13,10,1,0,0,Cash
+499,Brindle Creek,Mar,72,40,9.84,24,Concrete tile,22,110,1,0,0,Microinverters,Satellite imagery only,15,13,1,0,1,Loan
+500,Brindle Creek,Oct,300,38,7.31,17,Concrete tile,22,40,0,0,0,Microinverters,In-person,23,13,1,0,0,Cash
+501,Brindle Creek,Feb,58,42,8.0,20,Asphalt shingle,27,34,1,0,0,Microinverters,In-person,52,10,1,1,0,Cash
+502,Dunfield County,Mar,167,17,6.4,16,Metal,34,29,0,0,0,String inverter,Drone,12,6,0,1,1,Cash
+503,Dunfield County,May,598,27,8.61,21,Asphalt shingle,22,100,1,1,1,Microinverters,In-person,20,15,1,0,0,Loan
+504,Corvale,Aug,114,84,4.8,12,Asphalt shingle,22,24,0,1,0,String inverter with optimizers,Drone,8,11,2,0,0,Loan
+505,Elmsworth,Aug,203,34,13.12,32,Asphalt shingle,26,13,0,0,0,String inverter with optimizers,In-person,23,9,1,0,0,Lease
+506,Fennmoor,Mar,556,18,5.2,13,Asphalt shingle,22,64,0,0,0,String inverter,Drone,62,9,0,0,0,Cash
+507,Corvale,Feb,400,30,4.62,11,Asphalt shingle,22,8,0,1,0,Microinverters,Satellite imagery only,37,12,0,0,1,Loan
+508,Corvale,May,6,31,15.99,39,Asphalt shingle,27,33,0,0,1,String inverter,In-person,33,15,2,0,0,Loan
+509,Ashcombe Township,Jul,23,70,8.82,21,Asphalt shingle,18,15,0,1,0,String inverter,Drone,47,14,3,0,0,Cash
+510,Corvale,Nov,211,35,7.98,19,Asphalt shingle,27,12,0,0,0,String inverter,Drone,4,11,1,0,1,Loan
+511,Fennmoor,Dec,458,24,6.8,17,Metal,18,9,0,0,0,String inverter,In-person,134,8,0,0,1,Loan
+512,Brindle Creek,Dec,549,27,8.61,21,Asphalt shingle,27,44,0,0,0,String inverter,In-person,85,9,1,0,0,Loan
+513,Corvale,Aug,128,69,6.3,15,Asphalt shingle,14,12,0,0,0,Microinverters,Drone,42,9,1,1,0,Lease
+514,Elmsworth,Aug,195,34,6.8,17,Clay tile,18,59,1,0,1,String inverter,Satellite imagery only,9,12,2,0,1,Cash
+515,Ashcombe Township,Dec,183,33,11.07,27,Ground mount,0,75,0,1,0,String inverter,In-person,40,12,1,0,0,Cash
+516,Ashcombe Township,Jul,381,57,7.56,18,Asphalt shingle,18,27,0,0,0,Microinverters,In-person,16,12,1,1,0,Cash
+517,Ashcombe Township,Jul,368,58,5.04,12,Concrete tile,27,9,0,0,0,String inverter,In-person,40,12,0,0,0,Lease
+518,Ashcombe Township,Sep,428,44,15.58,38,Asphalt shingle,30,18,0,1,0,String inverter with optimizers,Drone,9,14,1,1,0,Loan
+519,Dunfield County,Dec,62,59,11.76,28,Metal,10,65,1,0,0,String inverter with optimizers,Drone,10,12,1,0,0,Lease
+520,Ashcombe Township,Aug,399,52,10.08,24,Metal,14,30,0,0,0,String inverter,Satellite imagery only,32,10,0,0,1,Cash
+521,Brindle Creek,Jul,376,47,13.86,33,Ground mount,0,4,0,0,0,String inverter,In-person,2,11,0,0,0,Lease
+522,Ashcombe Township,Sep,431,42,11.07,27,Concrete tile,30,110,1,0,0,String inverter with optimizers,In-person,22,8,0,0,0,Loan
+523,Ashcombe Township,Aug,53,75,13.2,33,Flat membrane,5,12,0,1,1,Microinverters,Satellite imagery only,144,13,0,0,1,Lease
+524,Dunfield County,Feb,125,37,9.02,22,Asphalt shingle,34,13,0,1,0,Microinverters,In-person,3,11,2,1,0,Cash
+525,Fennmoor,Oct,135,50,7.98,19,Asphalt shingle,22,35,0,0,0,Microinverters,In-person,56,13,1,0,1,Loan
+526,Elmsworth,Mar,41,40,5.74,14,Asphalt shingle,30,42,0,1,1,String inverter with optimizers,In-person,33,14,1,0,0,Loan
+527,Elmsworth,Aug,164,50,11.34,27,Asphalt shingle,30,29,0,1,1,String inverter with optimizers,Drone,76,13,0,1,0,Cash
+528,Brindle Creek,Oct,468,56,8.82,21,Asphalt shingle,26,10,0,0,0,String inverter,In-person,26,12,0,0,1,Lease
+529,Fennmoor,Jul,315,34,9.24,22,Ground mount,0,18,1,1,0,String inverter with optimizers,Drone,6,14,5,0,0,Lease
+530,Fennmoor,Apr,580,19,6.97,17,Concrete tile,34,43,0,0,0,String inverter,In-person,13,7,1,1,0,Lease
+531,Ashcombe Township,Sep,87,80,7.38,18,Asphalt shingle,27,20,0,0,0,String inverter with optimizers,In-person,17,10,0,0,0,Cash
+532,Corvale,Dec,242,26,12.9,30,Ground mount,0,35,0,0,0,String inverter,Drone,21,15,1,1,1,Lease
+533,Dunfield County,Oct,3,35,4.51,11,Asphalt shingle,27,37,0,0,0,String inverter with optimizers,In-person,64,8,0,0,1,Loan
+534,Ashcombe Township,Apr,275,28,4.1,10,Metal,10,29,0,1,0,Microinverters,Satellite imagery only,114,11,0,1,1,Loan
+535,Elmsworth,Mar,50,46,6.15,15,Ground mount,0,37,0,0,0,Microinverters,In-person,8,10,2,0,0,Cash
+536,Fennmoor,Jun,294,37,10.08,24,Clay tile,27,75,0,1,1,String inverter,Drone,45,14,1,1,0,Cash
+537,Brindle Creek,Apr,117,49,10.32,24,Clay tile,18,75,1,0,0,String inverter,In-person,5,11,0,0,1,Loan
+538,Brindle Creek,Nov,516,35,8.4,21,Metal,18,43,0,0,0,Microinverters,In-person,12,8,0,0,1,Loan
+539,Ashcombe Township,Jun,338,62,12.6,30,Metal,22,14,0,0,0,String inverter with optimizers,Satellite imagery only,9,12,2,1,0,Lease
+540,Brindle Creek,Feb,216,32,5.33,13,Concrete tile,22,10,1,0,0,String inverter,Drone,62,9,0,0,0,Loan
+541,Corvale,May,0,33,5.46,13,Asphalt shingle,37,39,0,0,0,Microinverters,In-person,13,7,0,0,0,Loan
+542,Ashcombe Township,Sep,437,42,18.04,44,Ground mount,0,18,0,1,0,Microinverters,Drone,10,14,0,1,0,Loan
+543,Fennmoor,Sep,89,66,9.43,23,Asphalt shingle,26,19,0,1,0,Microinverters,Satellite imagery only,29,11,1,1,1,Cash
+544,Ashcombe Township,Jul,28,70,11.18,26,Metal,14,13,0,0,1,Microinverters,Drone,42,13,1,0,0,Loan
+545,Dunfield County,Jan,474,33,8.4,21,Ground mount,0,41,1,0,0,String inverter,In-person,4,11,1,0,1,Loan
+546,Brindle Creek,Jan,209,32,8.6,20,Ground mount,0,41,0,0,0,String inverter,In-person,96,9,1,0,1,Loan
+547,Dunfield County,Feb,141,24,5.2,13,Asphalt shingle,27,7,0,0,0,Microinverters,In-person,37,10,1,0,0,Lease
+548,Brindle Creek,May,312,32,10.92,26,Metal,18,46,0,0,0,String inverter,In-person,11,9,0,0,0,Lease
+549,Ashcombe Township,Apr,303,36,13.44,32,Asphalt shingle,37,99,0,0,0,String inverter,Satellite imagery only,7,13,1,0,0,Loan
+550,Ashcombe Township,Mar,366,26,11.61,27,Asphalt shingle,23,83,1,0,1,String inverter,Drone,13,13,0,0,1,Loan
+551,Corvale,Aug,129,69,6.15,15,Asphalt shingle,23,51,0,1,0,String inverter,In-person,64,9,0,0,0,Cash
+552,Elmsworth,Dec,39,39,12.6,30,Asphalt shingle,27,25,0,0,0,Microinverters,In-person,13,12,0,0,0,Loan
+553,Ashcombe Township,Sep,8,43,5.74,14,Asphalt shingle,27,15,0,0,1,String inverter,In-person,17,12,1,0,1,Loan
+554,Corvale,Nov,213,37,10.66,26,Asphalt shingle,34,40,0,0,0,String inverter,Satellite imagery only,58,10,3,0,0,Cash
+555,Ashcombe Township,May,331,55,6.8,17,Asphalt shingle,18,15,0,1,1,String inverter,In-person,47,12,2,0,0,Loan
+556,Ashcombe Township,Jun,361,61,10.66,26,Flat membrane,4,38,0,0,0,String inverter,In-person,144,10,0,1,0,Lease
+557,Fennmoor,Oct,131,53,8.61,21,Asphalt shingle,27,29,1,0,0,String inverter,In-person,20,10,1,0,0,Loan
+558,Elmsworth,Jun,104,63,9.43,23,Asphalt shingle,30,17,0,0,0,Microinverters,Drone,144,11,1,0,0,Cash
+559,Elmsworth,Feb,376,22,4.2,10,Asphalt shingle,22,38,0,0,1,String inverter,Drone,23,9,0,0,0,Cash
+560,Fennmoor,Feb,531,20,3.78,9,Asphalt shingle,23,7,0,0,0,Microinverters,Satellite imagery only,47,8,0,0,0,Loan
+561,Brindle Creek,Nov,502,38,7.79,19,Clay tile,26,48,1,0,0,Microinverters,In-person,28,12,1,0,0,Lease
+562,Ashcombe Township,Jan,329,23,6.4,16,Clay tile,23,107,1,0,1,Microinverters,Drone,18,10,0,0,1,Cash
+563,Brindle Creek,Jan,27,33,11.89,29,Concrete tile,34,70,1,1,1,String inverter,Satellite imagery only,23,16,0,1,1,Loan
+564,Ashcombe Township,Apr,426,29,11.76,28,Asphalt shingle,22,47,0,0,0,Microinverters,In-person,7,12,0,0,0,Lease
+565,Brindle Creek,Jun,360,43,9.02,22,Ground mount,0,76,0,0,0,String inverter,Drone,8,12,1,1,0,Cash
+566,Ashcombe Township,Jan,206,29,11.89,29,Concrete tile,23,0,0,0,1,Microinverters,In-person,54,14,2,0,0,Loan
+567,Brindle Creek,Oct,302,38,6.97,17,Concrete tile,22,61,1,1,0,String inverter with optimizers,In-person,3,11,3,0,0,Loan
+568,Fennmoor,Jun,278,31,5.74,14,Metal,18,22,0,0,0,String inverter,Satellite imagery only,6,9,0,0,0,Loan
+569,Brindle Creek,Apr,90,49,11.76,28,Asphalt shingle,27,30,0,0,0,Microinverters,Satellite imagery only,22,9,0,0,0,Loan
+570,Fennmoor,May,258,26,5.46,13,Asphalt shingle,45,39,0,0,1,Microinverters,In-person,15,10,2,0,0,Loan
+571,Dunfield County,Aug,674,38,11.34,27,Asphalt shingle,27,41,0,0,1,String inverter,In-person,7,12,0,0,0,Cash
+572,Brindle Creek,Jul,204,49,15.6,39,Asphalt shingle,22,50,0,1,1,Microinverters,In-person,12,14,1,0,0,Cash
+573,Ashcombe Township,Oct,29,55,7.38,18,Asphalt shingle,27,25,0,0,0,Microinverters,In-person,40,9,0,0,1,Lease
+574,Ashcombe Township,Aug,396,56,10.25,25,Ground mount,0,84,0,0,1,Microinverters,Drone,15,15,0,0,1,Loan
+575,Brindle Creek,Jul,394,53,7.2,18,Concrete tile,22,36,1,0,1,String inverter with optimizers,In-person,11,15,6,1,1,Cash
+576,Elmsworth,Apr,51,40,9.66,23,Asphalt shingle,34,72,1,0,0,String inverter,Satellite imagery only,6,12,1,1,1,Lease
+577,Brindle Creek,Mar,68,39,7.6,19,Ground mount,0,1,0,1,0,String inverter,Drone,25,14,0,0,0,Loan
+578,Brindle Creek,Oct,299,39,7.98,19,Asphalt shingle,45,30,0,0,0,Microinverters,In-person,48,10,0,0,1,Loan
+579,Elmsworth,Nov,288,36,7.98,19,Concrete tile,22,61,1,0,1,Microinverters,Satellite imagery only,64,13,0,0,0,Cash
+580,Ashcombe Township,Nov,65,74,9.46,22,Asphalt shingle,27,12,0,0,0,String inverter,Drone,49,7,0,0,0,Loan
+581,Ashcombe Township,Jan,334,21,10.32,24,Asphalt shingle,40,41,0,1,1,Microinverters,In-person,3,14,0,0,0,Lease
+582,Corvale,Oct,172,48,11.89,29,Flat membrane,1,33,0,0,0,String inverter,Satellite imagery only,14,8,0,0,1,Cash
+583,Dunfield County,Dec,76,60,7.14,17,Asphalt shingle,37,38,0,0,0,String inverter,Drone,8,12,1,0,0,Loan
+584,Fennmoor,Oct,128,52,9.02,22,Asphalt shingle,27,18,0,0,0,String inverter with optimizers,In-person,17,11,4,0,0,Lease
+585,Corvale,Nov,214,38,10.8,27,Ground mount,0,69,0,0,0,String inverter,In-person,23,13,2,0,0,Loan
+586,Fennmoor,Sep,96,65,9.02,22,Concrete tile,27,28,0,0,0,Microinverters,In-person,47,9,0,0,0,Cash
+587,Corvale,Apr,4,38,8.2,20,Concrete tile,23,31,1,0,0,String inverter,Drone,22,11,1,0,0,Cash
+588,Ashcombe Township,Sep,1,43,14.76,36,Metal,10,84,1,1,1,Microinverters,In-person,10,18,4,0,0,Lease
+589,Ashcombe Township,Jul,9,47,6.02,14,Metal,14,39,0,0,0,Microinverters,In-person,21,8,1,0,0,Cash
+590,Brindle Creek,May,125,55,7.38,18,Asphalt shingle,30,12,1,0,1,Microinverters,Satellite imagery only,15,10,0,0,1,Cash
+591,Elmsworth,Dec,306,32,9.89,23,Metal,22,25,1,0,0,Microinverters,In-person,15,9,0,0,0,Cash
+592,Elmsworth,Oct,221,43,9.24,22,Asphalt shingle,18,40,0,1,0,String inverter with optimizers,In-person,8,13,3,0,0,Cash
+593,Corvale,Jul,94,89,10.92,26,Concrete tile,34,75,1,1,0,Microinverters,In-person,15,11,0,0,1,Cash
+594,Elmsworth,Aug,156,52,9.84,24,Ground mount,0,29,0,1,0,String inverter with optimizers,In-person,16,15,1,0,0,Cash
+595,Fennmoor,Mar,556,18,12.04,28,Asphalt shingle,34,9,0,1,0,String inverter,Drone,51,12,0,0,0,Cash
+596,Fennmoor,Jun,641,34,8.8,22,Asphalt shingle,30,12,0,1,0,String inverter with optimizers,Satellite imagery only,18,12,2,0,0,Cash
+597,Dunfield County,Feb,513,33,11.34,27,Ground mount,0,19,0,1,0,Microinverters,In-person,13,12,0,0,0,Loan
+598,Fennmoor,Jun,300,37,13.44,32,Asphalt shingle,18,40,0,0,0,Microinverters,Satellite imagery only,15,10,1,0,0,Lease
+599,Corvale,Aug,137,58,6.4,16,Asphalt shingle,22,40,0,1,0,Microinverters,In-person,104,11,1,0,1,Loan
+600,Brindle Creek,Jun,177,47,10.92,26,Ground mount,0,59,0,0,0,Microinverters,In-person,22,10,0,1,1,Lease
+601,Dunfield County,Jan,97,55,10.92,26,Ground mount,0,24,0,0,1,Microinverters,Drone,19,11,0,0,0,Cash
+602,Ashcombe Township,Aug,400,51,6.3,15,Asphalt shingle,18,25,0,0,0,Microinverters,In-person,82,13,2,0,1,Loan
+603,Elmsworth,Apr,47,39,6.0,15,Asphalt shingle,23,55,0,0,0,Microinverters,Drone,25,8,1,0,0,Lease
+604,Brindle Creek,Oct,487,44,7.6,19,Asphalt shingle,22,29,0,0,0,Microinverters,Drone,19,8,0,0,1,Loan
+605,Brindle Creek,Apr,104,53,10.92,26,Ground mount,0,22,0,1,0,String inverter,In-person,23,14,2,0,0,Loan
+606,Elmsworth,Dec,330,28,7.74,18,Asphalt shingle,26,13,1,0,1,Microinverters,In-person,51,14,1,0,0,Cash
+607,Elmsworth,Jul,137,60,7.79,19,Asphalt shingle,30,63,1,0,0,String inverter,Drone,5,7,1,0,0,Loan
+608,Fennmoor,Sep,88,67,7.2,18,Asphalt shingle,30,23,0,0,0,Microinverters,Drone,126,7,1,0,0,Lease
+609,Fennmoor,May,264,27,11.76,28,Asphalt shingle,34,15,0,0,1,Microinverters,In-person,20,8,1,0,0,Cash
+610,Brindle Creek,Jul,383,53,6.72,16,Flat membrane,2,5,0,1,0,String inverter with optimizers,In-person,15,13,4,0,0,Cash
+611,Brindle Creek,Aug,233,56,7.14,17,Asphalt shingle,18,19,0,0,0,String inverter,Drone,144,7,0,0,1,Lease
+612,Elmsworth,May,103,49,9.66,23,Asphalt shingle,37,10,0,1,0,String inverter with optimizers,Drone,13,18,3,0,1,Cash
+613,Dunfield County,Sep,357,38,6.4,16,Asphalt shingle,45,11,0,0,0,Microinverters,In-person,17,7,1,0,0,Cash
+614,Ashcombe Township,Sep,427,42,13.44,32,Asphalt shingle,14,10,0,1,1,String inverter,In-person,10,12,0,0,0,Cash
+615,Elmsworth,May,75,56,8.8,22,Asphalt shingle,30,31,0,0,0,Microinverters,In-person,10,7,2,0,0,Cash
+616,Corvale,Mar,443,32,6.45,15,Metal,10,19,0,1,1,Microinverters,Satellite imagery only,12,14,1,0,0,Lease
+617,Corvale,Mar,429,32,10.66,26,Ground mount,0,22,0,0,0,String inverter,In-person,4,12,1,1,0,Lease
+618,Corvale,Feb,410,31,6.72,16,Metal,14,34,1,0,0,String inverter with optimizers,In-person,144,12,0,0,0,Loan
+619,Fennmoor,Feb,181,18,14.7,35,Concrete tile,26,18,0,0,0,String inverter with optimizers,Drone,24,10,1,0,0,Lease
+620,Ashcombe Township,Oct,100,80,11.89,29,Asphalt shingle,40,11,0,0,0,String inverter,Satellite imagery only,78,9,2,0,0,Loan
+621,Ashcombe Township,Aug,52,75,9.43,23,Concrete tile,18,65,1,1,1,String inverter with optimizers,In-person,53,15,0,0,0,Lease
+622,Brindle Creek,Feb,220,31,9.2,23,Asphalt shingle,30,38,0,0,0,Microinverters,Drone,14,8,0,1,0,Cash
+623,Ashcombe Township,Apr,404,28,12.71,31,Asphalt shingle,37,33,0,0,0,Microinverters,In-person,35,10,1,1,0,Lease
+624,Fennmoor,Oct,402,32,6.15,15,Concrete tile,34,18,0,0,0,Microinverters,In-person,10,8,0,0,0,Cash
+625,Ashcombe Township,Jun,338,62,14.19,33,Asphalt shingle,22,8,0,0,1,String inverter with optimizers,In-person,72,13,2,0,1,Cash
+626,Ashcombe Township,May,453,37,5.2,13,Concrete tile,22,50,0,0,0,Microinverters,In-person,29,7,0,0,1,Cash
+627,Elmsworth,May,81,56,10.0,25,Asphalt shingle,34,27,0,0,0,Microinverters,Drone,37,11,0,1,0,Cash
+628,Elmsworth,Aug,178,45,10.92,26,Metal,18,5,0,0,0,Microinverters,Drone,38,9,2,0,0,Cash
+629,Elmsworth,Nov,277,37,5.33,13,Asphalt shingle,27,91,1,0,1,String inverter,Drone,15,11,1,0,1,Cash
+630,Corvale,Jul,79,80,6.02,14,Concrete tile,23,35,0,0,0,Microinverters,Satellite imagery only,30,9,1,0,0,Loan
+631,Ashcombe Township,Sep,438,41,8.61,21,Asphalt shingle,22,14,0,0,0,Microinverters,In-person,41,7,1,0,0,Loan
+632,Ashcombe Township,Oct,109,63,6.3,15,Asphalt shingle,30,32,0,0,0,String inverter with optimizers,Satellite imagery only,9,7,2,1,0,Loan
+633,Brindle Creek,Nov,329,32,10.25,25,Asphalt shingle,30,34,0,0,0,String inverter,Satellite imagery only,39,10,1,0,0,Cash
+634,Ashcombe Township,Feb,235,30,7.56,18,Concrete tile,27,26,1,0,0,String inverter with optimizers,In-person,5,13,4,1,1,Cash
+635,Ashcombe Township,Jul,28,70,7.56,18,Ground mount,0,10,0,0,0,Microinverters,Satellite imagery only,21,9,0,0,1,Lease
+636,Fennmoor,Feb,524,23,8.6,20,Asphalt shingle,22,36,1,0,0,String inverter,Drone,56,12,1,0,0,Loan
+637,Corvale,Apr,357,35,12.0,30,Ground mount,0,23,0,0,0,Microinverters,In-person,5,13,2,0,1,Cash
+638,Elmsworth,Feb,20,28,9.43,23,Metal,14,20,0,0,0,Microinverters,In-person,78,12,1,1,0,Loan
+639,Corvale,Feb,421,33,9.24,22,Ground mount,0,25,0,0,0,Microinverters,In-person,7,8,1,0,0,Lease
+640,Brindle Creek,Oct,282,44,9.2,23,Asphalt shingle,18,31,0,1,0,Microinverters,Satellite imagery only,33,13,1,0,0,Loan
+641,Ashcombe Township,Sep,1,43,13.53,33,Asphalt shingle,22,36,0,0,0,String inverter,In-person,10,8,0,0,0,Cash
+642,Ashcombe Township,Dec,78,74,6.72,16,Asphalt shingle,26,63,0,0,0,Microinverters,In-person,14,12,1,0,1,Cash
+643,Elmsworth,Sep,232,35,16.77,39,Flat membrane,3,28,0,1,1,String inverter,In-person,16,17,0,0,0,Loan
+644,Brindle Creek,Dec,356,26,8.4,21,Flat membrane,2,11,0,0,0,String inverter,In-person,144,10,0,0,1,Lease
+645,Elmsworth,Mar,55,45,7.2,18,Asphalt shingle,27,15,0,0,0,String inverter,In-person,35,9,1,0,1,Loan
+646,Corvale,Nov,228,40,9.66,23,Asphalt shingle,34,17,0,1,1,Microinverters,In-person,11,15,1,0,0,Lease
+647,Brindle Creek,Aug,222,52,11.07,27,Asphalt shingle,14,24,0,1,0,Microinverters,In-person,22,19,5,0,0,Lease
+648,Dunfield County,Apr,551,22,8.82,21,Asphalt shingle,18,30,1,1,1,Microinverters,In-person,46,13,0,1,1,Cash
+649,Fennmoor,Jul,322,37,11.89,29,Asphalt shingle,26,24,1,1,1,Microinverters,In-person,8,15,2,0,0,Cash
+650,Corvale,Apr,371,35,9.6,24,Asphalt shingle,34,19,0,0,0,Microinverters,In-person,38,7,0,1,1,Cash
+651,Corvale,Jan,263,44,9.89,23,Metal,18,34,0,0,0,String inverter with optimizers,Satellite imagery only,62,8,0,0,1,Cash
+652,Brindle Creek,Sep,450,52,8.0,20,Concrete tile,18,58,0,0,0,String inverter with optimizers,Drone,144,10,0,0,1,Cash
+653,Corvale,Mar,435,33,15.05,35,Flat membrane,5,20,0,1,1,String inverter,Satellite imagery only,144,15,0,1,0,Loan
+654,Dunfield County,Feb,495,33,8.4,20,Asphalt shingle,27,71,1,0,1,Microinverters,In-person,34,10,0,0,1,Loan
+655,Ashcombe Township,Aug,49,77,7.74,18,Asphalt shingle,27,23,0,1,1,Microinverters,In-person,7,15,3,0,0,Loan
+656,Dunfield County,Feb,134,34,13.53,33,Asphalt shingle,14,25,0,0,1,Microinverters,Satellite imagery only,28,13,0,0,0,Loan
+657,Dunfield County,Jan,112,50,9.43,23,Flat membrane,2,16,0,1,0,String inverter,Drone,14,13,1,0,0,Loan
+658,Brindle Creek,Apr,112,49,11.18,26,Asphalt shingle,26,47,1,1,1,String inverter with optimizers,Satellite imagery only,10,18,2,1,1,Loan
+659,Corvale,Dec,252,42,5.88,14,Concrete tile,18,16,0,0,0,String inverter,In-person,24,9,0,0,0,Cash
+660,Brindle Creek,Jun,348,36,6.97,17,Asphalt shingle,34,33,0,1,1,String inverter,In-person,34,11,1,0,1,Lease
+661,Ashcombe Township,Aug,423,47,12.71,31,Metal,14,29,0,0,0,String inverter with optimizers,In-person,16,9,1,0,0,Lease
+662,Corvale,Dec,239,28,9.02,22,Metal,22,46,0,0,0,Microinverters,In-person,9,10,1,0,1,Cash
+663,Elmsworth,Mar,48,42,10.08,24,Clay tile,18,26,0,1,0,Microinverters,In-person,91,13,2,0,1,Loan
+664,Brindle Creek,Aug,230,57,10.92,26,Concrete tile,30,24,0,0,0,Microinverters,Satellite imagery only,6,10,0,1,0,Loan
+665,Brindle Creek,Oct,285,44,10.92,26,Ground mount,0,18,0,0,0,Microinverters,In-person,24,12,0,0,0,Loan
+666,Fennmoor,Mar,185,18,6.0,15,Metal,22,5,0,0,0,Microinverters,In-person,89,11,0,0,0,Loan
+667,Ashcombe Township,Sep,1,43,6.72,16,Metal,18,38,0,0,0,String inverter with optimizers,In-person,26,10,2,0,0,Loan
+668,Corvale,Jul,107,87,7.6,19,Concrete tile,18,55,1,0,0,Microinverters,Satellite imagery only,10,9,0,0,1,Loan
+669,Ashcombe Township,Dec,177,36,7.14,17,Asphalt shingle,22,30,0,0,0,Microinverters,In-person,35,11,1,0,0,Loan
+670,Corvale,Sep,152,65,8.61,21,Ground mount,0,22,1,0,1,String inverter,In-person,10,12,0,0,1,Loan
+671,Dunfield County,Jun,266,36,8.82,21,Metal,18,53,0,1,1,String inverter,Satellite imagery only,19,12,0,0,0,Loan
+672,Dunfield County,Oct,385,30,6.72,16,Metal,14,12,0,1,0,String inverter with optimizers,In-person,13,11,1,0,1,Lease
+673,Corvale,Jul,107,87,9.6,24,Ground mount,0,15,0,1,0,Microinverters,Drone,47,14,2,1,0,Cash
+674,Corvale,Mar,439,31,5.74,14,Asphalt shingle,14,23,0,0,0,Microinverters,Drone,29,7,0,0,1,Loan
+675,Fennmoor,Mar,202,22,12.71,31,Asphalt shingle,30,42,0,0,1,String inverter with optimizers,In-person,82,12,1,0,0,Loan
+676,Corvale,Nov,214,38,11.18,26,Flat membrane,5,11,0,1,0,String inverter,In-person,9,13,2,0,0,Loan
+677,Dunfield County,Dec,450,28,8.2,20,Asphalt shingle,14,23,0,0,0,Microinverters,In-person,34,10,1,0,0,Cash
+678,Corvale,Jul,69,76,9.46,22,Asphalt shingle,40,45,0,1,1,Microinverters,In-person,12,15,0,0,0,Loan
+679,Ashcombe Township,Jul,21,68,15.2,38,Ground mount,0,19,0,1,0,String inverter,In-person,43,15,2,0,0,Loan
+680,Dunfield County,Jul,297,42,6.8,17,Clay tile,22,71,1,0,1,Microinverters,Drone,10,8,1,0,1,Loan
+681,Brindle Creek,Nov,508,38,6.4,16,Asphalt shingle,34,37,0,0,0,Microinverters,Satellite imagery only,18,8,1,1,0,Cash
+682,Ashcombe Township,Jul,0,41,11.07,27,Asphalt shingle,22,43,0,1,1,String inverter,Satellite imagery only,16,13,1,1,0,Loan
+683,Elmsworth,May,87,62,9.43,23,Asphalt shingle,22,57,0,0,1,String inverter with optimizers,Satellite imagery only,36,11,1,0,0,Cash
+684,Ashcombe Township,Mar,373,25,13.94,34,Ground mount,0,11,0,1,0,Microinverters,In-person,58,14,1,0,0,Cash
+685,Ashcombe Township,Mar,252,28,4.4,11,Asphalt shingle,30,15,0,0,0,Microinverters,In-person,47,7,0,0,1,Loan
+686,Ashcombe Township,Jul,8,46,6.4,16,Asphalt shingle,27,54,0,1,1,Microinverters,In-person,5,12,1,0,0,Loan
+687,Dunfield County,Dec,426,24,11.6,29,Asphalt shingle,14,15,1,1,0,String inverter,In-person,11,13,3,1,0,Lease
+688,Dunfield County,Mar,176,18,7.98,19,Asphalt shingle,18,39,1,0,0,Microinverters,Satellite imagery only,17,10,1,0,0,Cash
+689,Corvale,Mar,445,32,7.6,19,Metal,22,32,0,0,0,String inverter,In-person,20,10,1,0,1,Lease
+690,Ashcombe Township,Apr,401,30,5.74,14,Asphalt shingle,18,30,1,0,0,Microinverters,In-person,19,10,0,0,0,Cash
+691,Ashcombe Township,Nov,70,72,8.61,21,Asphalt shingle,26,14,0,0,0,Microinverters,In-person,10,8,0,0,1,Loan
+692,Dunfield County,Aug,304,43,7.98,19,Asphalt shingle,26,20,0,1,0,Microinverters,In-person,10,11,1,1,0,Cash
+693,Corvale,Jul,85,78,6.72,16,Asphalt shingle,34,4,0,0,0,Microinverters,In-person,9,11,0,0,1,Loan
+694,Elmsworth,Jun,118,61,7.14,17,Metal,18,24,0,0,0,Microinverters,Drone,8,6,2,0,0,Lease
+695,Ashcombe Township,Nov,140,49,6.72,16,Concrete tile,22,14,0,0,0,String inverter,Satellite imagery only,9,9,0,0,0,Loan
+696,Brindle Creek,Sep,243,50,10.25,25,Asphalt shingle,26,30,1,0,0,String inverter,In-person,23,12,0,0,1,Cash
+697,Elmsworth,Aug,153,55,6.0,15,Concrete tile,26,12,0,0,0,Microinverters,Satellite imagery only,19,9,2,0,0,Loan
+698,Ashcombe Township,Apr,289,37,15.48,36,Ground mount,0,18,0,0,0,Microinverters,In-person,16,12,0,0,0,Loan
+699,Fennmoor,Aug,354,41,9.02,22,Concrete tile,26,89,0,1,1,Microinverters,In-person,102,16,4,1,0,Loan
+700,Elmsworth,Jun,130,40,10.08,24,Concrete tile,30,10,0,1,1,Microinverters,In-person,101,15,2,0,1,Cash
+701,Brindle Creek,Jul,389,57,8.4,20,Asphalt shingle,22,34,0,1,0,Microinverters,In-person,13,13,1,0,0,Cash
+702,Brindle Creek,Sep,452,52,7.38,18,Asphalt shingle,26,38,1,0,0,Microinverters,Drone,28,11,0,0,1,Cash
+703,Ashcombe Township,Oct,38,60,12.6,30,Asphalt shingle,18,9,0,1,0,String inverter,Drone,37,10,1,0,1,Loan
+704,Corvale,Nov,213,37,7.56,18,Asphalt shingle,18,8,0,0,0,String inverter,Drone,42,9,0,1,0,Cash
+705,Dunfield County,Oct,373,36,11.07,27,Ground mount,0,23,0,1,0,Microinverters,In-person,27,12,1,0,1,Cash
+706,Brindle Creek,Apr,99,51,6.4,16,Asphalt shingle,40,14,0,1,0,Microinverters,Satellite imagery only,31,13,2,1,1,Loan
+707,Elmsworth,Aug,178,45,8.2,20,Asphalt shingle,45,70,0,1,1,Microinverters,Satellite imagery only,18,12,1,0,0,Loan
+708,Elmsworth,Jun,109,67,12.04,28,Ground mount,0,26,0,1,1,String inverter with optimizers,Drone,31,17,2,0,0,Cash
+709,Brindle Creek,Feb,242,27,10.92,26,Ground mount,0,16,0,0,0,String inverter with optimizers,In-person,8,12,0,0,0,Loan
+710,Ashcombe Township,Nov,147,43,5.33,13,Asphalt shingle,27,13,1,0,0,Microinverters,In-person,19,10,0,1,1,Cash
+711,Corvale,Mar,344,39,12.4,31,Ground mount,0,22,0,0,0,Microinverters,In-person,7,11,0,0,0,Loan
+712,Ashcombe Township,Sep,3,43,7.38,18,Metal,14,69,1,1,0,String inverter,In-person,38,10,0,0,0,Loan
+713,Dunfield County,Jun,255,33,8.61,21,Ground mount,0,49,0,1,0,Microinverters,In-person,35,15,2,0,1,Loan
+714,Dunfield County,Dec,85,58,7.98,19,Metal,10,28,0,0,0,Microinverters,Satellite imagery only,38,9,2,1,0,Lease
+715,Fennmoor,Aug,67,58,16.81,41,Asphalt shingle,27,11,0,0,1,String inverter,In-person,35,15,0,0,0,Loan
+716,Brindle Creek,Nov,506,38,7.79,19,Clay tile,22,110,0,0,0,Microinverters,Satellite imagery only,31,6,0,0,1,Loan
+717,Brindle Creek,Nov,492,40,9.43,23,Asphalt shingle,14,10,0,0,0,Microinverters,In-person,14,11,1,0,0,Lease
+718,Brindle Creek,Sep,439,56,6.0,15,Flat membrane,2,61,1,0,0,Microinverters,Drone,8,8,0,0,0,Loan
+719,Corvale,Sep,155,53,5.46,13,Metal,34,57,0,0,0,String inverter,Drone,21,9,0,0,0,Loan
+720,Corvale,Nov,220,40,7.38,18,Asphalt shingle,37,24,0,0,0,String inverter,Drone,9,7,0,0,1,Cash
+721,Corvale,Oct,158,65,5.74,14,Clay tile,18,33,0,1,0,Microinverters,Drone,9,10,0,0,0,Cash
+722,Dunfield County,Mar,170,17,4.8,12,Asphalt shingle,27,23,0,1,0,Microinverters,Satellite imagery only,43,14,2,0,1,Loan
+723,Elmsworth,Jan,349,24,5.04,12,Asphalt shingle,18,32,0,0,0,String inverter with optimizers,Drone,74,7,0,0,1,Loan
+724,Ashcombe Township,Oct,35,58,8.2,20,Metal,18,53,0,0,0,String inverter with optimizers,In-person,17,8,0,0,0,Cash
+725,Dunfield County,Nov,407,29,12.18,29,Concrete tile,22,70,1,0,0,Microinverters,Drone,14,10,1,0,0,Lease
+726,Corvale,Feb,397,30,12.0,30,Ground mount,0,13,0,1,0,String inverter with optimizers,In-person,94,13,0,0,0,Loan
+727,Brindle Creek,Apr,98,50,5.04,12,Asphalt shingle,27,13,0,1,0,String inverter with optimizers,Satellite imagery only,21,9,0,0,0,Loan
+728,Dunfield County,Jun,272,38,8.0,20,Ground mount,0,26,1,0,0,String inverter with optimizers,In-person,7,12,1,1,0,Loan
+729,Dunfield County,Dec,451,28,6.56,16,Asphalt shingle,34,20,0,0,0,Microinverters,In-person,40,7,0,0,0,Loan
+730,Elmsworth,Apr,52,40,9.84,24,Asphalt shingle,26,24,1,0,1,Microinverters,Satellite imagery only,29,13,0,0,1,Loan
+731,Brindle Creek,Nov,499,35,9.6,24,Metal,10,14,0,1,0,Microinverters,In-person,16,11,1,0,0,Cash
+732,Corvale,Jun,48,66,9.6,24,Ground mount,0,43,0,1,0,String inverter with optimizers,In-person,64,12,0,0,0,Loan
+733,Ashcombe Township,Aug,60,80,5.33,13,Metal,22,22,0,0,0,Microinverters,In-person,44,11,2,0,1,Loan
+734,Dunfield County,Feb,150,21,7.98,19,Asphalt shingle,27,30,0,0,0,Microinverters,In-person,22,8,1,0,0,Loan
+735,Ashcombe Township,Jun,353,61,7.38,18,Asphalt shingle,27,27,0,0,0,Microinverters,In-person,92,10,1,0,1,Loan
+736,Ashcombe Township,Jun,482,42,11.2,28,Asphalt shingle,27,33,0,0,0,Microinverters,Drone,32,12,0,0,1,Loan
+737,Brindle Creek,Aug,231,55,5.6,14,Metal,18,19,0,0,0,Microinverters,Satellite imagery only,85,8,0,1,1,Lease
+738,Dunfield County,Apr,570,20,6.15,15,Asphalt shingle,34,23,1,0,0,Microinverters,In-person,40,9,2,0,1,Cash
+739,Dunfield County,Jul,296,42,5.33,13,Concrete tile,22,6,0,0,0,Microinverters,Satellite imagery only,10,6,1,1,0,Loan
+740,Elmsworth,Jun,110,66,9.66,23,Asphalt shingle,27,26,0,0,0,String inverter with optimizers,In-person,17,12,1,0,1,Cash
+741,Dunfield County,Mar,535,23,8.82,21,Asphalt shingle,27,6,0,1,0,Microinverters,In-person,3,14,1,0,0,Loan
+742,Corvale,Oct,168,58,7.31,17,Asphalt shingle,27,45,0,0,0,Microinverters,In-person,48,10,1,0,0,Cash
+743,Ashcombe Township,Sep,86,80,6.97,17,Ground mount,0,30,0,0,0,Microinverters,In-person,6,12,1,0,0,Loan
+744,Ashcombe Township,Jun,347,61,5.6,14,Asphalt shingle,23,55,0,0,0,String inverter,In-person,62,7,0,0,0,Loan
+745,Fennmoor,Aug,74,59,10.25,25,Asphalt shingle,23,74,1,1,0,String inverter with optimizers,In-person,4,15,1,0,0,Loan
+746,Ashcombe Township,Apr,421,30,11.2,28,Asphalt shingle,27,31,0,0,1,Microinverters,In-person,5,11,0,0,1,Lease
+747,Dunfield County,Apr,562,19,4.51,11,Asphalt shingle,14,7,1,1,0,Microinverters,Drone,120,12,2,0,0,Cash
+748,Fennmoor,Dec,199,21,8.61,21,Metal,14,30,0,0,0,String inverter,Satellite imagery only,47,11,1,0,0,Cash
+749,Ashcombe Township,Jun,351,62,14.4,36,Asphalt shingle,18,17,0,1,1,String inverter,In-person,74,13,0,0,1,Cash
+750,Brindle Creek,Mar,244,26,12.71,31,Ground mount,0,62,0,1,1,Microinverters,Satellite imagery only,61,13,1,0,0,Loan
+751,Ashcombe Township,Mar,379,24,14.7,35,Asphalt shingle,18,33,1,1,1,String inverter,Satellite imagery only,37,16,2,0,0,Loan
+752,Ashcombe Township,Sep,84,80,9.66,23,Concrete tile,22,29,0,0,0,String inverter with optimizers,Satellite imagery only,13,9,1,1,0,Loan
+753,Brindle Creek,Mar,76,44,12.18,29,Ground mount,0,15,0,0,1,String inverter with optimizers,Drone,5,10,1,0,0,Lease
+754,Dunfield County,Aug,685,37,7.79,19,Ground mount,0,5,0,0,0,String inverter with optimizers,In-person,2,12,1,0,0,Loan
+755,Corvale,Sep,141,55,5.33,13,Clay tile,26,57,1,0,0,Microinverters,Satellite imagery only,35,7,0,0,0,Cash
+756,Ashcombe Township,Mar,383,30,11.48,28,Asphalt shingle,26,15,0,1,1,String inverter,Drone,8,17,3,0,1,Cash
+757,Elmsworth,Dec,60,37,10.0,25,Asphalt shingle,26,20,0,0,0,Microinverters,In-person,2,11,2,0,0,Loan
+758,Ashcombe Township,Oct,98,82,15.54,37,Concrete tile,26,19,0,0,0,String inverter,Drone,27,8,2,0,0,Cash
+759,Corvale,Mar,337,38,5.88,14,Asphalt shingle,14,15,1,0,0,String inverter with optimizers,In-person,12,8,1,0,0,Loan
+760,Corvale,Sep,125,85,14.0,35,Asphalt shingle,26,56,0,1,0,String inverter,Satellite imagery only,52,17,2,1,0,Loan
+761,Brindle Creek,Oct,466,56,8.17,19,Metal,14,18,0,0,0,Microinverters,Satellite imagery only,12,11,0,0,0,Cash
+762,Fennmoor,Aug,59,62,10.32,24,Ground mount,0,28,0,0,0,Microinverters,In-person,8,12,0,0,0,Lease
+763,Brindle Creek,Jun,174,48,7.79,19,Asphalt shingle,45,25,0,1,0,String inverter,In-person,40,14,2,0,1,Loan
+764,Dunfield County,Feb,134,34,7.6,19,Asphalt shingle,22,27,0,0,0,Microinverters,In-person,34,8,2,0,0,Cash
+765,Ashcombe Township,Jun,347,61,3.69,9,Asphalt shingle,27,49,0,0,0,Microinverters,Drone,90,11,2,1,0,Cash
+766,Brindle Creek,Nov,316,32,6.72,16,Metal,14,15,0,0,1,Microinverters,In-person,8,13,1,0,0,Lease
+767,Elmsworth,Aug,173,50,7.38,18,Concrete tile,23,19,1,1,0,String inverter,In-person,21,16,2,0,0,Loan
+768,Dunfield County,Aug,690,36,9.02,22,Asphalt shingle,22,16,0,0,0,Microinverters,In-person,43,8,1,0,1,Lease
+769,Brindle Creek,Jul,189,48,8.6,20,Clay tile,22,94,0,0,1,Microinverters,In-person,42,13,0,0,1,Cash
+770,Elmsworth,Jan,239,31,11.76,28,Concrete tile,27,29,0,1,0,String inverter,In-person,18,9,0,0,0,Loan
+771,Corvale,Jan,284,46,10.25,25,Clay tile,26,41,0,1,1,String inverter,In-person,33,13,0,0,0,Cash
+772,Brindle Creek,May,120,52,4.0,10,Concrete tile,23,30,1,0,0,String inverter,Satellite imagery only,118,10,1,0,0,Loan
+773,Ashcombe Township,Jul,16,60,18.92,44,Flat membrane,4,80,1,0,1,String inverter with optimizers,Satellite imagery only,51,13,0,0,0,Loan
+774,Elmsworth,Dec,48,38,8.0,20,Ground mount,0,33,0,0,0,Microinverters,In-person,4,10,0,0,0,Loan
+775,Dunfield County,Aug,310,44,7.74,18,Clay tile,23,43,1,0,1,Microinverters,Drone,4,12,0,1,0,Loan
+776,Ashcombe Township,Oct,106,68,7.14,17,Asphalt shingle,23,66,0,1,1,String inverter with optimizers,Drone,6,11,0,0,0,Loan
+777,Elmsworth,Sep,185,48,10.92,26,Asphalt shingle,26,43,0,0,0,String inverter with optimizers,Satellite imagery only,12,10,0,0,0,Cash
+778,Elmsworth,May,83,58,6.4,16,Ground mount,0,102,0,0,0,String inverter with optimizers,In-person,36,10,1,1,0,Lease
+779,Fennmoor,May,629,33,6.88,16,Flat membrane,5,66,0,0,0,String inverter with optimizers,In-person,17,10,0,1,0,Lease
+780,Brindle Creek,Oct,282,44,17.22,41,Asphalt shingle,34,36,0,1,0,Microinverters,Drone,4,13,0,0,1,Loan
+781,Elmsworth,Aug,197,35,8.8,22,Asphalt shingle,22,54,0,0,0,String inverter,In-person,27,8,1,0,0,Lease
+782,Corvale,May,13,33,9.02,22,Metal,18,6,0,0,0,String inverter,In-person,23,9,0,0,0,Loan
+783,Dunfield County,Jun,254,32,10.32,24,Ground mount,0,59,0,0,0,String inverter with optimizers,Satellite imagery only,12,15,3,0,0,Loan
+784,Ashcombe Township,May,432,32,5.46,13,Concrete tile,18,5,0,0,0,String inverter with optimizers,In-person,2,7,1,1,0,Loan
+785,Brindle Creek,Apr,111,50,18.04,44,Concrete tile,23,51,0,1,1,Microinverters,In-person,7,14,0,0,0,Loan
+786,Dunfield County,Aug,321,46,15.91,37,Ground mount,0,23,0,1,0,String inverter,In-person,7,11,0,0,0,Loan
+787,Ashcombe Township,May,454,38,7.38,18,Ground mount,0,30,0,1,1,String inverter with optimizers,In-person,8,16,1,0,0,Lease
+788,Fennmoor,Apr,217,23,9.02,22,Asphalt shingle,22,34,0,0,0,String inverter with optimizers,In-person,15,13,1,0,1,Loan
+789,Dunfield County,Dec,456,26,7.14,17,Asphalt shingle,30,39,0,0,1,String inverter,In-person,21,9,0,0,0,Loan
+790,Corvale,Sep,134,76,4.4,11,Asphalt shingle,27,22,0,0,0,String inverter with optimizers,In-person,33,13,2,0,1,Lease
+791,Dunfield County,Jul,640,33,8.17,19,Asphalt shingle,18,94,1,0,1,Microinverters,In-person,6,13,1,0,0,Cash
+792,Brindle Creek,Aug,398,51,4.1,10,Metal,14,25,0,0,0,String inverter with optimizers,In-person,8,9,0,0,0,Lease
+793,Dunfield County,May,230,24,9.89,23,Metal,22,27,0,0,0,String inverter with optimizers,In-person,43,12,0,0,0,Lease
+794,Brindle Creek,Sep,433,57,4.4,11,Asphalt shingle,34,29,0,0,0,Microinverters,Satellite imagery only,15,11,0,1,0,Cash
+795,Corvale,Nov,211,35,5.46,13,Asphalt shingle,34,19,0,0,0,String inverter with optimizers,In-person,12,8,0,0,1,Loan
+796,Dunfield County,Jun,621,31,13.86,33,Ground mount,0,2,0,0,1,Microinverters,In-person,23,13,1,0,0,Loan
+797,Brindle Creek,Jul,367,45,9.03,21,Asphalt shingle,14,32,1,1,0,String inverter,In-person,5,15,1,0,0,Loan
+798,Elmsworth,Apr,47,39,8.17,19,Asphalt shingle,37,2,0,1,1,String inverter,In-person,7,13,0,0,1,Cash
+799,Ashcombe Township,Apr,404,28,6.56,16,Clay tile,27,58,1,0,1,Microinverters,Satellite imagery only,66,13,2,0,0,Cash
+800,Corvale,May,31,46,7.98,19,Asphalt shingle,30,18,0,0,0,Microinverters,In-person,14,12,2,0,1,Loan
+801,Elmsworth,Jul,125,63,6.15,15,Asphalt shingle,26,55,1,0,1,String inverter,Drone,7,14,1,0,1,Lease
+802,Fennmoor,Jul,32,48,5.74,14,Clay tile,30,38,0,0,0,Microinverters,Drone,13,8,1,0,0,Cash
+803,Ashcombe Township,Nov,56,75,6.88,16,Concrete tile,27,10,0,0,0,String inverter with optimizers,In-person,42,8,1,0,1,Cash
+804,Dunfield County,Jun,262,35,12.0,30,Metal,27,39,0,1,0,String inverter with optimizers,In-person,3,13,0,1,1,Cash
+805,Fennmoor,Feb,529,21,10.08,24,Metal,14,20,0,0,0,String inverter with optimizers,Drone,6,10,0,0,1,Loan
+806,Dunfield County,Mar,181,19,7.14,17,Concrete tile,30,18,0,0,0,String inverter,In-person,17,9,0,0,0,Cash
+807,Corvale,Dec,239,28,6.8,17,Asphalt shingle,27,28,0,0,0,Microinverters,Drone,21,10,2,0,1,Lease
+808,Dunfield County,Nov,49,53,11.34,27,Ground mount,0,64,0,0,0,String inverter,Satellite imagery only,23,10,0,1,1,Cash
+809,Fennmoor,Mar,182,18,9.6,24,Asphalt shingle,27,55,0,0,0,String inverter with optimizers,In-person,8,13,1,0,0,Loan
+810,Ashcombe Township,Jan,196,31,6.97,17,Asphalt shingle,26,47,0,0,0,String inverter,Drone,14,8,1,0,0,Loan
+811,Ashcombe Township,Jul,2,41,6.97,17,Asphalt shingle,45,62,1,0,1,String inverter with optimizers,Satellite imagery only,33,16,2,0,0,Cash
+812,Dunfield County,Nov,52,56,14.28,34,Asphalt shingle,34,17,0,0,1,Microinverters,Satellite imagery only,6,14,0,0,0,Loan
+813,Fennmoor,Jun,1,34,7.98,19,Asphalt shingle,40,11,0,0,0,Microinverters,Satellite imagery only,29,11,1,0,0,Loan
+814,Corvale,Sep,126,84,12.8,32,Asphalt shingle,26,19,0,0,0,Microinverters,Satellite imagery only,28,12,1,1,0,Lease
+815,Ashcombe Township,Aug,35,73,9.03,21,Ground mount,0,38,0,0,0,Microinverters,In-person,6,11,3,0,0,Loan
+816,Elmsworth,Oct,258,42,16.8,40,Asphalt shingle,30,110,0,1,1,String inverter,In-person,3,14,1,0,0,Cash
+817,Dunfield County,Aug,685,37,7.14,17,Clay tile,27,41,1,0,0,String inverter,Drone,19,6,0,0,1,Cash
+818,Dunfield County,Sep,343,45,11.34,27,Ground mount,0,40,0,0,0,String inverter,In-person,82,10,1,0,0,Cash
+819,Brindle Creek,Nov,309,36,10.66,26,Ground mount,0,64,0,0,0,String inverter with optimizers,In-person,5,10,0,0,0,Loan
+820,Dunfield County,Sep,706,35,7.98,19,Asphalt shingle,30,13,0,1,0,String inverter,In-person,8,10,0,1,1,Loan
+821,Ashcombe Township,Aug,36,73,5.59,13,Asphalt shingle,45,99,1,0,0,String inverter,Satellite imagery only,72,10,1,0,0,Loan
+822,Ashcombe Township,Feb,345,27,7.98,19,Concrete tile,23,28,0,0,0,Microinverters,In-person,13,10,0,0,1,Loan
+823,Ashcombe Township,Aug,42,76,11.61,27,Ground mount,0,19,0,0,0,String inverter,In-person,60,8,0,0,0,Loan
+824,Corvale,Jul,81,83,10.08,24,Metal,22,78,0,1,1,Microinverters,Drone,13,15,1,0,0,Loan
+825,Corvale,Jul,62,72,8.0,20,Metal,22,14,1,0,0,String inverter,In-person,18,9,0,1,0,Cash
+826,Brindle Creek,Aug,236,53,13.02,31,Asphalt shingle,26,10,0,0,0,Microinverters,Drone,59,10,1,1,0,Loan
+827,Brindle Creek,Nov,306,36,4.92,12,Flat membrane,4,63,1,0,0,Microinverters,In-person,39,12,1,0,0,Loan
+828,Ashcombe Township,Dec,92,74,6.56,16,Asphalt shingle,23,2,0,0,0,Microinverters,Satellite imagery only,144,9,1,1,1,Loan
+829,Brindle Creek,Feb,216,32,8.17,19,Metal,18,35,1,0,0,String inverter with optimizers,In-person,5,11,2,1,0,Cash
+830,Corvale,Oct,176,59,6.45,15,Asphalt shingle,27,33,0,0,0,Microinverters,In-person,9,8,0,1,0,Cash
+831,Corvale,Jun,49,66,6.72,16,Metal,27,70,0,0,0,Microinverters,In-person,40,7,0,0,0,Loan
+832,Ashcombe Township,Jul,3,41,10.08,24,Clay tile,23,102,1,0,0,String inverter with optimizers,In-person,17,9,0,0,0,Lease
+833,Dunfield County,Oct,16,32,8.8,22,Ground mount,0,54,1,0,1,Microinverters,Satellite imagery only,5,15,2,0,0,Cash
+834,Ashcombe Township,Jun,346,61,8.17,19,Asphalt shingle,40,58,0,1,0,Microinverters,Drone,4,10,2,0,0,Lease
+835,Elmsworth,Jul,123,61,10.32,24,Clay tile,26,57,0,0,0,String inverter,In-person,3,13,1,0,1,Lease
+836,Dunfield County,Apr,192,18,5.74,14,Metal,22,16,0,0,0,Microinverters,In-person,24,8,2,0,0,Lease
+837,Ashcombe Township,Oct,106,68,8.0,20,Ground mount,0,18,0,0,0,String inverter,Satellite imagery only,14,8,2,0,0,Loan
+838,Dunfield County,Sep,358,37,9.24,22,Asphalt shingle,23,30,0,1,1,Microinverters,In-person,77,13,1,0,0,Loan
+839,Brindle Creek,Aug,223,54,5.46,13,Asphalt shingle,22,32,1,0,0,String inverter with optimizers,Satellite imagery only,41,9,1,0,0,Loan
+840,Ashcombe Township,Jul,0,41,12.04,28,Asphalt shingle,18,27,0,0,0,Microinverters,Satellite imagery only,48,10,1,1,0,Cash
+841,Brindle Creek,Jul,369,46,11.76,28,Metal,18,29,0,0,0,String inverter,In-person,5,9,0,1,0,Loan
+842,Fennmoor,Mar,567,16,5.74,14,Asphalt shingle,34,26,0,0,0,Microinverters,In-person,9,8,0,0,0,Cash
+843,Brindle Creek,Apr,277,23,8.4,20,Clay tile,22,37,1,0,0,String inverter,Satellite imagery only,83,11,0,1,0,Loan
+844,Elmsworth,Sep,232,35,10.92,26,Ground mount,0,15,0,1,0,String inverter with optimizers,Drone,33,14,0,0,0,Loan
+845,Brindle Creek,Mar,61,42,9.2,23,Metal,18,38,0,1,1,String inverter,In-person,43,14,0,0,1,Cash
+846,Brindle Creek,Sep,264,49,8.61,21,Asphalt shingle,27,16,0,0,0,String inverter with optimizers,Satellite imagery only,9,11,0,0,1,Cash
+847,Corvale,Apr,365,34,9.84,24,Ground mount,0,27,0,0,0,Microinverters,In-person,35,12,0,0,0,Loan
+848,Ashcombe Township,Dec,99,70,7.2,18,Asphalt shingle,34,25,0,1,0,Microinverters,Satellite imagery only,7,13,0,0,1,Loan
+849,Brindle Creek,Mar,69,40,10.08,24,Asphalt shingle,26,14,0,0,0,String inverter with optimizers,Satellite imagery only,38,8,2,0,0,Loan
+850,Corvale,Dec,214,34,6.3,15,Metal,18,46,0,0,0,String inverter with optimizers,Satellite imagery only,38,11,2,1,0,Loan
+851,Elmsworth,Apr,34,32,7.74,18,Asphalt shingle,34,49,0,0,1,String inverter with optimizers,In-person,56,12,0,0,0,Cash
+852,Fennmoor,Jul,36,50,9.46,22,Asphalt shingle,18,16,0,1,1,Microinverters,In-person,32,14,1,0,0,Cash
+853,Fennmoor,May,269,28,3.44,8,Asphalt shingle,18,32,0,0,0,Microinverters,In-person,144,10,0,0,0,Cash
+854,Dunfield County,Dec,426,24,8.2,20,Ground mount,0,19,0,1,0,String inverter with optimizers,In-person,28,15,0,1,0,Cash
+855,Ashcombe Township,Sep,63,78,4.8,12,Asphalt shingle,34,12,0,0,0,String inverter,In-person,137,9,3,0,1,Cash
+856,Brindle Creek,Aug,233,56,5.46,13,Asphalt shingle,27,29,0,1,1,String inverter,In-person,26,12,1,0,0,Loan
+857,Corvale,Mar,345,37,13.6,34,Flat membrane,3,6,0,1,1,String inverter with optimizers,In-person,36,15,2,0,0,Lease
+858,Dunfield County,Aug,332,41,9.66,23,Metal,14,48,0,0,0,String inverter with optimizers,Drone,3,12,2,0,1,Lease
+859,Elmsworth,Sep,225,35,9.46,22,Asphalt shingle,18,10,0,0,0,Microinverters,In-person,10,7,0,1,0,Lease
+860,Dunfield County,Oct,391,32,6.56,16,Asphalt shingle,23,39,0,0,0,String inverter with optimizers,In-person,107,9,2,0,0,Cash
+861,Ashcombe Township,Jul,395,57,15.99,39,Metal,27,12,0,0,0,Microinverters,In-person,50,15,1,0,0,Lease
+862,Elmsworth,May,91,47,5.33,13,Asphalt shingle,22,38,0,1,0,String inverter,Satellite imagery only,14,14,2,0,0,Loan
+863,Brindle Creek,Apr,114,47,13.2,33,Asphalt shingle,23,9,0,0,0,String inverter with optimizers,In-person,18,11,1,0,0,Loan
+864,Brindle Creek,Apr,275,22,8.2,20,Clay tile,26,98,1,0,0,Microinverters,Satellite imagery only,2,11,2,1,1,Lease
+865,Ashcombe Township,Aug,413,43,6.56,16,Concrete tile,30,5,0,1,0,String inverter,In-person,18,7,1,0,1,Loan
+866,Ashcombe Township,Jun,470,40,5.33,13,Asphalt shingle,27,19,0,0,0,String inverter,Satellite imagery only,5,10,1,0,1,Loan
+867,Elmsworth,Nov,11,34,8.0,20,Metal,27,58,0,1,0,String inverter with optimizers,In-person,3,11,0,0,0,Loan
+868,Ashcombe Township,Jan,190,33,8.2,20,Ground mount,0,43,0,0,0,String inverter,In-person,14,13,1,0,0,Loan
+869,Ashcombe Township,Mar,378,24,9.02,22,Asphalt shingle,26,40,0,0,0,String inverter,Satellite imagery only,33,11,1,1,0,Loan
+870,Brindle Creek,Aug,226,57,6.15,15,Clay tile,34,28,1,0,0,String inverter with optimizers,Satellite imagery only,16,10,0,0,0,Cash
+871,Elmsworth,Oct,222,43,12.6,30,Asphalt shingle,22,20,0,0,0,Microinverters,In-person,35,12,1,0,1,Lease
+872,Ashcombe Township,Oct,92,84,9.43,23,Clay tile,22,66,1,0,1,Microinverters,Satellite imagery only,36,14,0,1,1,Loan
+873,Brindle Creek,Dec,351,27,4.73,11,Asphalt shingle,37,32,0,0,0,String inverter,Satellite imagery only,2,9,0,0,0,Lease
+874,Ashcombe Township,Jul,24,68,6.15,15,Asphalt shingle,18,18,0,0,0,String inverter with optimizers,Satellite imagery only,8,10,3,0,0,Loan
+875,Ashcombe Township,Jul,365,59,6.45,15,Asphalt shingle,37,59,0,0,0,Microinverters,Satellite imagery only,8,9,2,0,0,Cash
+876,Fennmoor,May,271,27,10.0,25,Asphalt shingle,30,28,0,1,1,String inverter,In-person,81,13,4,0,0,Lease
+877,Fennmoor,Oct,108,59,5.6,14,Flat membrane,1,18,0,0,1,String inverter,In-person,5,10,2,0,0,Loan
+878,Ashcombe Township,Mar,247,27,6.56,16,Asphalt shingle,22,24,0,1,0,String inverter with optimizers,In-person,9,10,1,0,0,Loan
+879,Brindle Creek,Oct,480,43,7.2,18,Asphalt shingle,40,110,1,0,1,Microinverters,Drone,13,8,2,0,1,Loan
+880,Corvale,May,16,36,8.6,20,Asphalt shingle,34,51,0,0,0,String inverter,Satellite imagery only,103,10,1,1,0,Loan
+881,Elmsworth,Oct,223,43,10.66,26,Ground mount,0,49,1,1,0,String inverter,Drone,10,11,1,0,1,Loan
+882,Fennmoor,Sep,383,36,9.66,23,Metal,22,22,0,1,0,String inverter with optimizers,In-person,27,15,2,0,1,Cash
+883,Ashcombe Township,Mar,376,24,7.2,18,Asphalt shingle,37,18,0,0,0,String inverter,In-person,2,9,1,0,0,Lease
+884,Ashcombe Township,Dec,101,70,14.76,36,Metal,18,31,0,0,0,String inverter with optimizers,In-person,54,10,0,0,0,Cash
+885,Brindle Creek,Nov,309,36,6.56,16,Asphalt shingle,30,28,0,0,0,String inverter with optimizers,Drone,25,9,2,0,0,Cash
+886,Brindle Creek,Nov,320,32,5.33,13,Asphalt shingle,34,30,0,0,0,String inverter with optimizers,Satellite imagery only,33,9,0,0,0,Lease
+887,Dunfield County,Aug,331,43,6.0,15,Asphalt shingle,22,22,0,1,1,String inverter with optimizers,Satellite imagery only,139,12,1,1,0,Cash
+888,Dunfield County,Apr,195,19,10.92,26,Asphalt shingle,30,47,0,0,1,Microinverters,Satellite imagery only,10,10,1,0,0,Loan
+889,Ashcombe Township,Nov,149,42,12.04,28,Flat membrane,4,50,1,0,1,Microinverters,In-person,73,12,1,1,0,Loan
+890,Corvale,Apr,2,39,18.04,44,Asphalt shingle,18,38,0,0,1,Microinverters,Drone,25,14,1,0,1,Loan
+891,Brindle Creek,Jun,156,53,11.2,28,Ground mount,0,74,0,0,0,Microinverters,Satellite imagery only,20,9,0,1,0,Lease
+892,Dunfield County,Jul,648,37,10.08,24,Asphalt shingle,22,16,1,0,1,Microinverters,In-person,14,15,0,0,0,Lease
+893,Elmsworth,Aug,178,45,8.2,20,Asphalt shingle,22,67,1,0,0,String inverter,In-person,29,12,1,1,1,Loan
+894,Ashcombe Township,Dec,91,75,5.2,13,Asphalt shingle,18,60,0,0,0,Microinverters,In-person,2,9,0,0,1,Cash
+895,Ashcombe Township,Mar,379,24,12.18,29,Asphalt shingle,26,98,0,0,1,String inverter,In-person,20,13,0,0,0,Loan
+896,Dunfield County,Sep,335,42,9.43,23,Metal,18,13,0,0,0,String inverter,In-person,35,8,1,0,0,Cash
+897,Corvale,Jul,68,74,8.82,21,Flat membrane,3,40,0,0,0,String inverter,Drone,54,10,2,0,0,Loan
+898,Elmsworth,Jan,351,24,6.45,15,Asphalt shingle,27,43,1,1,0,String inverter,In-person,3,13,2,0,0,Loan
+899,Ashcombe Township,Aug,32,72,8.4,20,Clay tile,18,33,0,1,0,String inverter,Satellite imagery only,83,11,2,0,1,Loan
+900,Ashcombe Township,Feb,231,27,7.98,19,Asphalt shingle,26,19,1,0,0,String inverter with optimizers,Drone,144,11,1,0,1,Loan
+901,Corvale,Oct,159,63,7.98,19,Concrete tile,22,61,1,1,0,String inverter with optimizers,In-person,9,14,2,0,1,Lease
+902,Elmsworth,Dec,31,35,10.75,25,Clay tile,27,36,0,1,0,Microinverters,Satellite imagery only,144,11,1,0,0,Lease
+903,Corvale,Feb,312,42,5.88,14,Clay tile,22,97,1,0,0,String inverter with optimizers,In-person,30,12,1,0,1,Cash
+904,Brindle Creek,Dec,524,29,8.61,21,Asphalt shingle,18,36,1,0,0,Microinverters,Satellite imagery only,5,10,0,1,0,Cash
+905,Ashcombe Township,Jun,338,62,14.28,34,Ground mount,0,44,0,0,0,Microinverters,In-person,9,12,2,0,0,Loan
+906,Brindle Creek,Apr,104,53,10.25,25,Asphalt shingle,40,6,0,1,1,Microinverters,In-person,26,16,0,1,0,Loan
+907,Dunfield County,May,237,28,6.45,15,Asphalt shingle,45,27,1,1,0,Microinverters,In-person,8,10,2,0,0,Loan
+908,Elmsworth,Nov,18,32,12.3,30,Asphalt shingle,40,77,0,0,0,Microinverters,Drone,13,11,1,0,0,Loan
+909,Corvale,Jun,55,71,9.6,24,Metal,22,4,0,0,0,Microinverters,In-person,12,9,1,0,0,Loan
+910,Brindle Creek,Apr,277,23,11.07,27,Concrete tile,22,6,0,0,0,Microinverters,In-person,6,12,0,0,0,Cash
+911,Dunfield County,Jan,486,34,5.74,14,Asphalt shingle,26,32,0,0,0,String inverter with optimizers,Drone,8,7,1,0,1,Loan
+912,Fennmoor,Sep,85,63,14.76,36,Asphalt shingle,22,6,0,0,1,Microinverters,In-person,18,12,2,1,1,Loan
+913,Ashcombe Township,Dec,107,65,8.8,22,Ground mount,0,19,0,0,0,String inverter with optimizers,Drone,4,13,1,0,0,Lease
+914,Dunfield County,Jan,482,37,4.1,10,Asphalt shingle,27,7,0,0,0,Microinverters,Drone,43,12,1,0,0,Loan
+915,Brindle Creek,May,128,50,9.24,22,Asphalt shingle,26,14,0,0,0,String inverter,In-person,13,10,3,0,0,Cash
+916,Dunfield County,Aug,696,36,13.44,32,Asphalt shingle,26,11,0,0,0,String inverter with optimizers,Satellite imagery only,46,12,1,0,1,Loan
+917,Brindle Creek,Jan,205,30,5.74,14,Asphalt shingle,26,24,0,0,0,Microinverters,In-person,30,10,0,0,1,Cash
+918,Ashcombe Township,Jun,470,40,10.8,27,Ground mount,0,12,0,0,1,String inverter with optimizers,In-person,17,14,0,0,0,Loan
+919,Brindle Creek,Nov,499,35,4.2,10,Concrete tile,26,65,0,0,0,Microinverters,In-person,45,11,1,0,1,Loan
+920,Corvale,May,24,40,10.4,26,Asphalt shingle,22,43,0,0,0,String inverter,In-person,18,11,0,0,1,Loan
+921,Elmsworth,Jul,162,31,6.97,17,Clay tile,23,62,0,0,0,Microinverters,In-person,28,12,3,0,0,Lease
+922,Brindle Creek,Apr,113,48,4.2,10,Flat membrane,3,31,0,0,0,String inverter with optimizers,In-person,27,8,0,0,1,Loan
+923,Fennmoor,Apr,588,21,10.08,24,Ground mount,0,16,0,0,0,String inverter,Satellite imagery only,12,13,0,1,1,Cash
+924,Fennmoor,Dec,474,22,6.8,17,Metal,22,52,1,1,0,String inverter,Drone,40,14,3,0,1,Lease
+925,Ashcombe Township,Jun,359,62,8.82,21,Metal,22,15,0,0,0,String inverter with optimizers,In-person,99,9,0,0,1,Loan
+926,Dunfield County,Apr,189,19,6.0,15,Asphalt shingle,40,33,0,0,0,Microinverters,In-person,79,8,0,0,0,Loan
+927,Dunfield County,Jul,653,40,9.66,23,Asphalt shingle,26,41,1,0,0,Microinverters,In-person,107,10,0,0,0,Cash
+928,Ashcombe Township,Nov,49,69,9.02,22,Asphalt shingle,27,26,0,1,0,Microinverters,In-person,9,15,0,0,0,Loan
+929,Ashcombe Township,Jun,359,62,8.2,20,Concrete tile,22,36,0,0,1,String inverter,In-person,37,14,0,0,0,Cash
+930,Ashcombe Township,Aug,46,77,13.02,31,Concrete tile,27,16,0,0,0,Microinverters,In-person,2,12,1,1,1,Loan
+931,Corvale,Jul,88,79,7.56,18,Asphalt shingle,23,18,0,0,0,String inverter with optimizers,In-person,82,11,1,0,0,Loan
+932,Dunfield County,Nov,416,28,8.61,21,Ground mount,0,28,0,1,0,String inverter with optimizers,In-person,32,13,0,0,0,Loan
+933,Ashcombe Township,Apr,415,31,10.32,24,Asphalt shingle,30,8,0,0,0,Microinverters,Drone,29,8,2,0,1,Cash
+934,Brindle Creek,Aug,398,51,5.46,13,Clay tile,26,31,0,0,0,String inverter,Drone,28,9,2,0,1,Lease
+935,Elmsworth,Jul,160,31,10.0,25,Asphalt shingle,23,23,1,1,0,Microinverters,In-person,44,13,0,0,0,Loan
+936,Ashcombe Township,May,316,45,9.6,24,Concrete tile,22,90,1,0,0,String inverter with optimizers,Drone,58,11,1,1,0,Loan
+937,Elmsworth,Apr,55,40,10.8,27,Asphalt shingle,30,3,0,1,0,Microinverters,Satellite imagery only,5,13,1,0,1,Loan
+938,Fennmoor,Jun,644,34,9.84,24,Metal,10,11,0,0,0,Microinverters,In-person,34,9,0,0,0,Lease
+939,Dunfield County,Apr,204,25,6.97,17,Asphalt shingle,30,6,0,0,0,Microinverters,Satellite imagery only,22,8,0,0,1,Lease
+940,Brindle Creek,Jul,374,46,11.76,28,Metal,14,5,0,0,0,String inverter,In-person,17,9,1,0,0,Loan
+941,Ashcombe Township,Jun,470,40,8.8,22,Flat membrane,4,78,0,1,0,String inverter,Drone,8,10,0,0,1,Loan
+942,Ashcombe Township,Apr,275,28,8.6,20,Metal,34,23,0,1,0,String inverter,In-person,48,10,1,0,1,Cash
+943,Dunfield County,Jul,648,37,10.08,24,Asphalt shingle,23,35,1,1,0,String inverter,In-person,27,15,1,0,1,Cash
+944,Fennmoor,Oct,128,52,6.97,17,Asphalt shingle,27,12,0,1,0,Microinverters,Drone,3,8,1,0,1,Loan
+945,Dunfield County,Oct,0,37,9.02,22,Asphalt shingle,22,57,1,1,1,Microinverters,In-person,14,16,0,0,0,Cash
+946,Corvale,May,14,33,8.4,20,Asphalt shingle,26,47,0,1,0,Microinverters,In-person,9,14,2,0,1,Cash
+947,Dunfield County,Feb,127,36,6.15,15,Concrete tile,18,6,0,1,0,Microinverters,Drone,136,9,0,0,0,Cash
+948,Ashcombe Township,Sep,428,44,8.4,21,Metal,27,14,0,1,0,Microinverters,In-person,11,14,4,0,0,Cash
+949,Dunfield County,Feb,149,21,9.84,24,Ground mount,0,39,0,0,0,String inverter with optimizers,In-person,25,13,2,0,1,Loan
+950,Brindle Creek,Dec,357,25,6.15,15,Concrete tile,22,54,0,0,0,String inverter with optimizers,In-person,63,6,1,0,1,Loan
+951,Elmsworth,Jul,153,30,6.3,15,Flat membrane,2,36,0,0,0,Microinverters,In-person,91,10,3,0,0,Cash
+952,Dunfield County,Feb,142,24,10.08,24,Asphalt shingle,27,18,0,0,0,String inverter,In-person,25,10,0,0,1,Loan
+953,Ashcombe Township,Sep,70,89,9.6,24,Flat membrane,4,21,0,1,1,String inverter with optimizers,Satellite imagery only,52,12,0,0,1,Cash
+954,Ashcombe Township,Aug,420,48,11.6,29,Asphalt shingle,22,25,0,1,0,String inverter,Satellite imagery only,9,17,0,0,1,Loan
+955,Fennmoor,Dec,179,24,5.04,12,Asphalt shingle,27,13,0,0,1,Microinverters,In-person,47,12,1,0,0,Lease
+956,Brindle Creek,Oct,460,55,10.25,25,Ground mount,0,27,0,0,0,String inverter with optimizers,Satellite imagery only,19,11,1,0,0,Loan
+957,Brindle Creek,Sep,429,56,7.79,19,Clay tile,18,91,0,1,1,Microinverters,Satellite imagery only,26,13,2,0,1,Loan
+958,Dunfield County,Oct,378,30,13.12,32,Asphalt shingle,18,30,0,1,1,String inverter,Drone,38,14,2,0,0,Cash
+959,Elmsworth,Jul,176,30,9.84,24,Metal,18,39,0,1,1,Microinverters,In-person,9,16,3,1,0,Loan
+960,Brindle Creek,Feb,55,42,8.4,20,Clay tile,23,43,0,0,0,String inverter,In-person,33,9,2,0,0,Lease
+961,Corvale,Oct,166,57,6.88,16,Concrete tile,30,110,1,1,1,Microinverters,In-person,7,15,0,1,0,Loan
+962,Ashcombe Township,Dec,85,74,5.33,13,Asphalt shingle,18,22,0,0,0,Microinverters,Drone,51,9,0,0,0,Loan
+963,Elmsworth,Mar,23,25,10.75,25,Clay tile,30,80,1,0,0,Microinverters,Satellite imagery only,38,10,1,0,0,Loan
+964,Elmsworth,Nov,12,34,7.31,17,Concrete tile,27,19,0,0,1,String inverter with optimizers,Satellite imagery only,16,9,0,0,0,Lease
+965,Elmsworth,May,104,51,7.2,18,Metal,22,29,0,0,0,String inverter,In-person,32,9,1,0,0,Cash
+966,Corvale,Feb,397,30,7.14,17,Concrete tile,22,74,1,0,1,Microinverters,In-person,34,13,2,0,0,Loan
+967,Corvale,Jun,53,69,13.94,34,Ground mount,0,19,0,0,0,String inverter,In-person,31,13,2,1,0,Loan
+968,Ashcombe Township,Feb,221,29,9.89,23,Ground mount,0,37,0,0,0,Microinverters,In-person,45,10,0,0,0,Cash
+969,Ashcombe Township,Jan,213,30,6.97,17,Metal,27,22,1,0,0,String inverter with optimizers,In-person,86,10,0,0,0,Cash
+970,Corvale,Jan,373,26,16.0,40,Ground mount,0,22,0,0,0,Microinverters,Drone,7,12,1,0,0,Cash
+971,Fennmoor,Oct,123,52,12.3,30,Flat membrane,5,51,0,0,0,Microinverters,Drone,16,13,1,0,0,Loan
+972,Fennmoor,Oct,135,50,7.2,18,Asphalt shingle,27,52,0,0,1,Microinverters,Drone,20,14,1,0,0,Loan
+973,Corvale,Jan,274,46,9.43,23,Asphalt shingle,22,33,0,0,0,String inverter with optimizers,In-person,12,8,0,0,0,Cash
+974,Dunfield County,Aug,328,43,6.97,17,Asphalt shingle,18,68,1,0,0,Microinverters,Drone,8,14,0,0,1,Lease
+975,Ashcombe Township,Jan,330,23,5.6,14,Asphalt shingle,22,7,0,0,0,Microinverters,Satellite imagery only,19,13,1,0,0,Loan
+976,Ashcombe Township,Apr,287,36,5.6,14,Concrete tile,18,18,0,0,0,String inverter with optimizers,Satellite imagery only,50,7,2,0,1,Lease
+977,Dunfield County,Nov,37,40,11.89,29,Ground mount,0,28,0,1,0,String inverter with optimizers,In-person,36,16,2,0,0,Loan
+978,Dunfield County,Nov,402,31,18.48,44,Flat membrane,4,39,0,0,0,String inverter with optimizers,Satellite imagery only,84,12,1,1,0,Loan
+979,Brindle Creek,May,149,49,8.4,20,Asphalt shingle,18,24,0,0,1,String inverter,Satellite imagery only,48,13,1,0,1,Cash
+980,Dunfield County,Jul,660,39,6.72,16,Asphalt shingle,22,20,0,0,0,String inverter,In-person,5,10,1,0,0,Loan
+981,Elmsworth,Mar,42,39,6.3,15,Concrete tile,27,45,1,0,0,Microinverters,Drone,32,8,1,0,1,Loan
+982,Ashcombe Township,May,325,51,8.0,20,Metal,27,40,0,0,0,String inverter,Drone,5,6,1,0,0,Loan
+983,Dunfield County,Feb,146,22,14.4,36,Asphalt shingle,18,90,1,0,1,Microinverters,Satellite imagery only,3,14,1,0,0,Lease
+984,Dunfield County,Oct,14,29,8.2,20,Concrete tile,34,32,0,0,1,Microinverters,In-person,25,9,1,0,0,Lease
+985,Fennmoor,Nov,451,25,15.54,37,Clay tile,26,77,1,0,1,Microinverters,Satellite imagery only,104,14,0,0,0,Cash
+986,Ashcombe Township,Sep,431,42,9.46,22,Clay tile,23,40,1,0,0,Microinverters,In-person,10,12,1,0,0,Loan
+987,Brindle Creek,Apr,99,51,10.32,24,Asphalt shingle,27,57,0,1,1,Microinverters,In-person,30,14,2,1,1,Lease
+988,Corvale,Apr,365,34,7.2,18,Ground mount,0,24,0,0,0,String inverter with optimizers,In-person,80,11,1,1,1,Loan
+989,Fennmoor,Jun,283,34,5.2,13,Concrete tile,18,58,0,0,0,String inverter with optimizers,In-person,30,10,0,0,0,Loan
+990,Fennmoor,Jul,32,48,13.12,32,Asphalt shingle,18,60,0,0,1,String inverter,Satellite imagery only,30,11,1,0,0,Loan
+991,Ashcombe Township,Nov,57,74,7.31,17,Concrete tile,34,44,1,0,1,String inverter,In-person,20,11,0,0,1,Lease
+992,Ashcombe Township,Jan,212,29,6.4,16,Asphalt shingle,34,37,0,0,0,String inverter,Satellite imagery only,17,10,0,0,0,Cash
+993,Dunfield County,Mar,167,17,10.8,27,Metal,22,39,0,1,0,String inverter with optimizers,Satellite imagery only,7,15,3,1,0,Loan
+994,Corvale,Dec,233,44,8.4,21,Clay tile,26,41,1,0,0,String inverter,In-person,7,11,2,0,0,Loan
+995,Brindle Creek,Apr,277,23,10.4,26,Asphalt shingle,26,87,1,0,1,Microinverters,In-person,9,14,4,0,0,Loan
+996,Ashcombe Township,Dec,77,74,12.4,31,Asphalt shingle,18,20,1,1,0,String inverter,In-person,16,15,1,0,0,Loan
+997,Ashcombe Township,Dec,98,72,11.89,29,Asphalt shingle,18,9,0,0,0,String inverter with optimizers,In-person,19,11,1,0,1,Lease
+998,Corvale,Oct,179,57,7.2,18,Ground mount,0,5,0,0,0,Microinverters,Drone,14,8,0,1,0,Loan
+999,Corvale,Jul,86,88,11.76,28,Asphalt shingle,40,26,0,1,1,String inverter with optimizers,In-person,86,15,1,1,0,Cash

@@ -3,22 +3,28 @@
 Validate a final project holdout predictions submission.
 
 Usage:
-    python validate_submission.py path/to/LastName_FirstName_holdout_predictions.csv SCENARIO_NUM
+    python validate_submission.py TeamNN_holdout_predictions.csv SCENARIO_NUM [HOLDOUT_FEATURES_CSV]
 
-Example:
-    python validate_submission.py Smith_Jane_holdout_predictions.csv 06
-    python validate_submission.py TeamName_holdout_predictions.csv 25
+Example (Team 07, scenario 04):
+    python validate_submission.py Team07_holdout_predictions.csv 04
 
-The scenario number is required — it determines which submission format is expected:
-    - Binary scenarios (01-20, 29):     id, predicted_probability
-    - Multi-class scenarios (21, 22,
-      24, 25, 26, 28):                   id, predicted_class, prob_<class1>, prob_<class2>, ...
-    - Regression scenarios (23, 27, 30): id, predicted_value
+In Colab, upload this file and your scenario's holdout_features.csv, then run:
+    !python validate_submission.py Team07_holdout_predictions.csv 04
+
+The file should be named TeamNN_holdout_predictions.csv, where NN is your team's two-digit
+number on Canvas. Scenarios 01-15 are binary: the file has two columns, id and
+predicted_probability. (The multi-class and regression formats below are kept for scenarios
+21-30, which are not offered this term.)
+
+holdout_features.csv is looked for, in this order: the path given as the third argument; the
+current folder; the folder that holds your predictions file; the scenario's folder under
+cases/ next to this script. When it is found, the row count and every id are checked against it.
 
 Exit codes:
     0 = submission passes all checks
     1 = one or more checks failed
 """
+import re
 import sys
 import os
 from pathlib import Path
@@ -58,17 +64,29 @@ def load_csv(path):
         sys.exit(1)
 
 
-def expected_rows(scenario_num):
-    cases_dir = Path(__file__).parent.parent / 'cases'
-    matching = [d for d in cases_dir.iterdir()
-                if d.is_dir() and d.name.startswith(f"{scenario_num:02d}-")]
-    if not matching:
-        return None
-    holdout_path = matching[0] / 'holdout_features.csv'
-    if not holdout_path.exists():
-        return None
+TEAM_FILENAME = re.compile(r"^Team\d{2}_holdout_predictions\.csv$")
+
+
+def find_holdout(scenario_num, predictions_path, given=None):
+    """Where holdout_features.csv is: the given path, the current folder, the predictions
+    file's folder, or the scenario's folder under cases/ beside this script."""
+    candidates = []
+    if given:
+        candidates.append(Path(given))
+    candidates.append(Path('holdout_features.csv'))
+    candidates.append(Path(predictions_path).resolve().parent / 'holdout_features.csv')
+    cases_dir = Path(__file__).resolve().parent.parent / 'cases'
+    if cases_dir.is_dir():
+        candidates += [d / 'holdout_features.csv' for d in sorted(cases_dir.iterdir())
+                       if d.is_dir() and d.name.startswith(f"{scenario_num:02d}-")]
+    return next((c for c in candidates if c.is_file()), None)
+
+
+def holdout_ids(holdout_path):
+    """The id column of holdout_features.csv, or None if it cannot be read."""
     try:
-        return sum(1 for _ in open(holdout_path)) - 1
+        import pandas as pd
+        return pd.read_csv(holdout_path, usecols=['id'])['id']
     except Exception:
         return None
 
@@ -206,16 +224,19 @@ def validate_regression(df, scenario_num):
     return issues
 
 
-def validate(path, scenario_num):
+def validate(path, scenario_num, holdout_path=None):
     if not os.path.isfile(path):
         error(f"File not found: {path}")
         return 1
     ok(f"File exists: {path}")
     filename = os.path.basename(path)
-    if not filename.endswith('_holdout_predictions.csv'):
-        warn(f"Filename should end with '_holdout_predictions.csv' (got: {filename})")
-    else:
+    if TEAM_FILENAME.match(filename):
         ok(f"Filename format: {filename}")
+    elif filename.endswith('_holdout_predictions.csv'):
+        warn(f"Filename should be TeamNN_holdout_predictions.csv, with your team's two-digit number "
+             f"(e.g. Team07_holdout_predictions.csv); got: {filename}")
+    else:
+        warn(f"Filename should be TeamNN_holdout_predictions.csv (got: {filename})")
     df = load_csv(path)
     ok(f"File readable as CSV ({len(df)} rows, {len(df.columns)} columns)")
 
@@ -233,14 +254,27 @@ def validate(path, scenario_num):
         return 1
     info(f"Validated as {mode} submission (scenario {scenario_num:02d})")
 
-    expected = expected_rows(scenario_num)
-    if expected is None:
-        warn(f"Could not locate holdout_features.csv for scenario {scenario_num:02d} — skipping row-count check")
-    elif len(df) == expected:
-        ok(f"Row count matches holdout_features.csv ({expected} rows)")
+    found = find_holdout(scenario_num, path, holdout_path)
+    ids = holdout_ids(found) if found else None
+    if ids is None:
+        warn(f"Could not find or read holdout_features.csv for scenario {scenario_num:02d} — skipping the "
+             "row-count and id checks. Put it in the current folder, or give its path as a third argument.")
     else:
-        error(f"Row count mismatch: submission has {len(df)} rows, holdout_features.csv has {expected} rows")
-        issues += 1
+        expected = len(ids)
+        if len(df) == expected:
+            ok(f"Row count matches holdout_features.csv ({expected} rows)")
+        else:
+            error(f"Row count mismatch: submission has {len(df)} rows, holdout_features.csv has {expected} rows")
+            issues += 1
+        if 'id' in df.columns:
+            missing_ids = set(ids) - set(df['id'])
+            unknown_ids = set(df['id']) - set(ids)
+            if missing_ids or unknown_ids:
+                error(f"ids do not match holdout_features.csv: {len(missing_ids)} of its ids are missing, "
+                      f"{len(unknown_ids)} ids are not in it. Take the id column from holdout_features.csv.")
+                issues += 1
+            else:
+                ok("Every id matches holdout_features.csv")
 
     print()
     if issues == 0:
@@ -255,7 +289,8 @@ def main():
         print(__doc__)
         return 0
     if len(sys.argv) < 3:
-        error("Scenario number is required. Usage: python validate_submission.py FILE.csv SCENARIO_NUM")
+        error("Scenario number is required. Usage: python validate_submission.py "
+              "TeamNN_holdout_predictions.csv SCENARIO_NUM [HOLDOUT_FEATURES_CSV]")
         return 1
     path = sys.argv[1]
     try:
@@ -263,7 +298,8 @@ def main():
     except ValueError:
         error(f"Scenario number must be an integer (got: {sys.argv[2]})")
         return 1
-    return validate(path, scenario_num)
+    holdout_path = sys.argv[3] if len(sys.argv) > 3 else None
+    return validate(path, scenario_num, holdout_path)
 
 
 if __name__ == '__main__':
