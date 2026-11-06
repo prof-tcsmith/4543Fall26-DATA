@@ -37,7 +37,7 @@ data/
 final-project/
 ├── cases/    15 binary-classification scenarios (01–15)
 │   └── NN-name/  scenario.md, train.csv, test.csv, holdout_features.csv
-└── templates/    example responses, the executive-summary template, validate_submission.py
+└── templates/    validate_submission.py
 ```
 
 Folder numbers are **Fall 2026 week numbers**, with one exception: `week07/` holds the
@@ -103,7 +103,7 @@ files were added the same day.
 **A second exception, also made before the final project opened (2026-11-03):** the 20
 Spring scenarios in `final-project/cases/` were replaced by the 15 now there, numbered 01 to 15
 (eight common textbook exercises dropped, the rest reworked, four new), and the worked exemplar was
-withdrawn. No student work used the earlier files.
+withdrawn, with the example responses and the executive-summary template. No student work used the earlier files.
 
 ## Provenance
 
